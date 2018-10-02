@@ -1,0 +1,108 @@
+﻿l_english:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "コア"
+ # Front sections have a flavor-name followed by the key-word "ブレイカー"
+ # Rear sections have a flavor-name followed by the key-word "ブルワーク"
+ #
+ ####################################
+ ####################################
+ # Titan
+ ####################################
+ TITAN_BOW:0 "タイタン・ボウ"
+ TITAN_MID:0 "タイタン・コア"
+ TITAN_STERN:1 "タイタン・スタン"
+ ####################################
+ # Battleship
+ ####################################
+ BATTLESHIP_BOW_L1M1S2:1 "ブロードサイド・ボウ"
+ BATTLESHIP_BOW_L1S4:1 "タイタン・ブレイカー"
+ BATTLESHIP_BOW_L2:1 "アーティラリ・ボウ"
+ BATTLESHIP_BOW_M1S2SHB:1 "ハンガー・ボウ"
+ BATTLESHIP_BOW_M2S4:1 "スピナル・マウント・ボウ"
+ BATTLESHIP_BOW_M3S2:1 "ソウル・ブレイカー"
+ BATTLESHIP_MID_L2S4:1 "ノヴァ・コア"
+ BATTLESHIP_MID_L1M4:1 "ストームブリンガー・コア"
+ BATTLESHIP_MID_L2M2:1 "ブロードサイド・コア"
+ BATTLESHIP_MID_L3:1 "アーティラリ・コア"
+ BATTLESHIP_MID_M4SHB:1 "ハンガー・コア"
+ BATTLESHIP_MID_S4LHB:1 "キャリアー・コア"
+ BATTLESHIP_STERN_M1S2:1 "イーオン・ブルワーク"
+ BATTLESHIP_STERN_L1:1 "アーティラリ・スタン"
+ BATTLESHIP_STERN_M2:1 "ブロードサイド・スタン"
+ BATTLESHIP_STERN_S4:1 "ゼニス・ブルワーク"
+ ####################################
+ # Colonizer
+ ####################################
+ COLONIZER_MID_M1S1:1 "コロニー・シップ"
+ COLONIZER_MID_S3:0 "シード・コア"
+ COLONIZER_MID_MU1:0 "ガイア・コア"
+ ####################################
+ # Constructor
+ ####################################
+ CONSTRUCTOR_MID_M1S1:1 "コンストラクション・シップ"
+ CONSTRUCTOR_MID_S3:0 "デベロッパー・コア"
+ CONSTRUCTOR_MID_MU1:0 "フューザ・コア"
+ ####################################
+ # Corvette
+ ####################################
+ CORVETTE_MID_M1S1:2 "ミサイルボート"
+ CORVETTE_MID_S3:1 "インターセプター"
+ CORVETTE_MID_S1:1 "シフター・コア"
+ CORVETTE_MID_S2PD1:0 "ピケットシップ"
+ ####################################
+ # Cruiser
+ ####################################
+ CRUISER_BOW_L1:1 "アーティラリ・ボウ"
+ CRUISER_BOW_M1S2:2 "ミサイル・ボウ"
+ CRUISER_BOW_M2:1 "ブロードサイド・ボウ"
+ CRUISER_MID_S2HB:1 "ハンガー・コア"
+ CRUISER_MID_L1M1:1 "アーティラリ・コア"
+ CRUISER_MID_M3:1 "ブロードサイド・コア"
+ CRUISER_MID_M2S2:2 "ミサイル・コア"
+ CRUISER_STERN_M1:1 "ブロードサイド・スタン"
+ CRUISER_STERN_S2:1 "ガンシップ・スタン"
+ ####################################
+ # Destroyer
+ ####################################
+ DESTROYER_BOW_M1S2:1 "ガンシップ・ボウ"
+ DESTROYER_BOW_S3:1 "ピケット・シップ・ボウ"
+ DESTROYER_BOW_L1:1 "アーティラリ・ボウ"
+ DESTROYER_STERN_PD2:0 "ピケット・シップ・スタン"
+ DESTROYER_STERN_S2:0 "インターセプター・シップ・スタン"
+ DESTROYER_STERN_M1:1 "ガンシップ・スタン"
+ ####################################
+ # Science
+ ####################################
+ SCIENCE_MID_M1S1:1 "サイエンス・シップ"
+ SCIENCE_MID_S3:0 "トレールブレザー・コア"
+ SCIENCE_MID_MU1:0 "インサイト・コア"
+ ####################################
+ # Science
+ ####################################
+ LIGHT_MILITARY_STATION_SECTION:0 "小型ステーションセクション"
+ PD_MILITARY_STATION_SECTION:0 "ポイントディフェンスステーションセクション"
+ MEDIUM_MILITARY_STATION_SECTION:0 "中型ステーションセクション"
+ MISSILE_MILITARY_STATION_SECTION:0 "ミサイルステーションセクション"
+ HEAVY_MILITARY_STATION_SECTION:0 "大型ステーションセクション"
+ HANGAR_MILITARY_STATION_SECTION:0 "ステーション用ハンガーセクション"
+ LIGHT_LARGE_MILITARY_STATION_SECTION:0 "小型ステーションセクション"
+ MEDIUM_LARGE_MILITARY_STATION_SECTION:0 "中型ステーションセクション"
+ HEAVY_LARGE_MILITARY_STATION_SECTION:0 "大型ステーションセクション"
+ HANGAR_LARGE_MILITARY_STATION_SECTION:0 "ステーション用ハンガーセクション"
+ OUTPOST_STATION_SECTION:0 "フロンティアアウトポスト・コア"
+ ####################################
+ # Other
+ ####################################
+ MISSILE_DEFAULT:0 "ミサイルセクション"
+ DEFAULT_CONSTRUCTION_SECTION:1 "コンストラクション・シップ"
+ DEFAULT_COLONIZATION_SECTION:1 "コロニー・シップ"
+ DEFAULT_SCIENCESHIP_SECTION:1 "サイエンス・シップ"
+ DEFAULT_ORBITAL_STATION_SECTION:0 "軌道ステーション・フレーム"
+ DEFAULT_MINING_STATION_SECTION:0 "採掘ステーション・フレーム"
+ DEFAULT_RESEARCH_STATION_SECTION:0 "研究ステーション・フレーム"
+ DEFAULT_WORMHOLE_STATION_SECTION:0 "ワームホールステーション・フレーム"
+ DEFAULT_MILITARY_STATION_SECTION:0 "基本軍事プラットフォーム"
+ DEFAULT_TRANSPORT_SECTION:1 "トランスポート・シップ"
+ SHIP_COLOSSUS_SECTION:0 "コロッサス"

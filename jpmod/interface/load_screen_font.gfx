@@ -1,0 +1,10 @@
+bitmapfonts = {
+	
+	bitmapfont = {
+		name = "load_screen"
+		ttf_font = "Chinese_header"
+       ttf_size = "20"
+		vertical_offset  = "1"
+		color = 0xffffffff
+	}
+}

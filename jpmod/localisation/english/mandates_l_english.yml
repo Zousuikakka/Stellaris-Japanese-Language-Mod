@@ -1,0 +1,105 @@
+﻿l_english:
+
+ ####################################
+ # COMMON STRINGS
+ ####################################
+ mandate_unity_reward:0 "£unity  §G(50 - 1000)§!"
+ ####################################
+ # MANDATES
+ ####################################
+ MANDATE_mandate_planet_separatist:0 "分離独立主義者"
+ MANDATE_mandate_planet_separatist_DESC:1 "[Root.GetPopFactionName] を解放し、 帝国として独立させよ。 \n\n報酬：\n$mandate_influence_reward_t3$"
+ MANDATE_mandate_emancipation:0 "偉大なる奴隷解放者"
+ MANDATE_mandate_emancipation_DESC:1 " [Root.Owner.GetName]から奴隷制をなくせ。 \n\n報酬：\n$mandate_influence_reward_t3$\n$mandate_happiness_reward_t1$"
+ MANDATE_mandate_emancipation2:0 "人気取りの奴隷解放者"
+ MANDATE_mandate_emancipation2_DESC:1 "少なくとも1つの[Root.Owner.GetSpeciesAdj]の惑星で、 すべての奴隷に自由を与えよ。 \n\n報酬：\n$mandate_influence_reward_t3$\n$mandate_happiness_reward_t1$"
+ MANDATE_mandate_orbital_researcher:0 "軌道研究者"
+ MANDATE_mandate_orbital_researcher_DESC:1 "[Root.Owner.GetName]の研究力を強化するため、 新規の軌道研究ステーションを4つ以上建造せよ。 \n\n報酬：\n$mandate_influence_reward_t5$。 "
+ MANDATE_mandate_miner:0 "惑星外採鉱者"
+ MANDATE_mandate_miner_DESC:1 "[Root.Owner.GetName]の鉱物備蓄を増やすため、 新規の軌道採掘ステーションを4つ以上建造せよ。 \n\n報酬：\n$mandate_influence_reward_t5$。 "
+ MANDATE_mandate_shipwright:0 "造船工"
+ MANDATE_mandate_shipwright_DESC:2 "統治期間終了までに、 宇宙軍許容量の75%以上の艦隊を維持して、  [Root.Owner.GetSpeciesAdj]の人々の安全を確保せよ。 \n\n報酬：\n$mandate_influence_reward_t5$。 "
+ MANDATE_mandate_peacemaker:0 "平和実現者"
+ MANDATE_mandate_peacemaker_DESC:1 "統治期間終了までに、 [Root.Owner.GetName] が関係しているすべての戦争から離脱せよ。 \n\n報酬：\n$mandate_influence_reward_t5$"
+ MANDATE_mandate_slaver:0 "奴隷商人"
+ MANDATE_mandate_slaver_DESC:1 "[Root.Owner.GetName]の繁栄を維持するため、 奴隷制を法的に公認せよ。 \n\n報酬：\n$mandate_influence_reward_t2$。 "
+ MANDATE_mandate_xenopurger:0 "異星人浄化者"
+ MANDATE_mandate_xenopurger_DESC:1 "統治期間終了までに、 §Y少なくとも1つの植民地§!から異種族を浄化せよ。 \n\n報酬：\n$mandate_influence_reward_t2$\n$mandate_happiness_reward_t1$"
+ MANDATE_mandate_nationalist:0 "本国復帰主義者"
+ MANDATE_mandate_nationalist_DESC:1 "§Y[parameter:country.GetName]§!に属する惑星を相手国に返還せよ。 \n\n報酬：\n$mandate_influence_reward_t3$"
+ ####################################
+ # MANDATE CHAINS
+ ####################################
+ mandate_miner_chain_title:0 "採掘者への公約"
+ mandate_miner_chain_desc:3 "[This.GetRulerTitle] [This.GetRulerName]は、 適切な小惑星の軌道に§Y採掘ステーション§!を建設して、 £minerals §Y鉱物産出量§!を増加させる公約で選出された。 \n\n報酬：\n$mandate_unity_reward$"
+ mining_stations_built:0 "採掘ステーションを建設した"
+ mandate_orbresearch_chain_title:0 "軌道研究者への公約"
+ mandate_orbresearch_chain_desc:3 "[This.GetRulerTitle] [This.GetRulerName]は、 適切な惑星の軌道に§Y研究ステーション§!を建設して、 §Y研究産出量§!を増加させる公約で選出された。 \n\n報酬：\n$mandate_unity_reward$"
+ orbresearch_built:0 "研究ステーションを建設した"
+ mandate_xenopurge_chain_title:0 "異星人浄化者への公約"
+ mandate_xenopurge_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName]は、 §H[purge_planet.GetName]§!における§Y[Root.GetSpeciesAdj]以外のすべてのPOP§!を§Y浄化§!する公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t2$\n$mandate_happiness_reward_t1$"
+ world_purged:0 "惑星が浄化された"
+ mandate_shipwright_chain_title:0 "造船者への公約"
+ mandate_shipwright_chain_desc:2 "[This.GetRulerTitle][This.GetRulerName]は、 §Y統治期間終了まで§!に、 軍事費を増加して§Y宇宙軍許容量の75%以上§!を運用する公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t2$"
+ military_presence_maintained:0 "公約を達成した"
+ mandate_fiscal_reserve_chain_title:0 "財政貯蓄者への公約"
+ mandate_fiscal_reserve_chain_desc:1 "[This.GetRulerTitle] [This.GetRulerName]は、 §Y統治期間終了まで§!に、 §Y経費節減§!と§Y支出精査§!によって§H[Root.GetName]§!が§Y£energy 1000§!以上のエネルギー通貨を蓄積する公約で選出された。 "
+ mandate_emancipation_chain_title:0 "偉大な奴隷解放者への公約"
+ mandate_emancipation_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName] は、 統治期間内に§Y奴隷制を非合法化し、 廃止する§!公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t3$\n$mandate_happiness_reward_t1$"
+ mandate_fulfilled:0 "指示を達成した"
+ mandate_emancipation2_chain_title:0 "人気取りの奴隷解放者への公約"
+ mandate_emancipation2_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName] は、 統治期間内に惑星§H[free_planet.GetName]§!の§Y全ての奴隷を解放する§!公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t3$\n$mandate_happiness_reward_t1$"
+ planet_freed:0 "惑星の奴隷は解放された"
+ mandate_separatist_chain_title:0 "分離独立主義者への公約"
+ mandate_separatist_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName]は、 惑星§H[release_planet.GetName]§! を§Y解放§!し、 帝国として独立させる公約で選出された。 詳細については、 §Y派閥リスト§! を参照せよ。 \n\n報酬：\n$mandate_influence_reward_t3$"
+ empire_released:0 "帝国を解放した"
+ mandate_peacemaker_chain_title:0 "平和実現者への公約"
+ mandate_peacemaker_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName]は、 統治期間終了までに、 §Y[Root.GetSpeciesAdj]に関係する全ての戦争を終了する§!公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t2$"
+ no_engagements:0 "すべての敵対行為を停止した"
+ mandate_slaver_chain_title:0 "奴隷商人への公約"
+ mandate_slaver_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName]は、 統治期間終了までに、 §Y5 POP以上§!を§Y奴隷にする§!公約で選出された。 \n\n報酬：\n$mandate_influence_reward_t2$"
+ pops_enslaved:0 "POPを奴隷にした"
+ mandate_nationalist_chain_title:0 "本国復帰主義者への公約"
+ mandate_nationalist_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName]は、 統治期間終了までに、 §H[ceding_empire.GetName]§!に属する植民地を相手国に§Y割譲する§!公約で選出された。   この措置は、 派閥リストで実行できる。 \n\n報酬：\n$mandate_influence_reward_t3$"
+ planet_ceded:0 "惑星を割譲した"
+ ####################################
+ # MANDATE EVENTS
+ ####################################
+ mandate.1.title:0 "新しい統治者の公約"
+ mandate.1.desc:0 "[Root.GetRulerName]は§H[Root.GetName]§!の§Y[Root.GetRulerTitle]§!に選出された。 §Y公約§!の詳細については、 §Y状況レポート§!を参照せよ。 "
+ mandate.2.title:0 "公約が未達成"
+ mandate.2.desc:1 "選挙の公約を達成できないまま、 [Root.GetRulerTitle]の統治は終了した。 "
+ # Separatist
+ mandate.100.title:0 "分離独立主義者への公約を達成"
+ mandate.100.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 §H[Root.GetName]§!は§H[released_planet.GetName]§!帝国の§Y従属国§! として独立した。 "
+ # Miner
+ mandate.111.title:0 "採掘者への公約を達成"
+ mandate.111.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 新たな採掘ステーション群が建設された。 "
+ # Orbital Researcher
+ mandate.121.title:0 "軌道研究者への公約を達成"
+ mandate.121.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 新たな研究ステーション群が建設された。 "
+ # Xenopurger
+ mandate.132.title:0 "異星人浄化者への公約を達成"
+ mandate.132.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 [From.GetName]の植民地に住んでいた非[Root.GetSpeciesAdj]種族が浄化された。 "
+ # Shipwright
+ mandate.141.title:0 "造船者への公約を達成"
+ mandate.141.desc:1 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 現在は宇宙軍許容量の75%以上が運用されている。 "
+ mandate.142.title:0 "公約が未達成"
+ mandate.142.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]は、 所定期間内に公約を達成できなかった。 "
+ # Emancipator 1
+ mandate.150.title:0 "偉大な奴隷解放者への公約を達成"
+ mandate.150.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 §Y奴隷§!は[Root.GetName]において非合法になった。 "
+ # Emancipator 2
+ mandate.155.title:0 "人気取りの奴隷解放者への公約を達成"
+ mandate.155.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 [From.GetName]において奴隷POPは存在しなくなった。 "
+ # Peacemaker
+ mandate.161.title:0 "平和実現者への公約を達成"
+ mandate.161.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 §H[Root.GetName]§!は現在、 継続中の紛争に関与していない。 "
+ mandate.162.title:0 "公約が未達成"
+ mandate.162.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]は、 所定期間内に公約を達成できなかった。 "
+ # Slaver
+ mandate.171.title:0 "奴隷商人への公約を達成"
+ mandate.171.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]の公約どおり、 §H5 POP§!が奴隷になった。 "
+ # Nationalist
+ mandate.180.title:0 "本国復帰主義者への公約を達成"
+ mandate.180.desc:0 "[Root.GetRulerTitle] §Y[Root.GetRulerName]§!の公約どおり、 征服した植民地を§H[ceding_empire.GetName]§!に返還した。 "
