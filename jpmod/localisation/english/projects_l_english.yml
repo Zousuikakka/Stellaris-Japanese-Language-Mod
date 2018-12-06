@@ -87,7 +87,7 @@
  VULTAUM_ARCHEOLOGY_9:0 "分派の植民地"
  VULTAUM_ARCHEOLOGY_9_DESC:0 "ヴルタウムの分派が築いた植民地の遺跡らしきものを[From.GetName]にて発見した。 発掘拠点が設置され次第、 考古学者たちは有用な遺物の探索を開始できる。 "
  VULTAUM_ARCHEOLOGY_10:0 "軌道上の施設"
- VULTAUM_ARCHEOLOGY_10_DESC:0 "ヴルタウムの巨大な軌道施設の金属製骨組みが[From.GetName]の上空で発見された。 仮想現実の研究を目的としていたようだが、 より深く知るためには適切な考古学的調査が必要だろう。 "
+ VULTAUM_ARCHEOLOGY_10_DESC:0 "ヴルタウムの巨大軌道施設の金属製骨組みが[From.GetName]の上空で発見された。 仮想現実の研究を目的としていたようだが、 詳しく知るには本格的な考古学調査が必要だろう。 "
  VULTAUM_ARCHEOLOGY_11:0 "小惑星基地"
  VULTAUM_ARCHEOLOGY_11_DESC:0 "小惑星[From.GetName]にある古代のヴルタウムの採掘基地には、 ただ巨大なクレーターが残るのみだ。 しかし予備的なスキャンによれば、 坑道の幾つかが残っている可能性がある。 "
  YUHT_ARCHEOLOGY_1:0 "孵化場の世界"

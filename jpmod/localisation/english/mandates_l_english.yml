@@ -66,7 +66,7 @@
  # MANDATE EVENTS
  ####################################
  mandate.1.title:0 "新しい統治者の公約"
- mandate.1.desc:0 "[Root.GetRulerName]は§H[Root.GetName]§!の§Y[Root.GetRulerTitle]§!に選出された。 §Y公約§!の詳細については、 §Y状況レポート§!を参照せよ。 "
+ mandate.1.desc:0 "[Root.GetRulerName]は§H[Root.GetName]§!の§Y[Root.GetRulerTitle]§!に選出された。 \n\n§Y公約§!の詳細については、 §Y状況レポート§!を参照せよ。 "
  mandate.2.title:0 "公約が未達成"
  mandate.2.desc:1 "選挙の公約を達成できないまま、 [Root.GetRulerTitle]の統治は終了した。 "
  # Separatist

@@ -2,7 +2,7 @@
  ### Utopia
  # Unrest
  UNREST:0 "社会不安"
- UNREST_DESC:1 "§E§H社会不安§!は惑星上の不満と政治的不安定のレベルを示している。 §H不幸§!なPOPや奴隷は§H社会不安§!を上昇させ、 §H拠点§!や§H要塞§!は減少させる。 \n\n高い§H社会不安§!は直接的な悪い結果をもたらす可能性がある。 §!"
+ UNREST_DESC:1 "§E§H社会不安§!は惑星上の不満と政治的不安定のレベルを示している。 §H不幸§!なPOPや奴隷は§H社会不安§!を上昇させ、 §H駐屯地§!や§H要塞§!は減少させる。 \n\n高い§H社会不安§!は直接的な悪い結果をもたらす可能性がある。 §!"
  UNREST_VALUE_POP_DESC:0 "$NAME$：$VALUE$"
  UNREST_HAPPY_POPS:0 "幸福なPOP"
  UNREST_UNHAPPY_POPS:0 "不幸なPOP"
@@ -225,7 +225,7 @@
  dyson_sphere_restored:0 "$dyson_sphere_5$"
  dyson_sphere_restored_DESC:0 "$dyson_sphere_5_DESC$"
  think_tank_ruined:0 "荒廃したサイエンスネクサス"
- think_tank_ruined_DESC:0 "荒廃したサイエンスネクサス。 内部は略奪者によってきれいに剥ぎ取られたが、 巨大構造物の主要な殻はまだほとんど損なわれていない。 適切な技術と多くの資源があれば、 改修出来るかもしれない。 "
+ think_tank_ruined_DESC:0 "荒廃したサイエンスネクサス。 内部ははるか昔に徹底的に略奪されてしまっているが、 巨大構造物の主殻はほぼ無傷のままだ。 適切な技術と多くの資源があれば、 修復できるかもしれない。 "
  think_tank_ruined_MEGASTRUCTURE_DETAILS:0 ""
  think_tank_restored:0 "$think_tank_3$"
  think_tank_restored_DESC:0 "$think_tank_3_DESC$"
