@@ -38,9 +38,9 @@
  uplift_rocky:0 "前途多難なスタート"
  uplift_rocky_desc:0 "この惑星上の知性化された種族は、 新しい社会秩序に順応するにあたって問題を抱えている。 "
  unhappy_with_experiments:0 "不服な実験"
- unhappy_with_experiments_desc:0 "この惑星の$異星人好きY$の人々は、 原生生物に対する非倫理的な実験に不満を抱いている。 "
+ unhappy_with_experiments_desc:0 "この惑星の$ethic_xenophile|Y$の人々は、 原生生物に対する非倫理的な実験に不満を抱いている。 "
  unproductive_without_experiments:0 "実験無しの非生産性"
- unproductive_without_experiments_desc:0 "科学者が実験と臨床試験の機会を失い、 惑星の$社会研究Y$が損なわれる。 "
+ unproductive_without_experiments_desc:0 "科学者が実験と臨床試験の機会を失い、 惑星の$SOCIETY_RESEARCH|Y$が損なわれる。 "
  massex_happy:0 "未来への信仰"
  massex_happy_desc:0 "あなたの民衆は明るい未来が待ち受けていると確信している。 "
  stellar_salt:0 "しょっぱい"
@@ -153,28 +153,25 @@
  ####################################
  # Dynamic Modifiers
  ####################################
- damage_vs_country_type_amoeba_mult:0 "宇宙アメーバへのダメージ"
- damage_vs_country_type_crystal_mult:0 "結晶生命体へのダメージ"
- damage_vs_country_type_drone_mult:0 "太古の採掘ドローンへのダメージ"
- damage_vs_country_type_cloud_mult:0 "ボイドクラウドへのダメージ"
- damage_vs_country_type_swarm_mult:1 "プレスリンへのダメージ"
- damage_vs_country_type_fallen_empire_mult:0 "没落した帝国へのダメージ"
- damage_vs_country_type_awakened_fallen_empire_mult:0 "覚醒した帝国へのダメージ"
- damage_vs_country_type_extradimensional_mult:0 "招かれざる客へのダメージ"
- damage_vs_country_type_extradimensional_2_mult:0 "逸脱せる者へのダメージ"
- damage_vs_country_type_extradimensional_3_mult:0 "激怒せる者へのダメージ"
- damage_vs_country_type_ai_empire_mult:1 "コンティンジェンシーへのダメージ"
- damage_vs_country_type_sentinels_mult:0 "センチネルへのダメージ"
+ mod_damage_vs_country_type_amoeba_mult:0 "宇宙アメーバへのダメージ"
+ mod_damage_vs_country_type_crystal_mult:0 "結晶生命体へのダメージ"
+ mod_damage_vs_country_type_drone_mult:0 "太古の採掘ドローンへのダメージ"
+ mod_damage_vs_country_type_cloud_mult:0 "ボイドクラウドへのダメージ"
+ mod_damage_vs_country_type_swarm_mult: "プレスリンへのダメージ"
+ mod_damage_vs_country_type_fallen_empire_mult:0 "没落した帝国へのダメージ"
+ mod_damage_vs_country_type_awakened_fallen_empire_mult:0 "覚醒した帝国へのダメージ"
+ mod_damage_vs_country_type_extradimensional_mult:0 "招かれざる客へのダメージ"
+ mod_damage_vs_country_type_extradimensional_2_mult:0 "逸脱せる者へのダメージ"
+ mod_damage_vs_country_type_extradimensional_3_mult:0 "激怒せる者へのダメージ"
+ mod_damage_vs_country_type_ai_empire_mult:1 "コンティンジェンシーへのダメージ"
+ mod_damage_vs_country_type_sentinels_mult:0 "センチネルへのダメージ"
+ mod_damage_vs_country_type_gate_builders_mult: "ゲート建設者へのダメージ"
  ####################################
  # Opinion Modifiers
  ####################################
  opinion_literary_savior:0 "文学の救世主"
  opinion_book_burner:0 "焚書"
  opinion_faction_insult:0 "派閥の侮辱"
- ####################################
- # Pop Faction Modifiers
- ####################################
- docile_slaves_unrest_modifier:0 "奴隷の騒乱"
  ####################################
  # Machines
  ####################################

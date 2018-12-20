@@ -223,7 +223,7 @@
  CAPTURE_QUEEN:0 "女王を捕獲しろ"
  CAPTURE_QUEEN_DESC:0 "[queen_system.GetName]星系における最近の戦闘の結果、 プレスリンの女王が重傷を負い、 群れから取り残された。 しかしまだ生存している。 捕獲できれば一気に優位に立てるだろう。 "
  ESTABLISH_COMMUNICATIONS:0 "[Prev.From.GetName]を調査せよ"
- ESTABLISH_COMMUNICATIONS_DESC:1 "我々は§Y[Prev.From.GetName]§!と名付けた奇妙な異種族について調査する必要がある。 もし彼らが言語能力を有するのならば、 それを解読して通信を確立しなければならない。 \n\n報酬：£influence  §G影響力§! または §Sスペシャルプロジェクト§!"
+ ESTABLISH_COMMUNICATIONS_DESC:1 "我々は§Y[Prev.From.GetName]§!と名付けた奇妙な異種族について調査する必要がある。 もし彼らが言語能力を有するのならば、 それを解読して通信を確立しなければならない。 \n\n報酬：£influence£  §G影響力§! または §Sスペシャルプロジェクト§!"
  INVESTIGATE_SPACE_AMOEBA:0 "$ESTABLISH_COMMUNICATIONS$"
  INVESTIGATE_SPACE_AMOEBA_DESC:1 "$ESTABLISH_COMMUNICATIONS_DESC$"
  INVESTIGATE_CRYSTALS:0 "$ESTABLISH_COMMUNICATIONS$"

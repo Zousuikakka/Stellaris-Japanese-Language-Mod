@@ -54,7 +54,7 @@
  unrest.4211.desc:0 "我々は[From.From.GetName]の暴動を鎮圧できず、 植民地はついに独立を宣言した。 "
  unrest.4211.desc.gesta:0 "我々の惑星が奪われた。 "
  unrest.4220.name:0 "[From.GetName]服従のお願い"
- unrest.4220.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]にご挨拶申し上げます。 私は[From.GetName]の[From.GetRulerTitle] [From.GetRulerName]と申します。 [From.From.GetName]の民を代表してお伝えしております。 \n\n 我々は近頃、 [rebelled_against.GetName]の支配からの自由を勝ち取りました。 しかしながらいかんせん若い国であり、 いわゆるその……侵略的な他国にとって、 たやすい標的でしかありません。 我々の多くが、 [Root.GetAdj]がこの星を支配していた時代を懐かしんでいます――大変恐縮ではありますが、 いま一度、 我々をそちらの支配下に加えてはいただけませんでしょうか。 "
+ unrest.4220.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName]にご挨拶申し上げます。 私は[From.GetName]の[From.GetRulerTitle] [From.GetRulerName]と申します。 [From.From.GetName]の民を代表してお伝えしております。 \n\n我々は近頃、 [rebelled_against.GetName]の支配からの自由を勝ち取りました。 しかしながらいかんせん若い国であり、 いわゆるその……侵略的な他国にとって、 たやすい標的でしかありません。 我々の多くが、 [Root.GetAdj]がこの星を支配していた時代を懐かしんでいます――大変恐縮ではありますが、 いま一度、 我々をそちらの支配下に加えてはいただけませんでしょうか。 "
  unrest.4220.a:0 "貴方がたがようやく手に入れた独立を、 §Yすべて§!奪い去るつもりはない。 "
  unrest.4220.a.tooltip:0 "§Y[From.GetName]§!を属国化する。 "
  unrest.4220.b:0 "我々はいつも一体だった。 "

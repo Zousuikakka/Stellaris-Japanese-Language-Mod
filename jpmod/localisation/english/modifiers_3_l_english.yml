@@ -94,7 +94,7 @@
  abandoned_mining:0 "放棄された採掘施設"
  abandoned_mining_desc:0 "この惑星の軌道上には古い採掘ステーションが存在し、 ここに潜在的な鉱物があることを示唆している。 "
  gas_rich_planet:0 "豊富なガス田"
- gas_rich_planet_desc:0 "この惑星に植民地を築けば、 大量の資源を供給してくれるだろう。 \n£energy §G+50%§!"
+ gas_rich_planet_desc:0 "この惑星に植民地を築けば、 大量の資源を供給してくれるだろう。 \n£energy£ §G+50%§!"
  gas_rich_planet_fo_realz:0 "大規模なガス採掘"
  gas_rich_planet_fo_realz_desc:0 "この惑星の少ない天然資源は現在、 全般的なエネルギー生産量を高めるために採掘されている。 "
  gas_responsible_mining:0 "節度あるガス採掘"
@@ -116,7 +116,7 @@
  syndaw_automated_work:0 "自動作業プロセス"
  syndaw_automated_work_desc:0 "理にかなっているかどうかに関わらず、 自動化による失業への恐れがこの惑星に影響を与えている。 "
  syndaw_unfriendly_robots:0 "ロボット統合の緊張"
- syndaw_unfriendly_robots_desc:0 "ロボットと有機体住民の間の緊張感はこの惑星の£unity 統合力産出を減少させている。 "
+ syndaw_unfriendly_robots_desc:0 "ロボットと有機体住民の間の緊張感はこの惑星の£unity£ 統合力産出を減少させている。 "
  syndaw_research_malus:0 "人工知能の損傷"
  syndaw_research_malus_desc:1 "社会学研究室のAI端末は損傷し、 交換されている。 "
  ####################################
