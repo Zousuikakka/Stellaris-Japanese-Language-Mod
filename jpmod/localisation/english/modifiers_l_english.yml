@@ -56,8 +56,8 @@
  MOD_POP_HOUSING_USAGE_ADD:0 "$MOD_POP_HOUSING_USAGE_MULT$"
  MOD_POP_HOUSING_USAGE_BASE:0 "$MOD_POP_HOUSING_USAGE_MULT$"
  MOD_POP_RESETTLEMENT_COST_MULT:0 "強制移住コスト"
- MOD_TRADITION_COST_EMPIRE_SIZE_MULT:0 "帝国規模による伝統コスト"
- MOD_TECH_COST_EMPIRE_SIZE_MULT:0 "帝国規模による研究コスト"
+ MOD_TRADITION_COST_EMPIRE_SIZE_MULT:1 "$EMPIRE_SIZE$による伝統コスト"
+ MOD_TECH_COST_EMPIRE_SIZE_MULT:1 "$EMPIRE_SIZE$による研究コスト"
  MOD_COLONY_START_NUM_POPS_ADD:0 "新植民地設立時の追加POP"
  MOD_COUNTRY_TERRAFORM_SPEED_MULT:0 "テラフォーミング速度"
  MOD_MEGASTRUCTURE_BUILD_SPEED_MULT:0 "巨大構造物構築速度"
@@ -533,7 +533,6 @@
  mod_weapon_type_strike_craft_speed_mult:0 "軍用機速度"
  #vultaum_asteroid_category_research_speed_mult: "アノマリー研究速度 (先駆者-正統のカテゴリに追加)"
  #vultaum_asteroid_category_research_fail_risk_mult: "アノマリー失敗リスク (先駆者-正統のカテゴリに追加)"
- # TEMP should these be detailed?
  vultaum_asteroid_category_research_speed_mult:0 "アノマリー研究速度 (先駆者)"
  vultaum_asteroid_category_research_fail_risk_mult:0 "アノマリー失敗リスク (先駆者)"
  vultaum_gasgiant_category_research_speed_mult:0 "アノマリー研究速度 (先駆者)"

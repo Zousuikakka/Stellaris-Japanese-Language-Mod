@@ -173,7 +173,7 @@
  utopia.59.name:0 "ニューラルバンク"
  utopia.59.desc:0 "$utopia.59.intro$\n\n予想されたとおり、 志願者が列をなすようなことはなかった。 これまでのところ、 手を挙げたのは科学部門担当官の[volunteer_leader.GetName]だけだ。 "
  utopia.59.a:0 "[volunteer_leader.GetName] の脳をネクサスにアップロードしろ。 "
- utopia.59.a.tooltip:0 "サイエンスネクサスは追加の §Y5§! £physics£  §Y5§! £society£  §Y5§! £engineering£ を生み出すようになる。 "
+ utopia.59.a.tooltip:1 "サイエンスネクサスは以下のものを追加で生み出すようになる： £physics£ §G50§! £society£ §G50§! £engineering£ §G50§!"
  utopia.59.b:0 "それは非倫理的行いだ"
  utopia.59.c:0 "いや、 [volunteer_leader.GetName] は他の場所で必要とされている。 "
  utopia.60.name:0 "ニューラルバンク"
