@@ -275,7 +275,7 @@
  PROGRESSIVE_DEMOCRATIC_GOVERNMENT_DESC:1 "政府が名目上でも選挙によるものであれば、 [Root.GetName]は喜ぶだろう。 "
  PROGRESSIVE_FREE_MOVEMENT:0 "移民の自由"
  PROGRESSIVE_NO_FREE_MOVEMENT:0 "$PROGRESSIVE_FREE_MOVEMENT$"
- PROGRESSIVE_FREE_MOVEMENT_DESC:0 "全ての種族が直轄地へ移住することを許可し、 強制移住を禁止し、 移民統制を廃止してPOPの移動の自由を保証すれば、 [Root.GetName]は喜ぶだろう。 "
+ PROGRESSIVE_FREE_MOVEMENT_DESC:1 "強制移住を禁止し、 移民統制を廃止してPOPの移動の自由を保証すれば、 [Root.GetName]は喜ぶだろう。 "
  PROGRESSIVE_REPRODUCTIVE_FREEDOM:0 "生殖の自由"
  PROGRESSIVE_REPRODUCTIVE_FREEDOM_DESC:2 "選択的な人口統制を禁止すれば、 [Root.GetName]は喜ぶだろう。 "
  PROGRESSIVE_NO_REPRODUCTIVE_FREEDOM:1 "$PROGRESSIVE_REPRODUCTIVE_FREEDOM$"
@@ -299,7 +299,7 @@
  TOTALITARIAN_DEMOCRACY_DESC:0 "§Y民主的な統治形態§! の下での生活に、 [Root.GetName]は大いに不満を覚えるだろう。 "
  TOTALITARIAN_NO_DEMOCRACY:0 "$TOTALITARIAN_DEMOCRACY$"
  TOTALITARIAN_STRATIFICATION:0 "階級社会"
- TOTALITARIAN_STRATIFICATION_DESC:1 "階級社会を確実なものとすれば、 その手段が階級化経済であっても、 奴隷制であっても、 あるいは浄化であったとしても、 [Root.GetName]は喜ぶだろう。 "
+ TOTALITARIAN_STRATIFICATION_DESC:1 "階級社会を実現すれば、 その手段が階級化経済であっても、 奴隷制であっても、 あるいは浄化であったとしても、 [Root.GetName]は喜ぶだろう。 "
  TOTALITARIAN_NO_STRATIFICATION:0 "$TOTALITARIAN_STRATIFICATION$"
  TOTALITARIAN_SLAVERY:0 "必要最低限の奴隷"
  TOTALITARIAN_SLAVERY_DESC:0 "少なくとも§Y12§!の奴隷POPが存在すれば、 [Root.GetName]は喜ぶだろう。 "
@@ -641,7 +641,7 @@
  faction.104.desc:0 "分離主義者をなだめ、 国内から実質的に排除するために、 [parameter:planet.GetName] 植民地を[Root.Owner.GetName]から分離した。 \n\n[Root.GetName]は、 自分たちの国を作る。 "
  ### Crusaders
  # Crusaders want to a crusade to against the heathens, conquer their capital
- faction.200.title:0 "[Root.GetName]が[parameter:heathens.GetName]!を異教徒に認定"
+ faction.200.title:0 "[Root.GetName]が[parameter:heathens.GetName]！ を異教徒に認定"
  faction.200.desc:1 "彼らはある他国の首都を目標に定め、 その奪取を望んでいる。 "
  holy_war_title:0 "聖戦"
  holy_war_desc:0 "[parameter:heathens.GetName]に対する十字軍を起こす"
@@ -693,7 +693,7 @@
  faction.503.title:0 "タカ派の反乱！ "
  faction.503.desc:0 "[planet.GetName]において、 [Root.GetName]の過激分子が高度に組織化された反政府勢力を形成しているとの報告があった。 \n\n彼らの反乱はまだ初期段階であり、 早めにこの芽を摘み取るのが賢明だろう。 "
  faction.503.a:0 "結構。 "
- faction.503.a.tooltip:0 "[planet.GetName]：\n§R反乱!§!"
+ faction.503.a.tooltip:0 "[planet.GetName]：\n§R反乱！ §!"
  ### Emancipation Faction
  faction.600.title:0 "過激派奴隷"
  faction.600.desc:0 "[Root.GetName] のメンバーが奴隷に反体制意識を植えつけているらしい。  噂によれば、 事実とするには奇想天外すぎるが、 [parameter:slave_faction.GetName]の過激派集団を訓練し武装させているそうだ。 "

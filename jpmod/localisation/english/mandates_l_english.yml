@@ -102,4 +102,4 @@
  mandate.171.desc:1 "[Root.GetRulerTitle] の公約どおり、 §H5 POP§!が奴隷になった。 "
  # Nationalist
  mandate.180.title:0 "本国復帰主義者への公約を達成"
- mandate.180.desc:1 "[Root.GetRulerTitle]!の公約どおり、 征服した植民地を§H[ceding_empire.GetName]§!に返還した。 "
+ mandate.180.desc:1 "[Root.GetRulerTitle]！ の公約どおり、 征服した植民地を§H[ceding_empire.GetName]§!に返還した。 "

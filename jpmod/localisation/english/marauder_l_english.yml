@@ -315,7 +315,7 @@
  marauder.550.a:0 "降伏について話し合いたい……"
  marauder.550.a.2.response:0 "[Root.GetSpeciesName]の嘘を、 またも余が信じるほど愚かだと思っているのか?  いいや、 今度はとことん戦うぞ。 貴様らは余が築かんとする帝国で生きる権利を、 自らなげうったのだ。 "
  marauder.550.b:0 "貴方は[From.GetSpeciesName]にしては随分、 その、 雄弁だな。 "
- marauder.550.b.response:0 "うむ、 まあな。 お前が言っているのはおそらく、 これまで[From.GetSpeciesNamePlural]が用いていた、 まあなんだ、 粗野というか……素朴な方言のことだな。 \n\n信じられないかもしれないが、 かつての[From.GetSpeciesName]の言語ははるかに洗練されていたのだ。 今のように崩れたのは、 せいぜいここ千年のことにすぎぬ。 \n\nだが、 今は変わった。 それゆえ、 あらゆる[From.GetSpeciesNamePlural]はかつての豊かな言語で教育を受けることになろう。 もはや叫び声などはありえぬ。 "
+ marauder.550.b.response:0 "うむ、 まあな。 お前が言っているのはおそらく、 これまで[From.GetSpeciesNamePlural]が用いていた、 まあなんだ、 粗野というか……素朴な方言のことだな。 \n\n信じられないかもしれないが、 かつての[From.GetSpeciesName]の言語ははるかに洗練されていたのだ。 今のように崩れたのは、 せいぜいここ千年のことにすぎぬ。 \n\nだが、 今は変わった。 今後、 あらゆる[From.GetSpeciesNamePlural]はかつての豊かな言語で教育を受けることになろう。 もはや奇声などはありえぬ。 "
  marauder.550.c:0 "虚空の女神とやらはどうなった? "
  marauder.550.c.response:0 "迷信や独断的教義は、 [From.GetSpeciesName]の民を没落させることにしかならなかった。 虚空の女神だのなんだの、 精神的象徴を崇拝し続ける連中は好きにさせているが、 もはや義務ではない。 \n\n余は科学と進歩の新時代を[From.GetSpeciesNamePlural]に、 ひいては銀河全体にもたらしたい。 偏狭な狂信者どもの居場所は、 余が築く未来にはない。 "
  marauder.550.d:0 "自治権を返してほしい。 "

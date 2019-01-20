@@ -124,11 +124,11 @@
  extradimensional_invasion_chain_3_title:0 "激怒せる者"
  extradimensional_invasion_chain_3_desc:0 "第三の次元侵略者派閥が、 別のワームホールから出現した。 やはり彼らもこの銀河の全生命を食らいつくそうとしているが、 他の二つの派閥と三つ巴の戦争を繰り広げているようだ。 "
 
- precursor_activity:0 "先駆者の活動の痕跡"
+ precursor_activity:0 "先駆文明の活動の痕跡"
 
- new_precursor.1_poi:0 "先駆者の活動の報告"
- new_precursor.1_poi_desc:0 "この座標に、 先駆者文明に関する人工物もしくは重要な情報があるかもしれない。 "
- new_precursor_anomaly:0 "新たな先駆者のアノマリーが§L[precursor_planet.GetName]§!で見つかった。 "
+ new_precursor.1_poi:0 "先駆文明の活動の報告"
+ new_precursor.1_poi_desc:0 "この座標に、 先駆文明に関する人工物もしくは重要な情報があるかもしれない。 "
+ new_precursor_anomaly:0 "新たな先駆文明のアノマリーが§L[precursor_planet.GetName]§!で見つかった。 "
 
  prethoryn_defeated:0 "プレスリン鎮圧"
  anchor_station:0 "次元アンカー"
