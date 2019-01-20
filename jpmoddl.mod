@@ -6,4 +6,4 @@ tags={
 }
 picture="JPMOD.jpg"
 remote_file_id="681803404"
-supported_version="2.2.2"
+supported_version="2.2.3"
