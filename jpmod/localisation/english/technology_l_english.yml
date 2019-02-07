@@ -382,8 +382,8 @@
  tech_auxiliary_fire_control:0 "火器管制補助システム"
  tech_auxiliary_fire_control_desc:1 "$FIRE_CONTROL_1_DESC$"
  # Resources
- tech_exotic_gases:0 "異性ガス精製"
- tech_exotic_gases_desc:0 "異性ガスを人工的に製造することは可能だが、 高度な精錬設備を必要とする難しい処理だ。 "
+ tech_exotic_gases:0 "エキゾチックガス精製"
+ tech_exotic_gases_desc:0 "エキゾチックガスの人工製造は可能だが、 高度な精錬設備を必要とする難しい処理だ。 "
  tech_volatile_motes:0 "揮発性物質製造所"
  tech_volatile_motes_desc:1 "明白な危険性に加えて、 揮発性粉末の人工製造は非常に繊細で複雑な工程であり、 高度な専門装置を必要とする。 "
  tech_rare_crystals:0 "希少クリスタル製造"
@@ -581,7 +581,7 @@
  tech_eco_simulation_desc:2 "農耕技術は、 さまざまな環境や天候パターンに関する洗練されたシミュレーションによって改良される。 これにより、 作物収穫量の予測精度が上がる。 "
  tech_gene_crops:0 "遺伝子改良作物"
  tech_gene_crops_desc:1 "高度な遺伝子工学により、 作物の収量を増加させ、 味と栄養価をさらに向上させる。 "
- tech_nano_vitality_crops:0 "ナノバイタリティ作物"
+ tech_nano_vitality_crops:0 "ナノ活性化作物"
  tech_nano_vitality_crops_desc:1 "少量のナノマシンを作物に注入することにより、 極めて耐性が強い作物を作り出せる。 また、 作物の全寿命にわたってその化学的構成を調整できる。 "
  #tech_pure_seed_farming:0 "純粋種の農業"
  #tech_pure_seed_farming_desc:0
@@ -854,7 +854,7 @@
  tech_synthetic_thought_patterns_desc:2 "型にはまらない考え方というのは、 単に別のやや大きな型にはまっているだけだ。 "
  # There is really no such thing as thinking outside the box OR Thinking outside the box is merely thinking inside another, bigger, box.
  edict_will_to_power:1 "統合の目標：力への意思"
- edict_will_to_power_desc:1 "力は人の意志を簡単に他人に押しつける能力であるがゆえ、 力への意志は成就される予言である。 "
+ edict_will_to_power_desc:1 "力とはかいつまんで言えば意志を他人に押しつける能力である。 それゆえ、 力への意志は自己成就的予言である。 "
  # Seeking control over ones environment is inherent in all beings. We have simply mastered it/we are simply the most effective.
  tech_unity_of_purpose:0 "統一目標"
  tech_unity_of_purpose_desc:0 "個々の目標が、 全員の目標だ。 力を合わせれば、 我々は単純な合計より優れたものになれる。 "

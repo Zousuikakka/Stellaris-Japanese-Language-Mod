@@ -93,7 +93,7 @@
  tr_expansion_galactic_ambition_hive_delayed:0 "我々を育んだ世界と集合意識を離れ、 暗闇の世界へと旅立つというのは、 原初的な恐怖を伴った。 だが、 この恐怖を克服して繁殖することによってのみ、 集合意識は成長を続けることができる。 集合意識が生き続けるために、 何百万というドローンたちが死ぬだろう。 "
  tr_expansion_finish:0 "拡張の伝統の完成"
  tr_expansion_finish_machine:0 "拡張の伝統の完成"
- tr_expansion_finish_effect:4 "§E$TRADITIONS_FINISH$：§!\n全ての$tr_expansion_adopt$を採用すると、 軌道上居住地を除く全ての惑星で地区が§Y1§!つ追加で建造できる。 "
+ tr_expansion_finish_effect:4 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_expansion_adopt$を採用すると、 軌道上居住地を除くすべての惑星で §Y1§! 区域を追加で建造できる。 "
  tr_expansion_finish_hive_effect:0 "$tr_expansion_finish_machine_effect$"
  ################################################################
  # DOMINATION
@@ -138,10 +138,10 @@
  tr_domination_drone_network_delayed:0 "ドローンと集合意識の間の通信方法を改善したことで、 生産効率は大幅に向上した。 "
  tr_domination_trust_officers:0 "信頼された警官隊"
  tr_domination_trust_officers_desc:0 "£job_enforcer£ §Y$job_enforcer_plural$§!は£crime£ §Y$MOD_PLANET_CRIME_ADD$§! を更に§G20%§!低下させる。 "
- tr_domination_trust_officers_delayed:0 "法執行機関が担う重要な任務は、 一般市民の協力を得ることでその成功率をさらに高めることができる。 住民と密接に連携する信頼された警官隊が存在すれば、 この協力関係を自由に利用することを保証してくれる。 "
+ tr_domination_trust_officers_delayed:0 "法務執行機関が担う重要な任務は、 一般市民の協力を得なければ真の成功を得られない。 住民と密接に連携する信頼された警官隊を編成すれば、 この協力関係を自由に利用する助けとなる。 "
  tr_domination_judgment_corps:0 "執行官"
  tr_domination_judgment_corps_desc:0 "£job_enforcer£ §Y$job_enforcer_plural$§!は£crime£ §Y$MOD_PLANET_CRIME_ADD$§! を更に§G20%§!低下させる。 "
- tr_domination_judgment_corps_delayed:1 "広大な都市や辺境の採掘ステーションでは、 犯罪の防止に関してそれぞれ特徴的な課題を抱えている。 法を迅速に執行するため、 我々は裁判官や陪審員、 執行者の役割を組み合わせ、 より効率的な司法プロセスを実現させた。 "
+ tr_domination_judgment_corps_delayed:1 "広大な都市や辺境の採掘ステーションでは、 犯罪抑止に関してそれぞれ特有の課題を抱えている。 法を迅速に執行するため、 我々は裁判官や陪審員、 法務執行官の役割を統合し、 より効率的な司法プロセスを実現した。 "
  tr_domination_deviancy_protocols:0 "逸脱プロトコル"
  tr_domination_deviancy_protocols_desc:0 "全ての惑星で§Y$MOD_PLANET_CRIME_ADD$§!が§G10§!低下する。 "
  tr_domination_deviancy_protocols_delayed:1 "逸脱と腐敗はあらゆるレベルで阻止すべきである。 効率的な対抗プロトコルがあれば、 逸脱した行動をとっているかもしれないドローンを、 他に影響を与える前に停止できる。 "
@@ -356,7 +356,7 @@
  tr_diplomacy_federal_unity_desc:0 "帝国の£unity£ §Y統合力§!産出量が連邦加盟国一つごとに§G+5%§! 。 最大§G+30%§!まで累積する。 "
  tr_diplomacy_federal_unity_delayed:0 "多様性は信じられないほどの財産であり、 全ての加盟国が連邦に貢献するという洞察と見通しは、 我々の社会をより強力にするだけだろう。 "
  #tr_diplomacy_alien_tourism:0 "異星人観光"
- #tr_diplomacy_alien_tourism_desc:1 "§H建造物をアンロック：§! $building_visitor_center$\n§Eこの建造物はエネルギー通貨と統合力を産出するとともに、 異星種族移民への魅力と居住性を上昇させる。 §!"
+ #tr_diplomacy_alien_tourism_desc:1 "§H建造物をアンロック：§! $building_visitor_center$\n§Eこの建造物はエネルギー通貨と統合力を産出するとともに、 異星種族移民に対する流入魅力と居住性を上昇させる。 §!"
  #tr_diplomacy_alien_tourism_delayed:0 "我々の豊かな文化を当然のものとして受け入れるのは容易い。 他の文明からやってきた訪問客がこの美しさを分かち合い易いようにするべきだ。 "
  tr_diplomacy_finish:0 "外交の伝統の完成"
  tr_diplomacy_finish_effect:1 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_diplomacy_adopt$を採用すると、 我々の§Y$MOD_COUNTRY_TRUST_CAP_ADD$§!が§G+50§!増加し、 §Y$MOD_COUNTRY_TRUST_GROWTH$§!が§G+33%§!増加する。 "
@@ -384,7 +384,7 @@
  tr_adaptability_appropriation_desc:1 "§Y$MOD_POP_RESETTLEMENT_COST_MULT$§!が§G33%§!減少する。 "
  tr_adaptability_appropriation_delayed:0 "働いていない土地は、 我らの帝国に全く貢献していない。 労働者達は最も必要とされる惑星に、 効率的な方法で再配置されなくてはならない。 "
  tr_adaptability_finish:0 "適応の伝統が完了"
- tr_adaptability_finish_effect:3 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_adaptability_adopt$を採用すると、 惑星上で一度だけ追加の埋蔵資源の試掘が可能になる§Y$decision_prospect$§!ディシジョンをアンロックする。 "
+ tr_adaptability_finish_effect:3 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_adaptability_adopt$を採用すると、 惑星上で開発特性を追加で1つ採掘できる§Y$decision_prospect$§!ディシジョンをアンロックする。 "
  ################################################################
  # VERSATILITY
  ################################################################
@@ -409,7 +409,7 @@
  tr_versatility_universal_compatibility_desc:0 "§H外交をアンロック：§!連邦の形成\n\n§Y$MOD_COUNTRY_TRUST_CAP_ADD$§!が§G+50§!増加し、 £opinion£ §Y態度§!が§G+20§!する。 ただし、 仲間の$auth_machine_intelligence$帝国に対してのみ。 "
  tr_versatility_universal_compatibility_delayed:1 "有機生命体と機械知性の行動を支配する無数の刺激と精神的要因をより深く分析することで、 外交摩擦を減らすことができるだろう。 "
  tr_versatility_finish:0 "多様性の伝統が完了"
- tr_versatility_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_versatility_adopt$を採用すると、 地区や建造物を解体した際にコストの§G50%§!を払い戻す。 "
+ tr_versatility_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\nすべての$tr_versatility_adopt$を採用すると、 区域や建造物を解体した際にコストの§G50%§!を払い戻す。 "
  ################################################################
  # DISCOVERY
  ################################################################
@@ -488,7 +488,7 @@
  tr_prosperity_adopt_hive_desc:0 "$tradition_prosperity_hive_mind_desc$\n\n$tr_prosperity_adopt_hive_effect$\n\n$tr_prosperity_finish_hive_effect$"
  tr_prosperity_adopt_hive_effect:0 "$tr_prosperity_adopt_effect$"
  tr_prosperity_sct:0 "標準化建設テンプレート"
- tr_prosperity_sct_desc:5 "§Y建造物§!と§Y地区§!の§Y建造コスト§!が§G10%§!減少し、 §Y建造速度§!が§G+25%§!増加する。 "
+ tr_prosperity_sct_desc:5 "§Y建造物§!と§Y区域§!の§Y建設コスト§!が§G10%§!減少し、 §Y建設速度§!が§G+25%§!増加する。 "
  tr_prosperity_sct_delayed:0 "技術が進歩し、 ますます複雑になるにつれて、 新たな需要が我々の労働力に課せられている。 標準化した建設テンプレートを用いることで、 労働者たちが細かい点を理解せずとも、 建設が可能になる。 "
  tr_prosperity_sct_machine:1 "プレハブ工法"
  tr_prosperity_sct_machine_desc:0 "$tr_prosperity_sct_desc$"
@@ -559,7 +559,7 @@
  requires_ap_mind_over_matter:1 "$TRIGGER_FAIL$ §Y$ap_mind_over_matter$§! のアセンションパークが必要。 "
  requires_not_ap_mind_over_matter:1 "$TRIGGER_FAIL$ §Y$ap_mind_over_matter$§! のアセンションパークを持っていない。 "
  allow_decision_mastery_of_nature:0 "§Hディシジョンをアンロック：§! 自然への精通"
- describe_decision_mastery_of_nature:0 "§Eこれは惑星が維持できる地区の最大数を永続的に§Y2§!増加する布告だ。  この布告は惑星ごとに一度だけ実行できる。 §!"
+ describe_decision_mastery_of_nature:0 "§Eこれは惑星が維持できる区域の最大数を永続的に§Y2§!増加する布告だ。  この布告は惑星ごとに一度だけ実行できる。 §!"
  decision_mastery_of_nature:0 "自然への精通"
  decision_mastery_of_nature_desc:0 "我々の人口を成長させるため、 必要となる空間を作り出そう。 自然はその妨げとなってはならない。 "
  mastery_of_nature:0 "$decision_mastery_of_nature$"
@@ -656,8 +656,8 @@
  ap_colossus_desc:0 "コロッサス計画において、 恐怖と抑止力という誇大妄想的な夢がひとつになる。 惑星を丸ごと破壊できる兵器を搭載した、 超大型艦の構想である。 "
  ap_enigmatic_engineering:0 "解析不能の工学技術"
  ap_enigmatic_engineering_desc:0 "テクノロジーは単に問題を解決する方法ではなく、 俗界を超克しうる言語である。 劣った者たちには我々の進歩を理解することなどできないだろう。 "
- ap_nihilistic_acquisition:0 "虚無を知る"
- ap_nihilistic_acquisition_desc:0 "自己決定の概念は、 絶対的な倫理規範ではない。 総体的な目標は、 個々の関心事よりもはるかに重要だ。 "
+ ap_nihilistic_acquisition:0 "無私の収奪"
+ ap_nihilistic_acquisition_desc:0 "自己決定という概念は無条件の道徳的前提ではない。 全体の目標は個々の利益よりもはるかに重要だ。 "
  ap_transcendent_learning:0 "超越的学習"
  ap_transcendent_learning_desc:0 "我々の社会は学習方法を変えなくてはならない。 そうすることで、 最も聡明な者達は未だかつて無いほどの成果を達成できる。 "
  ap_galactic_wonders_utopia:1 "$ap_galactic_wonders$"

@@ -1,6 +1,6 @@
 ﻿l_english:
  aianom.0.name:0 "AIアノマリーデバッグ情報"
- aianom.0.desc:0 "§H[Root.GetName]§!が生成済：\n\n£minerals£ （一時所得）§Y[Root.GetT1LumpMinerals]§! ティア1, §Y[Root.GetT2LumpMinerals]§! ティア2, §Y[Root.GetT3LumpMinerals]§! ティア3, §Y[Root.GetT4LumpMinerals]§! ティア4.\n£energy£ （一時所得）§Y[Root.GetT1LumpEnergy]§! ティア1, §Y[Root.GetT2LumpEnergy]§! ティア2, §Y[Root.GetT3LumpEnergy]§! ティア3, §Y[Root.GetT4LumpEnergy]§! ティア4.\n£physics£ （一時所得）§Y[Root.GetT1LumpPhysics]§! ティア1, §Y[Root.GetT2LumpPhysics]§! ティア2, §Y[Root.GetT3LumpPhysics]§! ティア3, §Y[Root.GetT4LumpPhysics]§! ティア4.\n£society£ （一時所得）§Y[Root.GetT1LumpSociety]§! ティア1, §Y[Root.GetT2LumpSociety]§! ティア2, §Y[Root.GetT3LumpSociety]§! ティア3, §Y[Root.GetT4LumpSociety]§! ティア4.\n£engineering£ （一時所得）§Y[Root.GetT1LumpEngineering]§! ティア1, §Y[Root.GetT2LumpEngineering]§! ティア2, §Y[Root.GetT3LumpEngineering]§! ティア3, §Y[Root.GetT4LumpEngineering]§! ティア4.\n\n£minerals£ （貯蔵物）§Y[Root.GetT1DepMinerals]§! ティア1, §Y[Root.GetT2DepMinerals]§! ティア2, §Y[Root.GetT3DepMinerals]§! ティア3, §Y[Root.GetT4DepMinerals]§! ティア4.\n£energy£ （貯蔵物）§Y[Root.GetT1DepEnergy]§! ティア1, §Y[Root.GetT2DepEnergy]§! ティア2, §Y[Root.GetT3DepEnergy]§! ティア3, §Y[Root.GetT4DepEnergy]§! ティア4.\n£physics£ （貯蔵物）§Y[Root.GetT1DepPhysics]§! ティア1, §Y[Root.GetT2DepPhysics]§! ティア2, §Y[Root.GetT3DepPhysics]§! ティア3, §Y[Root.GetT4DepPhysics]§! ティア4.\n£society£ （貯蔵物）§Y[Root.GetT1DepSociety]§! ティア1, §Y[Root.GetT2DepSociety]§! ティア2, §Y[Root.GetT3DepSociety]§! ティア3, §Y[Root.GetT4DepSociety]§! ティア4.\n£engineering£ （貯蔵物）§Y[Root.GetT1DepEngineering]§! ティア1, §Y[Root.GetT2DepEngineering]§! ティア2, §Y[Root.GetT3DepEngineering]§! ティア3, §Y[Root.GetT4DepEngineering]§! ティア4."
+ aianom.0.desc:0 "§H[Root.GetName]§!が生成済：\n\n£minerals£ （一時所得）§Y[Root.GetT1LumpMinerals]§! ティア1, §Y[Root.GetT2LumpMinerals]§! ティア2, §Y[Root.GetT3LumpMinerals]§! ティア3, §Y[Root.GetT4LumpMinerals]§! ティア4.\n£energy£ （一時所得）§Y[Root.GetT1LumpEnergy]§! ティア1, §Y[Root.GetT2LumpEnergy]§! ティア2, §Y[Root.GetT3LumpEnergy]§! ティア3, §Y[Root.GetT4LumpEnergy]§! ティア4.\n£physics£ （一時所得）§Y[Root.GetT1LumpPhysics]§! ティア1, §Y[Root.GetT2LumpPhysics]§! ティア2, §Y[Root.GetT3LumpPhysics]§! ティア3, §Y[Root.GetT4LumpPhysics]§! ティア4.\n£society£ （一時所得）§Y[Root.GetT1LumpSociety]§! ティア1, §Y[Root.GetT2LumpSociety]§! ティア2, §Y[Root.GetT3LumpSociety]§! ティア3, §Y[Root.GetT4LumpSociety]§! ティア4.\n£engineering£ （一時所得）§Y[Root.GetT1LumpEngineering]§! ティア1, §Y[Root.GetT2LumpEngineering]§! ティア2, §Y[Root.GetT3LumpEngineering]§! ティア3, §Y[Root.GetT4LumpEngineering]§! ティア4.\n\n£minerals£ （開発特性）§Y[Root.GetT1DepMinerals]§! ティア1, §Y[Root.GetT2DepMinerals]§! ティア2, §Y[Root.GetT3DepMinerals]§! ティア3, §Y[Root.GetT4DepMinerals]§! ティア4.\n£energy£ （開発特性）§Y[Root.GetT1DepEnergy]§! ティア1, §Y[Root.GetT2DepEnergy]§! ティア2, §Y[Root.GetT3DepEnergy]§! ティア3, §Y[Root.GetT4DepEnergy]§! ティア4.\n£physics£ （開発特性）§Y[Root.GetT1DepPhysics]§! ティア1, §Y[Root.GetT2DepPhysics]§! ティア2, §Y[Root.GetT3DepPhysics]§! ティア3, §Y[Root.GetT4DepPhysics]§! ティア4.\n£society£ （開発特性）§Y[Root.GetT1DepSociety]§! ティア1, §Y[Root.GetT2DepSociety]§! ティア2, §Y[Root.GetT3DepSociety]§! ティア3, §Y[Root.GetT4DepSociety]§! ティア4.\n£engineering£ （開発特性）§Y[Root.GetT1DepEngineering]§! ティア1, §Y[Root.GetT2DepEngineering]§! ティア2, §Y[Root.GetT3DepEngineering]§! ティア3, §Y[Root.GetT4DepEngineering]§! ティア4."
  AIANOM_LUMP_CAT:0 "軌道上のデブリ"
  AIANOM_LUMP_CAT_desc:0 "[Root.GetName]の軌道上で、 興味深い物体の反応をセンサーが捉えた。 "
  AIANOM_MININGDEPO_CAT:0 "地表の反応"
@@ -1357,7 +1357,7 @@
  mineral_mapping:0 "鉱物マッピング"
  mineral_mapping_desc:0 "地下の地形をすばやく測量し、 鉱脈の正確な地図を作れるようになるシステム。 "
  disregard_for_alien_life:0 "異種生命への無関心"
- disregard_for_alien_life_desc:0 "銀河の異種生命と生物多様性に関心を払わず、 異星人好きとしてふさわしくない行動を取った。 "
+ disregard_for_alien_life_desc:0 "銀河の異種生命と生物多様性に関心を払わず、 受容主義者としてふさわしくない行動を取った。 "
  ####################################
  # Anomaly Categories
  ####################################
@@ -2103,9 +2103,9 @@
  distar.10953.desc:0 "§H[From.GetName]§!はLゲートの封鎖を除去し彼らの支配下に置いた！ 彼らは今、 §HLクラスター§!への完全な通行権を持っている。 \n\nおそらくは、 その副次的作用として、 銀河内の全Lゲートも同様に活性化する兆候を見せている。 ゲートの自己修正ソフトウェアの進捗速度から、 数年以内にメンテナンス・サイクルが終了するだろう。 "
  distar.10953.a:0 "我々は競り負けた"
  distar.10954.desc:0 "§H[From.GetName]§!は、 その領内にある古代の亜空間ゲートを再起動し、 この銀河の外縁にある孤立した星団への道を拓いた！  彼らが「§HLクラスター§!」と呼ぶこの星団には、 ハイパーレーンによって辿り着くことはできない。 Lゲートが唯一の進入路である。 "
- graygoo.13.desc:0 "§H[From.GetName]§!の科学者は、 彼らが§HLクラスター§!と呼ぶ、 これまで銀河から孤立していた星団への恒久的接続を確立した。 不幸なことにこれは、 星団の住人――目に入る物すべてを攻撃するナノマシンの群れ――によるわが銀河への侵攻を引き起こした！ \n\n彼らはLゲートと呼ばれる亜空間ポータル群から出現しつづけており、 交信の試みは失敗した。 ゲートからの彼らの出現をきっかけとして、 我々はその星団を発見した。 "
+ graygoo.13.desc:0 "§H[From.GetName]§!の科学者は、 彼らが§HLクラスター§!と呼ぶ、 これまで銀河から孤立していた星団への恒久的接続を確立した。 不幸なことにこれは、 星団の住人――手当たり次第にすべてを攻撃するナノマシンの群れによるわが銀河への侵攻を引き起こした！ \n\n彼らはLゲートと呼ばれる亜空間ポータル群から出現しつづけており、 交信の試みは失敗した。 ナノマシン群の航跡を辿ると、 ゲートの向こうの星団から発されている信号を検知した。 "
  begin_lcluster_chain:0 "状況ログの更新：Lクラスター"
- distar.10901.title:0 "Lゲートが必要だ。 "
+ distar.10901.title:0 "Lゲートが必要"
  distar.10901.desc:0 "Lゲートの情報や技術を大量に集めたものの、 稼働中のゲートを手に入れていない。 \n\nこのプロジェクトを続ける前に、 Lゲートをもつ星系を領有しなければならない。 "
  distar.10901.a:0 "それならLゲートを手に入れよう。 "
  distar.10901.b:0 "面白い気晴らしだが、 もう終わりだ。 "
@@ -2117,8 +2117,8 @@
  curator_buff_hatchling:0 "保護皮膜"
  curator_buff_hatchling_desc:0 "学術中立機構の助言を聞き入れた我々は、 ボイドスポーンの腐食性の唾や棘を防ぐコーティングで船を覆った。 "
  enigmatic_cache_in_orbit:0 "エイリアン研究"
- enigmatic_cache_in_orbit_desc:0 "謎の貯蔵庫が軌道上に留まっている間は、 科学者は研究の機会を充分に得られるだろう。 "
- enigmatic_cache_in_orbit_phobe:0 "チューブのもたらす不安"
+ enigmatic_cache_in_orbit_desc:0 "謎の筒型物体が軌道上に留まっている間は、 科学者は研究の機会を充分に得られるだろう。 "
+ enigmatic_cache_in_orbit_phobe:0 "筒型物体のもたらす不安"
  enigmatic_cache_in_orbit_phobe_desc:0 "卑劣なエイリアンのからくり仕掛けが軌道上に残っている限り、 市民はよく眠れないだろう。 "
  # ANOMALY CATEGORIES
  stolen_ship_cat:0 "武装した船舶"
@@ -2141,7 +2141,7 @@
  # WEAPON COMPONENTS
  SPORE_LAUNCHER:0 "$STRANGE_COMPONENTS_DESC$"
  # EVENTS
- distar.9000.lcluster_clue_desc_1:1 "謎の貯蔵施設で見つかった未知の化合物は、 粉のような微小ロボット群――ナノマシンであることがわかった。 外殻につけられた傷のいくつかには、 食いこんだナノマシンの機械爪も見つかったし、 貯蔵庫内部からエネルギーを吸い取っているナノマシン（起動中だが損傷している）の存在も、 傷のひとつで見つかった。 そのナノマシンのハードドライブから、 Lクラスター・ゲートウェイ・ネットワークを理解する鍵となるかもしれない残存データを抽出できた。 "
+ distar.9000.lcluster_clue_desc_1:1 "謎の筒型物体で見つかった未知の化合物は、 粉のような微小ロボット群――ナノマシンであることがわかった。 外殻の傷のいくつかには食いこんだナノマシンの機械爪も見つかったし、 物体内部からエネルギーを吸い取っているナノマシン（稼働中だが損傷している）も、 傷のひとつで見つかった。 そのナノマシンのハードドライブから、 Lクラスター・ゲートウェイ・ネットワークを理解する鍵となるかもしれない残存データを抽出できた。 "
  distar.9000.lcluster_clue_desc_2:0 "[big_rip_planet.GetName]の廃墟で回収した品々のなかに、 原始的な植物型種族に干渉した社会が遺した、 動作不全のホログラムがあった。 そのデータの大半は、 絶えまない擦過音や送信者のパニックのせいで聞き取れないか理解不能だったが、 ゲートウェイ・ネットワークについて価値ある情報を含む断片をいくつか復元できた。 \n\nしかしホログラムの大半は、 不快なグレイ・テンペストの兆候と、 それに続く陰惨な死にかかわる内容に特化していた。 "
  distar.9000.lcluster_clue_desc_3:0 "エックスヴァン研究所から帰還した乗組員の防護服を除染していたところ、 未知の物質が発見された。 詳細な検査の結果、 それは細かな灰色の塵となった微小サイズのロボットの断片だった。 発見したサンプルの中には無傷のナノマシンがあり、 それはゲートウェイとおぼしき構造物にボルトを取りつけろという命令を与えられていた。 \n\nこの分子構造物は、 Lゲートのネットワーク全体を構築するために不可欠だ。 "
  # Invisible Death
