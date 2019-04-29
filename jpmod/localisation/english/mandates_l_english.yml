@@ -17,7 +17,7 @@
  MANDATE_mandate_orbital_researcher_DESC:3 "[Root.Owner.GetName]の研究力を強化するため、 新規の軌道§Y研究ステーション§!を4つ以上建造せよ。 \n\n報酬：\n$mandate_unity_reward$"
  MANDATE_mandate_miner:0 "惑星外採鉱者"
  MANDATE_mandate_miner_DESC:1 "[Root.Owner.GetName]の鉱物備蓄を増やすため、 新規の軌道§Y採掘ステーション§!を4つ以上建造せよ。 \n\n報酬：\n$mandate_influence_reward_t5$。 "
- MANDATE_mandate_shipwright:0 "造船工"
+ MANDATE_mandate_shipwright:0 "造船者"
  MANDATE_mandate_shipwright_DESC:2 "統治期間終了までに、 宇宙軍許容量の75%以上の艦隊を維持して、  [Root.Owner.GetSpeciesAdj]の人々の安全を確保せよ。 \n\n報酬：\n$mandate_influence_reward_t5$。 "
  MANDATE_mandate_peacemaker:0 "平和実現者"
  MANDATE_mandate_peacemaker_DESC:1 "統治期間終了までに、 [Root.Owner.GetName] が関係しているすべての戦争から離脱せよ。 \n\n報酬：\n$mandate_influence_reward_t5$"

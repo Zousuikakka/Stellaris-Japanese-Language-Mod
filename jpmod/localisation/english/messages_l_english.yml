@@ -18,9 +18,9 @@
  ####################################
  # Fleet Orders
  ####################################
- MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§!は$PLANET|Y$軌道上で$SHIPCLASS|Y$の建造を完了した。 "
- MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§!が$PLANET|Y$にて§Hアノマリー§!を発見した。 "
- MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "$STAR|Y$星で$SHIPCLASS|Y$§H$FLEET$§!の建造が完了した。 "
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§! は $PLANET|Y$ 軌道上で $SHIPCLASS|Y$ の建造を完了した。 "
+ MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§! が $PLANET|Y$ で§Hアノマリー§!を発見した。 "
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "$STAR|Y$ で $SHIPCLASS|Y$ §H$FLEET$§! の建造が完了した。 "
  MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§!がFTL航跡の分析に失敗した。 "
  MESSAGE_FLEET_ORDER_ANALYZE_FINISH:0 "§H$FLEET$§!がFTL航跡の分析に成功した。 "
  MESSAGE_FLEET_SYSTEM_FULLY_SURVEYED:0 "$SYSTEM|Y$ 星系は完全に調査された。 "
@@ -29,11 +29,11 @@
  AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE:0 "艦隊任務をキャンセル"
  MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:0 "§H$FLEET$§! は自動探索をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
  FLEET_BUILD_ORDER_CANCELED_MESSAGE_TYPE_TITLE:0 "$AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE$"
- MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$は$SYSTEM|H$に$STATION|H$を構築できなかった。  資源は払い戻された。 "
+ MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$ は $SYSTEM|H$ に $STATION|H$ を建造できなかった。  資源は払い戻された。 "
  MESSAGE_BYPASS_EXPLORED:0 "ワームホールの調査"
- BYPASS_EXPLORED_MESSAGE:0 "ワームホール$SYSTEM1|Y$の調査が完了した。 このワームホールは$SYSTEM2|Y$星系につながっている。 "
+ BYPASS_EXPLORED_MESSAGE:0 "$SYSTEM1|Y$ 星系のワームホールの調査が完了した。 このワームホールは $SYSTEM2|Y$ 星系につながっている。 "
  MESSAGE_ESN_ARRIVED_TITLE:0 "実験的亜空間航法"
- MESSAGE_ESN_ARRIVED:0 "$FLEET_NAME|Y$は$SYSTEM|Y$星系に到着した"
+ MESSAGE_ESN_ARRIVED:0 "$FLEET_NAME|Y$ は $SYSTEM|Y$ 星系に到着した"
  MESSAGE_ESN_ABORTED_TITLE:0 "実験的亜空間航法中止"
  MESSAGE_ESN_ABORTED:0 "$FLEET_NAME|Y$に下されていた命令は中止された。 $SYSTEM|Y$星系が到達不可能になった。 "
  ####################################
@@ -221,7 +221,7 @@
  ACTION_RECALL_EMBASSY_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetName]§!から大使を召還した。 \n\n敵対関係の始まりだろうか? "
  ACTION_DECLARE_WAR_NOTIFICATION:3 "§H[From.GetName]§!が§H[Root.GetName]§!に宣戦！ \n\nどちらの帝国が強いか、 はっきりするわけだ。 "
  ACTION_OFFER_PEACE_NOTIFICATION:1 "§H[From.GetName]§!は§H[Root.GetName]§!と和平を結んだ。 "
- ACTION_INVITE_TO_ALLIANCE_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetAllianceName]§!に加盟しました。 \n\n今後、 彼らは協同して敵に当たる。 "
+ ACTION_INVITE_TO_ALLIANCE_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetAllianceName]§!に加盟した。 \n\n今後、 彼らは協同して敵に当たる。 "
  ACTION_LEAVE_ALLIANCE_NOTIFICATION:2 "§H[From.GetName]§!は§H[From.GetAllianceName]§!から脱退した。 \n\n我々にとってはチャンスかもしれない……"
  ACTION_DEMAND_VASSALIZATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetName]§!を属国化した。 \n\n彼らは安全と引き換えに自由を犠牲にしたのだ。 "
  ACTION_ASK_TO_BECOME_VASSALIZED_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetName]§!を属国化した。 \n\n彼らは安全と引き換えに自由を犠牲にしたのだ。 "
@@ -323,7 +323,7 @@
  ####################################
  # Fleet Evade
  ####################################
- MESSAGE_FLEET_EVADE_HOSTILE:0 "$FLEET$は$SYSTEM|H$星系で敵対艦$HOSTILE|R$と遭遇したため、 回避を試みている！ "
+ MESSAGE_FLEET_EVADE_HOSTILE:0 "$FLEET$ は $SYSTEM|H$ 星系で敵対艦 $HOSTILE|R$ と遭遇したため、 回避を試みている！ "
  MESSAGE_FLEET_EVADE_HOSTILE_FLEET_TYPE:0 "$TYPE$ $NAME|H$"
  MESSAGE_FLEET_EVADE_HOSTILE_MESSAGE_TYPE_TITLE:0 "敵艦隊を回避"
  ####################################
@@ -335,7 +335,7 @@
  COUNTRY_LEADER_DEATH:0 "$CLASS|Y$ $LEADER|Y$は$PLANET|Y$で死亡した！ "
  HEIR_DEATH:0 "§Y$HEIR$§! $HEIRNAME|Y$は死亡した！ "
  RULER_ELECTED:0 "新たな統治者が投票により選出された！  次の選挙がある$TIME|Y$までの間、 $TITLE$ $LEADER|Y$が統治を行う。 "
- RULER_ELECTED_UNTIL_DEATH:0 "$TITLE$ $LEADER|Y$が新たな統治者として選出された。 その死まで統治を行う。 "
+ RULER_ELECTED_UNTIL_DEATH:0 "$TITLE$ $LEADER|Y$が新たな統治者に選出された。 その死まで統治を行う。 "
  RULER_ELECTED_HEIR:0 "継承序列により$TITLE$ $LEADER|Y$が新たな統治者となった。 "
  MESSAGE_LEADER_DEATH_TITLE:0 "リーダーが死亡した"
  MESSAGE_RULER_ELECTED_TITLE:0 "統治者が選出された"
@@ -392,7 +392,7 @@
  # Planet Destruction
  ####################################
  MESSAGE_PLANET_DESTROYED:0 "星の荒廃"
- MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$（コロッサス $ADJ$ に搭載）"
+ MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$（$ADJ$ のコロッサスに搭載）"
  ####################################
  # Terraforming
  ####################################
@@ -435,12 +435,12 @@
  # Invasion
  ####################################
  MESSAGE_INVASION_TITLE:0 "侵略終了"
- MESSAGE_INVASION_ATTACKER_WIN:0 "$PLANET|H$への侵略に成功した"
- MESSAGE_INVASION_ATTACKER_LOSE:0 "$PLANET|H$への侵略に失敗した"
- MESSAGE_INVASION_DEFENDER_WIN:0 "$PLANET|H$への侵略者を撃退した"
- MESSAGE_INVASION_DEFENDER_LOSE:0 "$PLANET|H$への侵略者の撃退に失敗した"
+ MESSAGE_INVASION_ATTACKER_WIN:0 "$PLANET|H$への侵略に成功した！ "
+ MESSAGE_INVASION_ATTACKER_LOSE:0 "$PLANET|H$への侵略に失敗した。 "
+ MESSAGE_INVASION_DEFENDER_WIN:0 "$PLANET|H$への侵略者を撃退した！ "
+ MESSAGE_INVASION_DEFENDER_LOSE:0 "$PLANET|H$への侵略者の撃退に失敗した。 "
  MESSAGE_RETREAT_CASUALTIES_TITLE:0 "撤退中の地上軍が壊滅"
- RETREAT_CASUALTIES_DESC:0 "$NUM|Y$ / $TOTAL|Y$ 個の地上軍が、 $PLANET|H$からの撤退中に失われた。 \n$LOST$"
+ RETREAT_CASUALTIES_DESC:0 "$PLANET|H$ からの撤退中に $NUM|Y$ / $TOTAL|Y$ 個の地上軍が失われた\n$LOST$"
  MESSAGE_LOST_ARMY:0 "$NUMBER$。 $NAME|R$"
  ####################################
  # Subject changes
@@ -467,7 +467,7 @@
  COUNTRY_EDICT_BECAME_INVALID:1 "必要な条件を満たさなくなったため布告「$EDICT|Y$」は無効化された。 "
  MESSAGE_EXPIRED_EDICT_TITLE:0 "布告期間満了"
  COUNTRY_EDICT_EXPIRED:0 "帝国への布告「$EDICT|Y$」は期間が満了した。 "
- PLANET_EDICT_EXPIRED:0 "惑星$PLANET$への布告「$EDICT|Y$」は期間が満了した。 "
+ PLANET_EDICT_EXPIRED:0 "$PLANET$ への布告「$EDICT|Y$」は期間が満了した。 "
  #####################################
  # Megastructures
  #####################################
@@ -476,7 +476,7 @@
  MESSAGE_MEGASTRUCTURE_UPGRADED_TITLE:0 "巨大構造物のアップグレード"
  MESSAGE_MEGASTRUCTURE_UPGRADED:2 "$SYSTEM|H$星系にて$MEGASTRUCTURE|H$のアップグレードが完了した。 "
  MESSAGE_ALIEN_MEGASTRUCTURE_BUILT_TITLE:0 "他国による巨大構造物の建設"
- MESSAGE_ALIEN_MEGASTRUCTURE_BUILT:0 "$COUNTRY|H$が$SYSTEM|H$星系にて$MEGASTRUCTURE|H$の建造が完了した。 "
+ MESSAGE_ALIEN_MEGASTRUCTURE_BUILT:0 "$COUNTRY|H$が$SYSTEM|H$星系にて$MEGASTRUCTURE|H$の建造を完了した。 "
  #####################################
  # Casus Belli
  #####################################
@@ -490,4 +490,4 @@
  # Claims
  #####################################
  MESSAGE_NEW_CLAIM_ON_SYSTEM_TITLE:1 "他国による領有権の主張"
- MESSAGE_NEW_CLAIM_ON_SYSTEM:1 "我々が合法的に領有しているにも関わらず、 $SYSTEM|H$の領有権を$COUNTRY|H$は図太くも主張してきた！ "
+ MESSAGE_NEW_CLAIM_ON_SYSTEM:1 "我々が合法的に領有しているにも拘わらず、 $COUNTRY|H$ は図太くも $SYSTEM|H$ の領有権を主張してきた！ "

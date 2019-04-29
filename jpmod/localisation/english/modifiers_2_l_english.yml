@@ -165,7 +165,7 @@
  mod_damage_vs_country_type_extradimensional_3_mult:0 "激怒せる者へのダメージ"
  mod_damage_vs_country_type_ai_empire_mult:1 "コンティンジェンシーへのダメージ"
  mod_damage_vs_country_type_sentinels_mult:0 "センチネルへのダメージ"
- mod_damage_vs_country_type_gate_builders_mult: "ゲート建設者へのダメージ"
+ mod_damage_vs_country_type_gate_builders_mult:0 "ゲート建設者へのダメージ"
  ####################################
  # Opinion Modifiers
  ####################################
