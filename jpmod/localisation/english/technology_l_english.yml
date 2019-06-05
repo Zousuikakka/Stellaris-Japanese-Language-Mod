@@ -95,6 +95,8 @@
 
  tech_defense_platform_hull_1:0 "構造的完全性の改善"
  tech_defense_platform_hull_1_desc:0 "衝撃吸収能力を高めた強化構造と強化防爆シールドにより、 非常に大きな圧力を受けてもプラットフォームの構造的一体性を保つ。 "
+ tech_habitat_1:0 "軌道上居住地"
+ tech_habitat_1_desc:0 "ほぼ自立した軌道上居住地の建造を可能にする。 "
  #Spaceport Modules
  #tech_corvette_assembly:0 "発展型コルベットの設計"
  #tech_corvette_assembly_desc:0 "未使用"
@@ -1025,6 +1027,8 @@
  tech_curator_lab_desc:1 "これらの艦載の研究室は、 さらに調査速度を高めるために、 古き学術中立機構の先進的な技術を取り入れている。 "
  tech_archeology_lab:0 "キュレーターの考古学ラボ"
  tech_archeology_lab_desc:1 "学術中立機構から提供された、 新発見を容易に相互参照できる膨大なデータベースを含む、 先進的な考古学研究装備を備えた艦載の実験室。 "
+ tech_archeology_lab_ancrel:0 "$tech_archeology_lab$"
+ tech_archeology_lab_ancrel_desc:0 "$tech_archeology_lab_desc$"
  #####################################
  # Machine Empire Techs
  #####################################
