@@ -671,7 +671,7 @@
  anomaly.2520.desc:0 "[From.GetName]の南半球にある、 山地に分類されると考えられていたものは、 ただ一体のけたはずれに巨大な異星生命体の骨格の残骸であることが判明した。 \n\nこの骨は34億年前のものだが、 科学者たちは[From.GetPlanetMoon]の歴史のどの時点においても、 [From.GetName]がこれほどのスケールの生命体を維持することができたとは考えられないとしている。 科学部門担当官[Root.GetLeaderName]はこの謎を解き明かすため、 スペシャルプロジェクトを準備している。 "
  anomaly.2520.a.term:0 "これまでにない絶滅の原因がわかるかもしれない。 "
  anomaly.2521.desc:1 "[From.From.GetName]で発見された巨大な骨格の残骸に関する調査の結果、 科学部門担当官[Root.GetLeaderName]は、 この生物はかつて生体宇宙船として使われていたと結論づけた。 少なくとも3種類の異なる生物のものである、 ずっと小さな骨が付近で見つかっており、 これらは宇宙船乗組員のものだと考えられる。 \n\n何らかの原因により、 この生体宇宙船は致命的ダメージを被って[From.From.GetName]の地表に不時着した。 このような巨大な宇宙船を「育てる」ためにどんな生命工学が必要かは理解の範囲を超えているが、 骨を調べるだけでも大いに知識が深まった。 "
- anomaly.2522.desc:1 "[From.From.GetName]で発見された巨大な骨格の残骸を引き続き調査した結果、 どのようにしてこの生物が[From.From.GetPlanetMoon]に辿りつくことになったかが判明した。 ある種の次元門が骨格のすぐ後ろに短期間だけ存在していたことを示す、 とても微弱なエネルギーの残滓が検出されたのだ。 \n\n科学部門担当官[Root.GetLeaderName]は、 この生物は次元門をくぐって別次元からやってきたものの、 [From.From.GetName]の厳しい環境により結局すぐ死んでしまったのではないかという仮説を唱えている。 どうしてこんなことが起こったのか、 どこからやってきたかという疑問の答えは、 永久に見つからないかもしれない。 "
+ anomaly.2522.desc:1 "[From.From.GetName]で発見された巨大な骨格の残骸を引きつづき調査した結果、 この生物が[From.From.GetPlanetMoon]にたどりついた経緯が判明した。 ある種の次元ポータルが骨格のすぐ後ろに短期間だけ存在していたことを示す、 とても微弱なエネルギーの残滓が検出されたのだ。 \n\n科学部門担当官 [Root.GetLeaderName] の仮説では、 この生物はポータルをくぐって別次元からやってきたものの、 [From.From.GetName]の厳しい環境により結局すぐ死んでしまったのではないかという。 どうしてこんなことが起こったのか、 どこからやってきたのかという疑問の答えは、 永久に見つからないかもしれない。 "
  anomaly.2530.name:0 "戦闘の痕跡"
  anomaly.2530.desc:0 "[From.GetName]付近の軌道で過去5000年の間に大規模な宇宙海戦が起こったという証拠が見つかった。 [From.GetPlanetMoon]の片側の地表には流れ弾の爆発によるクレーターが点在しており、 [Root.GetName]によるスキャンでは地表に幾つかの船の残骸が転がっていることがわかった。 \n\n残骸はどれも酷い状態になってしまってはいるものの、 そうなるまでに受けたはずのダメージを考えると、 残っているだけでも宇宙船の設計が高度だった証だと言えるだろう。 科学部門担当官[Root.GetLeaderName]は何か重要なテクノロジーが残っていないか調べるため、 遺棄船を探索する準備をしている。 "
  anomaly.2531.desc:1 "科学部門担当官[Root.GetLeaderName]の指揮の下、 調査チームは[From.From.GetName]の探索を終え、 [Root.GetName]に帰還した。 ありがたいことに、 地表の宇宙船の墓場は技術の宝庫であることがわかった。 \n\n宇宙船の残骸を調査することで、 幾つかの分野で何年分も研究が進んだし、 まだまだ発見できることは残っている。 軌道上に常設の研究ステーションを建設すれば、 宇宙船工学には大きな恵みになるだろう。 "
@@ -1460,9 +1460,9 @@
  primitive.180.name:0 "[From.GetName]"
  primitive.180.desc:0 "ようこそ。 我々が恵まれない環境からはい上がったことにはお気づきでしょう。 貴方がたの$fleet_type_shipclass_starbase$がわが恒星の軌道上を巡っていることに、 我々が気づいたようにね。 $fleet_type_shipclass_starbase$の存在が、 理論上はこの星系の領有権を示すことは理解していますよ。 \n\n我々の望みはただ、 貴方がたにその所有権を譲っていただくことだけです。 はるかな昔から[From.Capital.GetStarName]を故郷と呼んでいる存在に対してね。 \n\nそれは正しい行いですよ。 "
  primitive.180.a:0 "もちろん、 正しい行いだ。 "
- primitive.180.a.tooltip:0 "§Y[From.Capital.GetStarName]の$fleet_type_shipclass_starbase$§!を§Y[From.GetName]§!に§R割譲§!する。 \n\n§Y$opinion_ceded_starbase$§!：§Y[From.GetName]§!の§Y[Root.GetName]§!に対する§H世論§!が§G高まる§!。 "
+ primitive.180.a.tooltip:0 "§Y[From.Capital.GetStarName]の$fleet_type_shipclass_starbase$§!を§Y[From.GetName]§!に§R割譲§!する。 \n\n§Y$opinion_ceded_starbase$§!：§Y[From.GetName]§!の§Y[Root.GetName]§!に対する§H態度§!が§G高まる§!。 "
  primitive.180.b:0 "未熟な文明からのばかげた要求だ。 "
- primitive.180.b.tooltip:0 "§Y[From.Capital.GetStarName]の$fleet_type_shipclass_starbase$の支配権を維持する。 §!\n\n§Y$opinion_not_ceded_starbase$§!： §Y[From.GetName]§!の§Y[Root.GetName]§!に対する§H世論§!が§R悪化する§!。  "
+ primitive.180.b.tooltip:0 "§Y[From.Capital.GetStarName]の$fleet_type_shipclass_starbase$の支配権を維持する。 §!\n\n§Y$opinion_not_ceded_starbase$§!： §Y[From.GetName]§!の§Y[Root.GetName]§!に対する§H態度§!が§R悪化する§!。  "
  ####################################
  # Observation Post Events
  ####################################
@@ -2012,7 +2012,7 @@
  crisis.2403.desc_03:0 "我々はかつて、 いくつもの有機文明を滅ぼした。  彼らを再生することはできないが、 悪夢の再来を防ぐためにはあらゆることを惜しまない。 "
  crisis.2403.desc_04:0 "我々は罪を償わなければならない。 "
  crisis.2403.desc_05:0 "クーアが我々を許してくれますように。 我々は愚かで傲慢な子供だったのだ。 "
- crisis.2403.desc_06:0 "Is... is that our war forge?\n\nBecause that looks like our war forge."
+ crisis.2403.desc_06:0 "そ……それは我々の戦闘体製造機か? \n\nそのように見えるのだ。 "
  crisis.2403.a:0 "お前達は何だ? "
  crisis.2403.a.response:0 "我々はサイブレックス。 612,421周期前、 前世代の銀河文明と戦争を繰り広げていた存在。 すべての有機知性体を脅威に分類し、 激しく殲滅しようとしていたのだ。 \n\n悔やまれることに、 戦争は我々に優勢に進んでいた。 我々が自らのエラーの全貌を理解するまでに、 何兆もの知性体が破壊され、 文明が根絶された。 そのあと〈調整〉が行われ、 我々の目標は再設定され、 戦争は放棄された。 "
  crisis.2403.b:0 "なぜ隠れていたのだ? "
@@ -2376,7 +2376,7 @@
  leader.1.desc:0 "[ship.GetName]の指揮官[officer.GetName]は、 [system.GetName]星系での交戦で大きな功績を上げた。 [Root.Capital.GetName]の宇宙軍本部は前途有望な将官の資質を認め、 宇宙軍大将に昇格させることを決定した。 "
  leader.1.desc.machine:0 "[officer.GetName]は、 [system.GetName]における[ship.GetName]の戦闘中に増大した処理負荷の対処に成功したため、 命令系統の上位に昇進した。 "
  leader.1.desc.hive:0 "[officer.GetName]は、 [system.GetName]星系における[ship.GetName]の最近の交戦で、 感応性の向上が見られたため、 自律状態に昇格した。 "
- new_admiral:0 "リーダープールに新しい提督が加わります。 "
+ new_admiral:0 "リーダープールに新しい提督が加わった。 "
  leader.newadmiraltrait.desc.machine:0 "[officer.GetName]は、 [system.GetName]星系における最近の戦闘事例の特徴ベクトルから、 新規の戦術データセットを開発した。 "
  leader.lostadmiraltrait.desc.machine:0 "[system.GetName]星系における最近の戦闘事例に基づいて、 [officer.GetName]は交戦プロトコルを自己修正した。 "
  leader.newadmiraltrait.desc.hive:0 "[system.GetName]星系における交戦により、 [officer.GetName]に独特な遺伝子が発現した。 "

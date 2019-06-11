@@ -196,7 +196,7 @@
  colony.3020.a:0 "違う、 [Root.Owner.Leader.GetName]は私だ！  お前こそ誰だ? ！ "
  colony.3021.desc:0 "興味深いな。 もしお前の言うとおりなら、 このポータルは並行次元を繋いでいるのではないだろうか。 我々はどちらも [Root.Owner.Leader.GetName] だが、 どこかで次元が分岐したのにちがいない。 "
  colony.3021.a:1 "面白い。 そちらの [Root.Owner.Species.GetNamePlural] がどうしているか教えろ！ "
- colony.3021.b:0 "次元門を通じて貿易をしよう。 "
+ colony.3021.b:0 "次元ポータルを通じて貿易をしよう。 "
  mirror_trade_reply:0 "私もそれを提案しようと思っていたのだよ、 全 [Root.Owner.Species.GetNamePlural] のために！ "
  colony.3022.desc:0 "君たちの次元と同じだと思う。 ワープドライブの発見以降、 [Root.Owner.Capital.GetName] から宇宙に進出し……"
  colony.3022.a:0 "ワープドライブ?  我々はハイパーレーンを使っている！ "
