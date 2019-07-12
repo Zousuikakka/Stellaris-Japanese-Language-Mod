@@ -82,7 +82,7 @@
  # Science
  ####################################
  LIGHT_MILITARY_STATION_SECTION:0 "小型ステーションセクション"
- PD_MILITARY_STATION_SECTION:0 "ポイントディフェンスステーションセクション"
+ PD_MILITARY_STATION_SECTION:0 "個艦防空ステーションセクション"
  MEDIUM_MILITARY_STATION_SECTION:0 "中型ステーションセクション"
  MISSILE_MILITARY_STATION_SECTION:0 "ミサイルステーションセクション"
  HEAVY_MILITARY_STATION_SECTION:0 "大型ステーションセクション"

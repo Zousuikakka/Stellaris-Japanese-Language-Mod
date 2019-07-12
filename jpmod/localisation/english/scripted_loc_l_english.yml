@@ -19,7 +19,7 @@
  edible_plants:0 "ミックスサラダ"
  edible_fallback:0 "珍味"
  edible_fallback_plural:0 "珍味達"
- test.edible.title:0 "腹が減ってる? "
+ test.edible.title:0 "腹が減ってる？ "
  test.edible.desc:0 "[Root.GetRulerName]、 我々の偉大な[Root.GetRulerTitle]でさえも、 [Root.GetEdibleNamePlural]に属する汁気たっぷりの[Root.GetEdibleName]にすぎない。 "
  getunitdrone_unit:0 "ユニット"
  getunitdrone_unit_plural:0 "ユニット群"

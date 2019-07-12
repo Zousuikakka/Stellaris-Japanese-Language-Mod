@@ -148,7 +148,7 @@
  syndaw.525.desc:0 "[target_planet.GetName]の労働用ロボットたちは、 最近この土地は地熱が不安定になっているため、 有機生命体の住人には安全でないと主張して、 [Root.GetSpeciesName]の労働者たちの流入に抵抗している。 奇妙なことに、 我々の星系調査ではこのような主張の裏付けを得ることができなかった。 "
  syndaw.525.a:0 "いいから、 [Root.GetSpeciesName]の労働者を送り込め。 "
  syndaw.525.a.tooltip:0 "彼らの主張の裏付けが取れなければ、 ロボットは命令系統に従うだろう。 "
- syndaw.525.b:0 "何故ロボットが嘘をついたんだ? "
+ syndaw.525.b:0 "何故ロボットが嘘をついたんだ？ "
  syndaw.525.b.tooltip:0 "その土地はロボットにくれてやれ。 向かっている[Root.GetSpeciesNamePlural]はどこか別の場所に行くだろう。 "
  #Follow-up from .525.a
  syndaw.526.name:0 "彼らの故郷"
