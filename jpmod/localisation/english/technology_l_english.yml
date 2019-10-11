@@ -45,7 +45,7 @@
  tech_battleships:0 "戦艦"
  tech_battleships_desc:0 "標準的軍艦として最大級であり、 戦艦は伝統的な重装甲と多数の砲台を備えている。 "
  tech_titans:0 "タイタン"
- tech_titans_desc:0 "停滞した帝国の中央星系にいる巨大な船影をモデルとした、 タイタン級軍艦はXサイズの武装を搭載することができる。 "
+ tech_titans_desc:0 "停滞した帝国の中央星系にいる巨大な船影をモデルとしたタイタン級軍艦は、 Tサイズの武装を搭載することができる。 "
  tech_colossus:0 "コロッサス"
  tech_colossus_desc:0 "メガエンジニアリングの発展は、 現実と幻想の境界線を曖昧にし、 ボタンを押すだけで惑星を破壊できる兵器を搭載したコロッサス級軍用艦の建造を可能にする。 "
  # Ships upgrades
@@ -934,7 +934,7 @@
  tech_repeatable_improved_shield_output:0 "シールドハーモニクス"
  tech_repeatable_improved_shield_output_desc:1 "船のシールドの基本的な仕組みは複雑だが、 様々な方法で調整と改善を行える。 "
  tech_repeatable_weapon_type_energy_damage:0 "合焦干渉計"
- tech_repeatable_weapon_type_energy_damage_desc:1 "レーザー兵器の発射間隔を完璧なものにすることは、 あらゆる惑星の工学エリートたちが何世紀も注力した課題だ。 "
+ tech_repeatable_weapon_type_energy_damage_desc:1 "レーザー兵器の発射間隔を完璧なものにすることは、 あらゆる惑星のエリート技術者たちが何世紀も注力した課題だ。 "
  tech_repeatable_weapon_type_energy_fire_rate:0 "瞬間冷却剤"
  tech_repeatable_weapon_type_energy_fire_rate_desc:1 "定期的に船体表面を冷却し、 兵器システムの安定性と効率性を改善する技術の発展により、 搭載兵器が自艦を吹き飛ばさないようにする。 "
  tech_repeatable_weapon_type_strike_craft_fire_damage:0 "シナプス迎撃機"

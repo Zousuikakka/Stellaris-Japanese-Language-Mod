@@ -34,7 +34,7 @@
  enable_colossus_project:0 "§Hスペシャルプロジェクト発令：§!コロッサスプロジェクト\n\n"
  describe_colossus_project:0 "§Yコロッサスプロジェクト§!の完了により、 §R対惑星兵器§!を装備することが可能な §Yコロッサス§!§H級§!がアンロックされる。 "
  TECH_UNLOCK_COLOSSUS_CONSTRUCTION_TITLE:0 "§H船種のアンロック：§!コロッサス"
- TECH_UNLOCK_COLOSSUS_CONSTRUCTION_DESC:0 "§Hコロッサス§!\nタイタンよりも巨大だが、 コロッサスの船体構造は対艦戦闘能力を持つことができない。 これは惑星を完全に壊滅させることが可能な、 移動式の軌道ステーション以外の何物でもない。 "
+ TECH_UNLOCK_COLOSSUS_CONSTRUCTION_DESC:0 "§Hコロッサス§!\nタイタンよりも巨大だが、 コロッサスの船体構造は対艦戦闘能力を持つことができない。 これは惑星を完全に壊滅させることが可能な、 移動式の軌道ステーションに他ならない。 "
  COLOSSUS_PROJECT:0 "コロッサスプロジェクト"
  COLOSSUS_PROJECT_DESC:0 "我らが[Root.GetScientistPlural]は、 銀河において知られる限り最大級の艦船を設計し、 惑星全体を壊滅させる兵器を考案する。 "
  tech_pk_cracker:1 "惑星破砕砲"

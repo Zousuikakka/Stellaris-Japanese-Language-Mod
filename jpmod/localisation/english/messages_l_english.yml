@@ -14,7 +14,7 @@
  MESSAGE_ARMY_RECRUITMENT_TITLE:0 "地上軍補充完了"
  MESSAGE_ARMY_RECRUITMENT:0 "$PLANET|Y$で地上軍の補充が完了した。 "
  MESSAGE_POP_CONSTRUCTION_MESSAGE_TYPE_TITLE:0 "$MESSAGE_CONSTRUCTION_MESSAGE_TYPE_TITLE$"
- MESSAGE_POP_CONSTRUCTION_FINISH:0 "$PLANET|Y$でPOPの建造が完了した。 "
+ MESSAGE_POP_CONSTRUCTION_FINISH:0 "$PLANET|Y$でPOPの製造が完了した。 "
  ####################################
  # Fleet Orders
  ####################################
@@ -392,7 +392,7 @@
  # Planet Destruction
  ####################################
  MESSAGE_PLANET_DESTROYED:0 "星の荒廃"
- MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$（$ADJ$ のコロッサスに搭載）"
+ MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$（$ADJ$コロッサスに搭載）"
  ####################################
  # Terraforming
  ####################################

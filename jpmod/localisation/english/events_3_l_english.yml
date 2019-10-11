@@ -203,7 +203,7 @@
  anomaly.4090.c:0 "[refugee_planet_3.GetName]に収まるだろう。 "
  anomaly.4090.d:0 "[refugee_planet_4.GetName]に移動させよう。 "
  anomaly.4090.e:0 "悲しいことに、 彼らに合う惑星がない。 "
- anomaly.4090.f:0 "すまない、 助けることは出来ないようだ。 "
+ anomaly.4090.f:0 "すまない、 助けることはできない。 "
  anomaly.4090.g:0 "我々は異星人を受け入れる気などない！ "
  anomaly.4090.uninhabitable:0 "残念ながら、 わが惑星の環境は彼らに適していない。 "
  anomaly.4093.name:0 "[RefugeeAliensNation.GetName]"
