@@ -1301,6 +1301,7 @@
  mod_MOL_species_trait_points_add:0 "軟体人遺伝子特性ポイント"
  mod_FUN_species_trait_points_add:0 "菌類遺伝子特性ポイント"
  mod_PLANT_species_trait_points_add:0 "植物人遺伝子特性ポイント"
+ mod_LITHOID_species_trait_points_add:0 "岩石遺伝子特性ポイント"
  mod_ROBOT_species_trait_points_add:0 "ロボット特性ポイント"
  mod_MACHINE_species_trait_points_add:0 "機械特性ポイント"
  mod_BIOLOGICAL_species_trait_points_add:0 "$species_trait_points_add$"

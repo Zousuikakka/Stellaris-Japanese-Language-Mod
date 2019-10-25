@@ -301,7 +301,7 @@
  action.38.message:1 "我々は§H[From.GetName]§!との戦争に敗れた"
  action.38.desc.default:1 "戦争は終わった。 我々の勝利だ。 "
  action.38.a:1 "最悪の結果だ。 "
- action.39.name:2 "§H[From.GetName]§!と現状追認の和平"
+ action.39.name:1 "§H[From.GetName]§!と現状追認の和平"
  action.39.message:1 "我々は§H[From.GetName]§!との白紙和平に調印した。 "
  action.39.desc.default:1 "戦争は終わった。 勝者はなかった。 "
  action.39.a:1 "今はこの状況を認めるしかない。 "

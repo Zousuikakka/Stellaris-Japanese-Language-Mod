@@ -198,8 +198,8 @@
  FALLEN_EMPIRE_MECH_PATRONIZING_DOW_ACCEPT_01:0 "愚かな小ボットよ。 回路を修正してくれようぞ。 "
  #01_FALLEN_EMPIRE_ANGRY_DOW_SELECT:0 "想像しろ、 する気があるなら、 [From.GetSpeciesNamePlural]の居ない銀河を。 "
  01_FALLEN_EMPIRE_ANGRY_DOW_ACCEPT:0 "貴様など星々を行き交う雑草でしかない。 そろそろ庭を手入れする頃か？ "
- FALLEN_EMPIRE_MECH_ANGRY_DOW_ACCEPT_01:0 "貴様など宇宙の金属くずに過ぎぬ。 そろそろリサイクルを始めるとしようか。 "
- 01_AWAKENED_EMPIRE_DOW_ACCEPT:0 "我々は後で貴様のちっぽけな帝国に対処する予定だったのだが。 まあいい、 いまからやってやろう。 "
+ FALLEN_EMPIRE_MECH_ANGRY_DOW_ACCEPT_01:0 "貴様らなど宇宙の屑鉄にすぎぬ。 そろそろリサイクルを始めるとしようか。 "
+ 01_AWAKENED_EMPIRE_DOW_ACCEPT:0 "貴様のちっぽけな帝国は後回しにする予定だったのだが。 まあいい、 今からやってやろう。 "
  AWAKENED_EMPIRE_MECH_DOW_ACCEPT_01:0 "貴様ら[From.GetSpeciesNamePlural]はそんなに滅びたいのか？  そうしてやろう。 "
  # AI Personality-based replies
  # Honorbound Warriors
@@ -380,6 +380,21 @@
  DS_VASSAL_GREETING_01:0 "獲物が狩人を支配するのは自然に反する。 この状態が長続きすることなどあり得ない。 "
  DS_MECH_VASSAL_GREETING_01:0 "機械は空腹を知らない。 とすると、 機械は[Root.GetName]のことを理解できないだろうな。 "
  DS_SYNTH_VASSAL_GREETING_01:0 "[From.GetSpeciesName]はもはや腹が減らない。 とすると、 [From.GetSpeciesName]は[Root.GetName]のことを理解することができないだろうな。 "
+ # Lithoid Devouring Swarm
+ DS_L_HOSTILE_GREETING_01:0 "貴様らの惑星を喰らい尽くしてやるぞ、 [From.GetSpeciesName]。 この運命から逃れることはできん。 "
+ DS_L_HOSTILE_GREETING_02:0 "話したければ話すがいい。 なにも変わらんがね。 "
+ DS_L_HOSTILE_GREETING_03:0 "我々は腹が減っている。 間もなく食事を始めるつもりだよ。 "
+ DS_L_HOSTILE_GREETING_04:0 "無駄な生命体どもめ。 貴様らの惑星を喰い尽くしてやる。 "
+ DS_L_THREATENED_GREETING_01:0 "手強い獲物といえど、 狩人たちが力を合わせれば倒れるものだ。 貴様らがどれだけ力を誇ろうと、 我々はその惑星を喰い尽くす。 "
+ DS_L_MECH_HOSTILE_GREETING_01:0 "[From.GetSpeciesAdj]の存在は我々の成長を脅かす。 共存は不可能だ。 "
+ DS_L_MECH_HOSTILE_GREETING_02:0 "[Root.GetName]は進化し、 [From.GetName]は退化していくだろう。 "
+ DS_L_WAR_GREETING_01:0 "[From.GetSpeciesName]に迫る狩人たちを感じるかね？ "
+ DS_L_WAR_GREETING_02:0 "[From.GetSpeciesName]はすぐに偉大なるものの一部となるだろう。 貢献できることを光栄に思うがいい。 "
+ DS_L_WAR_GREETING_03:0 "貴様らの母星も喰ってやるぞ、 [From.GetSpeciesName]。 どんな味がするのか楽しみだ。 "
+ DS_L_MECH_WAR_GREETING_01:0 "群れは絶え間なく押し寄せる大波だ。 貴様らの文明は押し流される。 "
+ DS_L_VASSAL_GREETING_01:0 "獲物が狩人を支配するなど自然の摂理に反する。 こんな状況がいつまでも続くと思うなよ。 "
+ DS_L_MECH_VASSAL_GREETING_01:0 "飢えを知らない機械が、 どうして[Root.GetName]を理解できる？ "
+ DS_L_SYNTH_VASSAL_GREETING_01:0 "[From.GetSpeciesName]はもはや飢えを知らぬ。 それでどうして[Root.GetName]を理解できる？ "
  # Democratic Crusaders
  DC_HOSTILE_GREETING_01:0 "[From.GetSpeciesName]は[From.GetRulerName]の支配下にあるかぎり、 真に自由ではない。 "
  DC_HOSTILE_GREETING_02:0 "非[Root.GetAdj]活動委員会は貴様らの手先を摘発するために存在するのだ、 [From.GetRulerTitle]よ。 "
