@@ -19,7 +19,7 @@
  disappearing_pops_project:0 "[missing_pops_planet.GetName]の失踪"
  disappearing_pops_project_DESC:0 "[missing_pops_planet.GetName]で、 謎の連続失踪事件を調査している地元の法務執行機関は、 社会不安を抑えるために軍隊の支援を求めている。 "
  mystery_cream_project:0 "エイジレス"
- mystery_cream_project_DESC:0 "アンチエイジング用のクリーム「エイジレス」が帝国内で野火のように広がっており、 本当に細胞再生を促進するという約束を示している。 もし我々が活性剤を同定できれば、 それを使用して永続的な効果を生み出すことができるかもしれない。 "
+ mystery_cream_project_DESC:0 "アンチエイジング用のクリーム「エイジレス」が帝国内で大流行しており、 本当に細胞再生を促進する見込みを示している。 もし活性物質を同定できれば、 それを使用してより永続的な効果を生み出すことができるかもしれない。 "
  cream_origin_project:0 "シワのない存在を追求する"
  cream_origin_project_DESC:0 "このクリームの正体を突き止める。 "
  MAGNETIC_PLANET_RESEARCH_PROJECT:0 "[Root.GetName]における磁気の謎を調査"

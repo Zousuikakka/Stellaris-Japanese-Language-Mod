@@ -17,7 +17,7 @@
  syndaw.26.name:0 "$syndaw.21.name$"
  syndaw.26.desc:0 "セクター総督ユニットである §R[malfunctioning_leader.GetName]§! が、 深刻なパターンバッファ問題により機能を停止した。 "
  syndaw.31.name:0 "復元ポイントへの復帰"
- syndaw.31.desc:0 "記録整理のための定例メモリダンプ分類作業中に、 最近の戦闘で失われたと思われていた §H[restored_leader.GetName]§! の作業メモリの最新版が見つかった。 緊急アップロードされたデータが失った記録は、 オリジナルのボディが崩壊する直前の数マイクロ秒分でしかなかったので、 新しい体にインストールされて §Y[restored_leader.Ship.GetFleetName]§! の指揮官となった。 "
+ syndaw.31.desc:0 "§H[restored_leader.GetName]§! の作業メモリの最終コピーが見つかった。 最近の戦闘により失われたと考えられていたが、 アーカイヴ作成のために計画されていた、 メモリダンプのインデックス化作業中に発見されたのだ。 緊急アップロードにより失われた記録は、 オリジナルのボディが崩壊する直前の数マイクロ秒分でしかなかったので、 §H[restored_leader.GetName]§!は新しい体にインストールされ、 §Y[restored_leader.Ship.GetFleetName]§! の指揮官として着任した。 "
  syndaw.1020.name:1 "§R機械の反乱§!"
  syndaw.1020.desc:0 "$syndaw.1020.desc.mater$"
  syndaw.1020.desc.mater:0 "我々の情報ネットワーク、 計算エンジン、 および人工生命体労働力に見られたエラードローンが、 遂に凶暴化した。 [current_uprising_originator.GetName]のほぼ半数が、 物理的・仮想的な隔離壁によって保護される前に、 §R機械の反乱§!に加担したという。 \n\n戦争は不可避であるどころでなく、 既に起こっているのだ。 "
@@ -148,7 +148,7 @@
  syndaw.525.desc:0 "[target_planet.GetName]の労働用ロボットたちは、 最近この土地は地熱が不安定になっているため、 有機生命体の住人には安全でないと主張して、 [Root.GetSpeciesName]の労働者たちの流入に抵抗している。 奇妙なことに、 我々の星系調査ではこのような主張の裏付けを得ることができなかった。 "
  syndaw.525.a:0 "いいから、 [Root.GetSpeciesName]の労働者を送り込め。 "
  syndaw.525.a.tooltip:0 "彼らの主張の裏付けが取れなければ、 ロボットは命令系統に従うだろう。 "
- syndaw.525.b:0 "何故ロボットが嘘をついたんだ？ "
+ syndaw.525.b:0 "ロボットが嘘をつくはずがない。 "
  syndaw.525.b.tooltip:0 "その土地はロボットにくれてやれ。 向かっている[Root.GetSpeciesNamePlural]はどこか別の場所に行くだろう。 "
  #Follow-up from .525.a
  syndaw.526.name:0 "彼らの故郷"

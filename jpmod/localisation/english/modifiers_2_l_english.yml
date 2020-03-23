@@ -112,7 +112,11 @@
  drone_processing:0 "ドローン加工"
  drone_processing_desc:0 "古代の採掘ドローンから得た教訓により、 鉱物の生産加工の効率を改善する。 "
  spiritualist_attraction:0 "精神主義への魅力"
+ spiritualist_attraction_desc:0 "精神主義者の集団が、 物質主義的な宇宙観に異議を唱え、 それらは文化的な成長を制限していると主張している。 "
  materialist_attraction:0 "物質主義への魅力"
+ materialist_attraction_desc:0 "物質主義者の集団が、 より現実的で進歩的な解答を求めることにより、 我々の文化的成長を追究しようとしている。 "
+ from_extra_federation_members:0 "連邦加盟国から"
+ empire_size_mods:0 "帝国規模"
  ####################################
  # Pop Modifiers
  ####################################

@@ -43,11 +43,11 @@
  tech_cruisers:0 "巡洋艦"
  tech_cruisers_desc:0 "元々は次世代コロニー船の実験艦として船体構築され、 設計上の豊富なハードポイントが大型兵器の運用に理想的だった。 "
  tech_battleships:0 "戦艦"
- tech_battleships_desc:0 "標準的軍艦として最大級であり、 戦艦は伝統的な重装甲と多数の砲台を備えている。 "
+ tech_battleships_desc:0 "標準的な軍艦の中では最大級の艦船である戦艦は、 伝統的に厚い装甲を備え、 多数の砲台を誇示している。 "
  tech_titans:0 "タイタン"
  tech_titans_desc:0 "停滞した帝国の中央星系にいる巨大な船影をモデルとしたタイタン級軍艦は、 Tサイズの武装を搭載することができる。 "
  tech_colossus:0 "コロッサス"
- tech_colossus_desc:0 "メガエンジニアリングの発展は、 現実と幻想の境界線を曖昧にし、 ボタンを押すだけで惑星を破壊できる兵器を搭載したコロッサス級軍用艦の建造を可能にする。 "
+ tech_colossus_desc:0 "メガエンジニアリングの発展によって、 現実と空想の境目は曖昧なものとなり、 コロッサス級軍用艦の建造が可能になる。 この艦船には惑星を破壊したり、 あるいは完全に無力化してしまう兵器が搭載される。 それも、 ボタンひとつで。 "
  # Ships upgrades
  tech_corvette_hull_1:0 "改良型コルベット船体"
  tech_corvette_hull_1_desc:0 "建造技術の進歩により、 より頑丈で耐久性のあるコルベットの建造が可能になる。 "
@@ -96,7 +96,7 @@
  tech_defense_platform_hull_1:0 "構造的完全性の改善"
  tech_defense_platform_hull_1_desc:0 "衝撃吸収能力を高めた強化構造と強化防爆シールドにより、 非常に大きな圧力を受けてもプラットフォームの構造的一体性を保つ。 "
  tech_habitat_1:0 "軌道上居住地"
- tech_habitat_1_desc:0 "ほぼ自立した軌道上居住地の建造を可能にする。 "
+ tech_habitat_1_desc:0 "おおむね自給自足が可能な軌道上居住地の建造を可能にする。 "
  #Spaceport Modules
  #tech_corvette_assembly:0 "発展型コルベットの設計"
  #tech_corvette_assembly_desc:0 "未使用"
@@ -226,6 +226,8 @@
  # TEMP
  tech_matter_generator:0 "物質生成"
  tech_matter_generator_desc:0 "膨大な量のエネルギーを使うことによって、 光を物質に変えることができる。 "
+ tech_mega_assembly:0 "メガアセンブリーシステム"
+ tech_mega_assembly_desc:0 "先進的なテンプレートを使用することにより、 新たな個体の生産を大幅に増やす。 "
  # Space Mining
  tech_space_construction:0 "宇宙建設"
  tech_space_construction_desc:0 "宇宙空間での建設作業に必要な新設計は、 他の星に軌道ステーションを建設するためには解決しておかなければならない課題だ。 "
@@ -809,6 +811,8 @@
  tech_adaptive_bureaucracy_desc:1 "我々は進歩したことにより、 目的追求を邪魔するのではなく支援してくれるような、 新しくて俊敏な管理体制を必要とするようになっている。 "
  tech_adaptive_bureaucracy_machine_intelligence:0 "陽電子CPU"
  tech_adaptive_bureaucracy_desc_machine_intelligence:0 "陽電子CPUは以前のモデルより安価で高速に生産できるため、 より多くのリーダーユニットが使用可能になる。 "
+ tech_effective_bureaucracy:0 "効率的な官僚制度"
+ tech_effective_bureaucracy_desc:0 "改善されたアルゴニズムにより、 膨大な量の情報が適切に整理かつ処理され、 帝国全体における情報共有及び意思決定が合理化される。 "
  tech_colonial_bureaucracy:0 "植民地官僚制度"
  tech_colonial_bureaucracy_desc:0 "地方行政の発展によって、 中央政府に意思決定の負担をかけすぎることなく植民地を統治できるようになる。 "
  tech_galactic_bureaucracy:0 "銀河官僚制度"

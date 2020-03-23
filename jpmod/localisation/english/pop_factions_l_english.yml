@@ -313,7 +313,7 @@
  PROGRESSIVE_NO_STRATIFIED_DESC:0 "われわれの帝国のいかなる住民であっても§Y階級化経済§!の中で暮らさせることは、 [Root.GetName]を大いに憤慨させるだろう。 "
  PROGRESSIVE_STRATIFIED:0 "$PROGRESSIVE_NO_STRATIFIED$"
  PROGRESSIVE_NO_ELITISM:0 "生まれながらの平等"
- PROGRESSIVE_NO_ELITISM_DESC:0 "選ばれし種族による支配政策を禁止すれば、 [Root.GetName]は喜ぶだろう。 "
+ PROGRESSIVE_NO_ELITISM_DESC:0 "選民支配によるリーダーの強化政策を禁止すれば、 [Root.GetName]は喜ぶだろう。 "
  PROGRESSIVE_ELITISM:0 "$PROGRESSIVE_NO_ELITISM$"
  PROGRESSIVE_SOCIAL_EQUALITY:0 "平等な市民"
  PROGRESSIVE_SOCIAL_EQUALITY_DESC:0 "我々の帝国にいるすべての種族に完全な市民権を保証すれば、 [Root.GetName]は喜ぶだろう。 "
