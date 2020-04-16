@@ -6,8 +6,8 @@
  MOD_FEDERATION_COHESION_ADD:0 "毎月の団結度"
  MOD_FEDERATION_COHESION_ETHICS_PENALTY_MULT:0 "志向による団結度へのペナルティ"
  MOD_FEDERATION_FLEET_COUNTRIBUTION_FACTOR:0 "艦隊による貢献"
- MOD_FEDERATION_JOIN_MALUS_MULT:0 "参加による連邦団結度への補正"
- MOD_FEDERATION_LEAVE_MALUS_MULT:0 "離脱による連邦団結度への補正"
+ MOD_FEDERATION_JOIN_MALUS_MULT:0 "連邦参加による団結度へのペナルティ"
+ MOD_FEDERATION_LEAVE_MALUS_MULT:0 "連邦離脱による団結度へのペナルティ"
  #Country
  MOD_BLANK_MODIFIER:0 "空白の補正"
  MOD_COUNTRY_OCCUPATION_ARMIES_ADD:0 "最大占領守備兵数"
@@ -740,7 +740,7 @@
  ship_orbit_repair:0 "軌道上修理"
  ship_max_damaged_effect:0 "船体損傷による弱体化"
  station_self_repair:0 "自己修復"
- jump_drive_cooldown:1 "ジャンプドライブ冷却"
+ jump_drive_cooldown:1 "ジャンプドライブのクールダウン"
  ####################################
  # Pop Modifiers
  ####################################
@@ -1348,7 +1348,7 @@
  MOD_FEDERATION_RESEARCH_SHARING_MULT_DESC:0 "別の連邦加盟国が研究したテクノロジーの研究速度を加速する"
  MOD_FEDERATION_LEADER_FLEET_SCALE_MODIFIER:0 "統一された艦船の寸法"
  MOD_COUNTRY_FEDERATION_FLEET_CONTRIBUTION_DISCOUNT:0 "各国の艦隊から連邦への貢献を割り引く"
- MOD_FEDERATION_DIPLO_WEIGHT_CONTRIBUTION_ADD:0 "連邦の外交的発言力を割り引く"
+ MOD_FEDERATION_DIPLO_WEIGHT_CONTRIBUTION_ADD:0 "連邦の外交的発言力の貢献"
  MOD_FEDERATION_LEADER_DIPLO_WEIGHT_FROM_MEMBERS_MULT:0 "連邦加盟国からの外交的発言力"
  MOD_COUNTRY_FEDERATION_FLEET_CONTRIBUTION_NAVAL_CAP_REDUCTION_DISCOUNT:0 "連邦への艦隊貢献による、 自国の宇宙軍許容量の低下"
  MOD_FEDERATION_FLEET_CAP_ADD:0 "連邦艦隊許容量への補正"
