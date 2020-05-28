@@ -2,7 +2,7 @@
  ### Unrest
  minor_terrorist_action:0 "テロの被害者"
  minor_terrorist_action_desc:0 "この植民地での§H社会不安§!を原因とするテロ攻撃によってPOPが犠牲となった。 体制への信頼が失われている。 "
- major_terrorist_action:0 "テロの被害者(深刻)"
+ major_terrorist_action:0 "テロの被害者 (深刻)"
  major_terrorist_action_desc:0 "$minor_terrorist_action_desc$"
  riots_averted:0 "勇敢なる市民"
  riots_averted_desc:0 "高い§H社会不安§!にも拘わらず、 この惑星のPOPたちは更なる暴力を防ぐために力を合わせている。 "

@@ -106,7 +106,7 @@
  requires_borders_survey_no_habitable_dyson:1 "$TRIGGER_FAIL$居住可能な惑星やブラックホールや中性子星やパルサーが存在する星系、 調査が完了していない星系、 国境の外にある星系には建設できない。 "
  requires_survey_not_habitable:1 "$TRIGGER_FAIL$未調査惑星または、 居住可能な惑星の軌道上には建設できない。 "
  requires_surveyed_planet:0 "$TRIGGER_FAIL$無人の惑星では建設できない"
- requires_not_minor_planetary_body:1 "$TRIGGER_FAIL$小天体（小惑星や衛星）には建設できない。 "
+ requires_not_minor_planetary_body:1 "$TRIGGER_FAIL$小天体 (小惑星や衛星) には建設できない。 "
  requires_not_star:1 "$TRIGGER_FAIL$恒星の周りには建設できない。 "
  requires_no_existing_spyorb:0 "$TRIGGER_FAIL$セントリーアレイをひとつ以上建設することはできない。 "
  requires_no_existing_think_tank:0 "$TRIGGER_FAIL$サイエンスネクサスはひとつしか建設できない。 "

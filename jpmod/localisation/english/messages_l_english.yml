@@ -18,31 +18,31 @@
  ####################################
  # Fleet Orders
  ####################################
- MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§! は $PLANET|Y$ 軌道上で $SHIPCLASS|Y$ の建造を完了した。 "
- MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§! が $PLANET|Y$ で§Hアノマリー§!を発見した。 "
- MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "$STAR|Y$ で $SHIPCLASS|Y$ §H$FLEET$§! の建造が完了した。 "
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§!は$PLANET|Y$ 軌道上で$SHIPCLASS|Y$の建造を完了した。 "
+ MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§!が$PLANET|Y$で§Hアノマリー§!を発見した。 "
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "$STAR|Y$で$SHIPCLASS|Y$§H$FLEET$§!の建造が完了した。 "
  MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§!がFTL航跡の分析に失敗した。 "
  MESSAGE_FLEET_ORDER_ANALYZE_FINISH:0 "§H$FLEET$§!がFTL航跡の分析に成功した。 "
- MESSAGE_FLEET_SYSTEM_FULLY_SURVEYED:0 "$SYSTEM|Y$ 星系は完全に調査された。 "
+ MESSAGE_FLEET_SYSTEM_FULLY_SURVEYED:0 "$SYSTEM|Y$星系は完全に調査された。 "
  MESSAGE_FLEET_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "艦隊任務を完了"
  MESSAGE_SYSTEM_SURVEYED_TITLE:0 "星系の調査を完了"
  AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE:0 "艦隊任務をキャンセル"
- MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:0 "§H$FLEET$§! は自動探索をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
+ MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:0 "§H$FLEET$§!は自動探索をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
  FLEET_BUILD_ORDER_CANCELED_MESSAGE_TYPE_TITLE:0 "$AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE$"
- MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$ は $SYSTEM|H$ に $STATION|H$ を建造できなかった。  資源は払い戻された。 "
+ MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$は$SYSTEM|H$に$STATION|H$を建造できなかった。  資源は払い戻された。 "
  MESSAGE_BYPASS_EXPLORED:0 "ワームホールの調査"
- BYPASS_EXPLORED_MESSAGE:0 "$SYSTEM1|Y$ 星系のワームホールの調査が完了した。 このワームホールは $SYSTEM2|Y$ 星系につながっている。 "
+ BYPASS_EXPLORED_MESSAGE:0 "$SYSTEM1|Y$星系のワームホールの調査が完了した。 このワームホールは$SYSTEM2|Y$星系につながっている。 "
  MESSAGE_ESN_ARRIVED_TITLE:0 "実験的亜空間航法"
- MESSAGE_ESN_ARRIVED:0 "$FLEET_NAME|Y$ は $SYSTEM|Y$ 星系に到着した"
+ MESSAGE_ESN_ARRIVED:0 "$FLEET_NAME|Y$は$SYSTEM|Y$星系に到着した"
  MESSAGE_ESN_ABORTED_TITLE:0 "実験的亜空間航法中止"
  MESSAGE_ESN_ABORTED:0 "$FLEET_NAME|Y$に下されていた命令は中止された。 $SYSTEM|Y$星系が到達不可能になった。 "
  ####################################
  # Misc Fleet
  ####################################
  MESSAGE_FLEET_REPARATIONS_DONE_MESSAGE_TYPE_TITLE:0 "修理完了"
- MESSAGE_REPARATIONS_DONE:0 "$FLEET|Y$ の修理が完了した。 "
+ MESSAGE_REPARATIONS_DONE:0 "$FLEET|Y$の修理が完了した。 "
  MESSAGE_FLEET_UPGRADE_DONE_MESSAGE_TYPE_TITLE:0 "艦隊アップグレード完了"
- MESSAGE_UPGRADE_DONE:0 "$FLEET|Y$ のアップグレードが完了した。 "
+ MESSAGE_UPGRADE_DONE:0 "$FLEET|Y$のアップグレードが完了した。 "
  MESSAGE_EMERGENCY_FTL_CASUALTIES_TITLE:0 "緊急FTLによる損害"
  EMERGENCY_FTL_CASUALTIES_DESC:1 "艦隊に損害が発生した。 \n\n損失：$LOST$\n損傷：$NEAR_LOST$"
  ####################################
@@ -50,7 +50,7 @@
  ####################################
  RIVALRY_INVALID_TITLE:0 "宿敵の撤回"
  RIVALRY_INVALID_DESC:0 "$COUNTRY|Y$はもう我々の宿敵ではない。 "
- MESSAGE_MADE_FIRST_CONTACT_WE:0 "我々は §H$STAR$§! 星系にて §H$WHO$§! に遭遇した！ "
+ MESSAGE_MADE_FIRST_CONTACT_WE:0 "我々は§H$STAR$§!星系にて§H$WHO$§!に遭遇した！ "
  MESSAGE_MADE_FIRST_CONTACT_THEM:0 "§H$STAR$§!星系にて§H$WHO$§!との交信を確立した！ "
  ACTION_DECLARE_WAR_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!の宣戦布告動議が可決された。 今や、 我々は§H[Recipient.GetName]§!と§Y戦争状態§!にある。 "
  ACTION_DECLARE_WAR_VOTE_FAILED:0 "§H[Recipient.GetName]§! への宣戦布告動議は否決された。 "
@@ -64,7 +64,7 @@
  ACTION_INVITE_TO_FEDERATION_VOTE_FAILED:0 "§H[Actor.GetAllianceName]§!への§H[Recipient.GetName]§!の連邦加盟動議は否決された。 "
  ACTION_ASK_TO_JOIN_ALLIANCE_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!は§H[Recipient.GetName]§!を新たな同盟加盟国として承認した。 "
  ACTION_ASK_TO_JOIN_ALLIANCE_VOTE_FAILED:0 "§H[Actor.GetAllianceName]§!への§H[Recipient.GetName]§!の加盟動議は否決された。 "
- ACTION_FORM_FEDERATION_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!は同盟を深化させ、 連邦を形成することを決議した。 "
+ ACTION_FORM_FEDERATION_VOTE_PASSED:0 "連邦形成の決議が可決され、 §H[Actor.GetAllianceName]§!が発足した。 "
  ACTION_FORM_FEDERATION_VOTE_FAILED:0 "連邦形成の動議は否決された。 "
  ACTION_RELEASE_SUBJECT_PASSED:0 "§H[Actor.GetName]§!は我々を従属国状態から解放した。 "
  ACTION_OFFER_PEACE_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!は§H[Recipient.GetName]§!との和平に同意することを決議した。 "
@@ -241,7 +241,7 @@
  ACTION_ASK_TO_BECOME_SIGNATORY_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetName]§!を銀河規模の平和条約に調印させた。 \n\n彼らは安全と引き換えに独自外交を放棄したのだ。 "
  ACTION_ASK_TO_BECOME_SATELLITE_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetName]§!を衛星国化した。 \n\n彼らは安全と引き換えに科学技術の自立性を放棄したのだ。 "
  ACTION_ASK_TO_BECOME_SUBSIDIARY_NOTIFICATION:0 "§H[Root.GetName]§!は§H[From.GetName]§!を子会社化した。 \n\n彼らは安全と引き換えに企業の資産となったのだ。 "
- ACTION_FORM_FEDERATION_NOTIFICATION:2 "§H[From.GetAllianceName]§!は$FEDERATION$を形成すると決議した。 \n\n彼らは一体となって銀河に乗り出すことを選んだのだ。 "
+ ACTION_FORM_FEDERATION_NOTIFICATION:2 "$FEDERATION$を形成することが決議され、 §H[From.GetAllianceName]§!が発足した。 \n\n彼らは一体となって銀河に乗り出すことを選んだのだ。 "
  ACTION_INVITE_TO_FEDERATION_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetAllianceName]§!に加盟した。 \n\n今後、 彼らは協同して敵に当たる。 "
  ACTION_ASK_TO_JOIN_FEDERATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetAllianceName]§!に加盟した。 \n\n今後、 彼らは協同して敵に当たる。 "
  ACTION_LEAVE_FEDERATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetAllianceName]§!から脱退した。 \n\n我々にとってはチャンスかもしれない……"
@@ -300,8 +300,8 @@
  MESSAGE_SUBJECT_ENTERED_WAR_DESC:1 "$ATTACKER|Y$が、 我々の$SUBJECT_TYPE$である$CALLER|Y$に宣戦布告した。 \n\nそのため、 我々は$ATTACKER|Y$と§Y戦争状態§!に入る。 "
  MESSAGE_OVERLORD_DECLARED_WAR:0 "宗主国の宣戦"
  MESSAGE_OVERLORD_DECLARED_WAR_DESC:1 "我々の宗主国である$CALLER|Y$が$DEFENDER|Y$に宣戦布告した。 \n\nそのため、 我々は$DEFENDER|Y$と§Y戦争状態§!に入る。 "
- MESSAGE_FEDERATION_DECLARED_WAR:0 "連邦大統領の宣戦"
- MESSAGE_FEDERATION_DECLARED_WAR_DESC:1 "我々の連邦大統領$CALLER|Y$が$DEFENDER|Y$に宣戦布告した。 \n\nそのため、 我々は$DEFENDER|Y$と§Y戦争状態§!に入る。 "
+ MESSAGE_FEDERATION_DECLARED_WAR:0 "連邦議長国の宣戦"
+ MESSAGE_FEDERATION_DECLARED_WAR_DESC:1 "我々の連邦議長国$CALLER|Y$が$DEFENDER|Y$に宣戦布告した。 \n\nそのため、 我々は$DEFENDER|Y$と§Y戦争状態§!に入る。 "
  MESSAGE_SUPPORTED_DECLARED_WAR:1 "従属国の独立"
  MESSAGE_SUPPORTED_DECLARED_WAR_DESC:1 "我々が独立支援を行っていた$CALLER|Y$が$DEFENDER|Y$に宣戦布告しした。 "
  MESSAGE_OFFENSIVE_PACT_DECLARED_WAR:0 "攻撃戦争への加担"
@@ -396,7 +396,7 @@
  # Planet Destruction
  ####################################
  MESSAGE_PLANET_DESTROYED:0 "星の荒廃"
- MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$（$ADJ$コロッサスに搭載）"
+ MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$ ($ADJ$コロッサスに搭載)"
  ####################################
  # Terraforming
  ####################################

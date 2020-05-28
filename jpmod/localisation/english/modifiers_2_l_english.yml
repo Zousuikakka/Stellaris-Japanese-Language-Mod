@@ -131,7 +131,7 @@
  validated:0 "正当性の立証"
  validated_desc:0 "最近、 政治的勝利を獲得した。 "
  hunger_strike:0 "ハンガーストライカー"
- hunger_strike_desc:0 "このPOPは最適な生産性を維持するために必要な栄養（食事）を摂ろうとしない。 "
+ hunger_strike_desc:0 "このPOPは最適な生産性を維持するために必要な栄養 (食事) を摂ろうとしない。 "
  peace_strike:0 "反戦活動家"
  peace_strike_desc:0 "このPOPは反戦活動に時間を割いており、 生産性を低下させている。 "
  culture_shock_bronze_age:0 "星間カルチャーショック"

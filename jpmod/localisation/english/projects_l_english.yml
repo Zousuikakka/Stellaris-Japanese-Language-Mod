@@ -117,7 +117,7 @@
  FIRST_LEAGUE_ARCHEOLOGY_4:0 "チャッサゴの母星"
  FIRST_LEAGUE_ARCHEOLOGY_4_DESC:0 "我々は[From.GetName]を、 『第一同盟』の創始者の一つであった蛇型種族チャッサゴの母星だと特定した。 彼らの地下都市の遺跡は今でも[From.GetPlanetMoon]の表層に存在している。 "
  FIRST_LEAGUE_ARCHEOLOGY_5:0 "ミジル・ヤンの母星"
- FIRST_LEAGUE_ARCHEOLOGY_5_DESC:0 "200万年前の『第一同盟』の創始者の一つであったミジル・ヤンの母星が[From.GetName]であるのは間違いない。 これだけの年月を経てなお、 彼らの完全環境都市（アーコロジー）は高くそびえている。 "
+ FIRST_LEAGUE_ARCHEOLOGY_5_DESC:0 "200万年前の『第一同盟』の創始者の一つであったミジル・ヤンの母星が[From.GetName]であるのは間違いない。 これだけの年月を経てなお、 彼らの完全環境都市 (アーコロジー) は高くそびえている。 "
  FIRST_LEAGUE_ARCHEOLOGY_6:0 "ヴロパックの母星"
  FIRST_LEAGUE_ARCHEOLOGY_6_DESC:0 "古代ヴロパックは『第一同盟』の創始者の一つであり、 考古学的な証拠は[From.GetName]が彼らの母星であったことを示している。 この鳥人は内部が空洞となった台地に巨大な都市を築いており、 考古学者たちは彼らの遺跡を調査する許可を求めている。 "
  FIRST_LEAGUE_ARCHEOLOGY_7:0 "研究拠点"
