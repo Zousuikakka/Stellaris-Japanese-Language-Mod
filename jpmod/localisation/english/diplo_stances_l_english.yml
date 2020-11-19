@@ -19,7 +19,7 @@
  diplo_stance_supremacist_name:0 "$diplo_stance_supremacist$"
  diplo_stance_supremacist_desc:0 "この帝国は全ての者に屈服を要求する。 \n\n§Rこの外交スタンスは、 §Y$diplo_stance_supremacist$外交スタンス§Rを採用している全ての帝国との関係を悪化させる。 \n\n§E$easy_rivalry$\n$influence_cost_for_improving_relations_effect$§!"
  triggered_opinion_diplo_stance_supremacy:0 "双方が$diplo_stance_supremacist$"
- diplo_stance_mercantile:0 "商人"
+ diplo_stance_mercantile:0 "重商主義"
  diplo_stance_mercantile_name:0 "$diplo_stance_mercantile$"
  diplo_stance_mercantile_desc:0 "この帝国は何よりも貿易の促進を望む。 \n\n§E$influence_cost_for_close_borders$§!"
  diplo_stance_hunger:0 "飢え"

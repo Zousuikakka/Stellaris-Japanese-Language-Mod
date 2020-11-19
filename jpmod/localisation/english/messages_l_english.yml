@@ -18,7 +18,7 @@
  ####################################
  # Fleet Orders
  ####################################
- MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§!は$PLANET|Y$ 軌道上で$SHIPCLASS|Y$の建造を完了した。 "
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_ORBITAL_STATION:0 "§H$FLEET$§!は$PLANET|Y$軌道上で$SHIPCLASS|Y$の建造を完了した。 "
  MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§!が$PLANET|Y$で§Hアノマリー§!を発見した。 "
  MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "$STAR|Y$で$SHIPCLASS|Y$§H$FLEET$§!の建造が完了した。 "
  MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§!がFTL航跡の分析に失敗した。 "
@@ -29,7 +29,7 @@
  AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE:0 "艦隊任務をキャンセル"
  MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:0 "§H$FLEET$§!は自動探索をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
  FLEET_BUILD_ORDER_CANCELED_MESSAGE_TYPE_TITLE:0 "$AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE$"
- MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$は$SYSTEM|H$に$STATION|H$を建造できなかった。  資源は払い戻された。 "
+ MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$は$SYSTEM|H$に$STATION|H$を建造できなかった。 資源は払い戻された。 "
  MESSAGE_BYPASS_EXPLORED:0 "ワームホールの調査"
  BYPASS_EXPLORED_MESSAGE:0 "$SYSTEM1|Y$星系のワームホールの調査が完了した。 このワームホールは$SYSTEM2|Y$星系につながっている。 "
  MESSAGE_ESN_ARRIVED_TITLE:0 "実験的亜空間航法"
@@ -53,7 +53,7 @@
  MESSAGE_MADE_FIRST_CONTACT_WE:0 "我々は§H$STAR$§!星系にて§H$WHO$§!に遭遇した！ "
  MESSAGE_MADE_FIRST_CONTACT_THEM:0 "§H$STAR$§!星系にて§H$WHO$§!との交信を確立した！ "
  ACTION_DECLARE_WAR_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!の宣戦布告動議が可決された。 今や、 我々は§H[Recipient.GetName]§!と§Y戦争状態§!にある。 "
- ACTION_DECLARE_WAR_VOTE_FAILED:0 "§H[Recipient.GetName]§! への宣戦布告動議は否決された。 "
+ ACTION_DECLARE_WAR_VOTE_FAILED:0 "§H[Recipient.GetName]§!への宣戦布告動議は否決された。 "
  ACTION_INVITE_TO_ALLIANCE_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!は§H[Recipient.GetName]§!を新たな同盟加盟国として承認した。 "
  ACTION_INVITE_TO_ALLIANCE_VOTE_FAILED:0 "§H[Actor.GetAllianceName]§!への§H[Recipient.GetName]§!の加盟動議は否決された。 "
  ACTION_KICK_FROM_ALLIANCE_VOTE_PASSED:0 "§H[Actor.GetAllianceName]§!は§H[Recipient.GetName]§!を同盟から除名する動議を承認した。 "
@@ -218,7 +218,7 @@
  MESSAGE_OPEN_BORDERS_TITLE:0 "国境開放"
  MESSAGE_CLOSE_BORDERS_TITLE:0 "国境閉鎖"
  ACTION_MAKE_RIVAL_NOTIFICATION:1 "§H[From.GetName]§!は§H[Root.GetName]§!を§H$RIVAL$§!だと宣言した。 \n\n著しく関係が悪化するだろう。 "
- ACTION_END_RIVALRY_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetName]§!との$RIVALRY$関係を終了した。 \n\n和解の試みが始まるだろう。 "
+ ACTION_END_RIVALRY_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetName]§!との$RIVALRY$を終了した。 \n\n和解の試みが始まるだろう。 "
  ACTION_EMBASSY_NOTIFICATION:1 "§H[From.GetName]§!は§H[Root.GetName]§!に大使を送った。 \n\n時間が経つにつれ、 関係が改善するだろう。 "
  ACTION_RECALL_EMBASSY_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetName]§!から大使を召還した。 \n\n敵対関係の始まりだろうか？ "
  ACTION_DECLARE_WAR_NOTIFICATION:3 "§H[From.GetName]§!が§H[Root.GetName]§!に宣戦！ \n\nどちらの帝国が強いか、 はっきりするわけだ。 "
@@ -277,11 +277,12 @@
  ACTION_END_FEDERATION_ASSOCIATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetAllianceName]§!の準加盟国の地位を放棄すると決定した。 \n\nこれは新たな戦争の予兆だろうか？ "
  DIPLO_ACTION_END_FEDERATION_ASSOCIATION_DESC:0 "§H$COUNTRY$§!は§H$ALLIANCE$§!の準加盟国の地位を放棄すると決定した。 \n\nこれは新たな戦争の予兆だろうか？ "
  MESSAGE_DIPLOMACY_TITLE:0 "外交"
+ ACTION_FORM_FEDERATION_PROPOSAL_FAILED_RECIPIENT:0 "$ACTION_INVITE_TO_ALLIANCE_PROPOSAL_FAILED_RECIPIENT$"
  ####################################
  # War
  ####################################
- SURRENDER_OUR_SIDE:0 "我々の戦争指導者は無条件降伏し、 休戦が成立した。 敵は要求を決定するまで六ヶ月間の猶予がある。 "
- SURRENDER_THEIR_SIDE:0 "彼らの戦争指導者は無条件降伏し、 休戦が成立した。 我々は要求を決定するまで六ヶ月間の猶予がある。 "
+ SURRENDER_OUR_SIDE:0 "我々の戦争指導者は無条件降伏し、 休戦が成立した。 敵は要求を決定するまで6ヶ月間の猶予がある。 "
+ SURRENDER_THEIR_SIDE:0 "彼らの戦争指導者は無条件降伏し、 休戦が成立した。 我々は要求を決定するまで6ヶ月間の猶予がある。 "
  WAR_END_VICTORY:0 "我々はこの戦争に勝利した。 \n"
  WAR_END_DEFEAT:0 "我々はこの戦争に敗北した。 \n"
  WAR_END_STATUS_QUO:0 "現状追認で戦争は終結した。 "
@@ -320,14 +321,14 @@
  ####################################
  # Fleet Detected
  ####################################
- MESSAGE_FLEET_DETECTED_WE:0 "$WHO|Y$の§H$FLEET$§!が§Y$TARGET$ 星系§!を目指していることが探知された！ "
+ MESSAGE_FLEET_DETECTED_WE:0 "$WHO|Y$の§H$FLEET$§!が§Y$TARGET$星系§!を目指していることが探知された！ "
  MESSAGE_FLEET_DETECTED_MESSAGE_TYPE_TITLE:0 "艦隊を検知"
- MESSAGE_OBJECT_DETECTED_WE:0 "正体不明の物体が§Y$TARGET$ 星系§!を目指していることが探知された！ "
+ MESSAGE_OBJECT_DETECTED_WE:0 "正体不明の物体が§Y$TARGET$星系§!を目指していることが探知された！ "
  MESSAGE_OBJECT_DETECTED_MESSAGE_TYPE_TITLE:0 "正体不明の物体を検知"
  ####################################
  # Fleet Evade
  ####################################
- MESSAGE_FLEET_EVADE_HOSTILE:0 "$FLEET$ は $SYSTEM|H$ 星系で敵対艦 $HOSTILE|R$ と遭遇したため、 回避を試みている！ "
+ MESSAGE_FLEET_EVADE_HOSTILE:0 "$FLEET$は$SYSTEM|H$星系で敵対艦$HOSTILE|R$と遭遇したため、 回避を試みている！ "
  MESSAGE_FLEET_EVADE_HOSTILE_FLEET_TYPE:0 "$TYPE$ $NAME|H$"
  MESSAGE_FLEET_EVADE_HOSTILE_MESSAGE_TYPE_TITLE:0 "敵艦隊を回避"
  ####################################
@@ -372,7 +373,7 @@
  ####################################
  # Debris
  ####################################
- MESSAGE_DEBRIS_ANALYZED_FINISH:0 "$SYSTEM|Y$ 星系内のデブリを分析した。 "
+ MESSAGE_DEBRIS_ANALYZED_FINISH:0 "$SYSTEM|Y$星系内のデブリを分析した。 "
  MESSAGE_DEBRIS_ANALYZED_FINISH_BONUS:1 "£$AREA_KEY$£ §Y$AREA$ 研究§!：§G+$VAL|0$§!ポイント"
  MESSAGE_DEBRIS_ANALYZED_FINISH_TECH_PROGRESS:1 "$TECH|Y$：§G+$VAL|%0$§! 進捗"
  MESSAGE_DEBRIS_ANALYZED_FINISH_MESSAGE_TYPE_TITLE:0 "デブリ分析完了"
@@ -400,8 +401,8 @@
  ####################################
  # Terraforming
  ####################################
- MESSAGE_TERRAFORMATION_FINISH:1 "$PLANET|Y$ は $PLANET_CLASS|Y$ にテラフォーミングされた。 "
- MESSAGE_TERRAFORMATION_CANCELED:0 "$PLANET|Y$ のテラフォーミングは中断された！ "
+ MESSAGE_TERRAFORMATION_FINISH:1 "$PLANET|Y$は$PLANET_CLASS|Y$にテラフォーミングされた。 "
+ MESSAGE_TERRAFORMATION_CANCELED:0 "$PLANET|Y$のテラフォーミングは中断された！ "
  MESSAGE_TERRAFORM_MESSAGE_TYPE_TITLE:0 "テラフォーミング"
  ####################################
  # Trade
@@ -471,7 +472,7 @@
  COUNTRY_EDICT_BECAME_INVALID:1 "必要な条件を満たさなくなったため布告「$EDICT|Y$」は無効化された。 "
  MESSAGE_EXPIRED_EDICT_TITLE:0 "布告期間満了"
  COUNTRY_EDICT_EXPIRED:0 "帝国への布告「$EDICT|Y$」は期間が満了した。 "
- PLANET_EDICT_EXPIRED:0 "$PLANET$ への布告「$EDICT|Y$」は期間が満了した。 "
+ PLANET_EDICT_EXPIRED:0 "$PLANET$への布告「$EDICT|Y$」は期間が満了した。 "
  #####################################
  # Megastructures
  #####################################
@@ -494,4 +495,4 @@
  # Claims
  #####################################
  MESSAGE_NEW_CLAIM_ON_SYSTEM_TITLE:1 "他国による領有権の主張"
- MESSAGE_NEW_CLAIM_ON_SYSTEM:1 "我々が合法的に領有しているにも拘わらず、 $COUNTRY|H$ は図太くも $SYSTEM|H$ の領有権を主張してきた！ "
+ MESSAGE_NEW_CLAIM_ON_SYSTEM:1 "我々が合法的に領有しているにもかかわらず、 $COUNTRY|H$は図太くも$SYSTEM|H$の領有権を主張してきた！ "

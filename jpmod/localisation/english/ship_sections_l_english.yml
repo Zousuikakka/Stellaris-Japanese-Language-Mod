@@ -24,7 +24,7 @@
  BATTLESHIP_BOW_L1S4:1 "タイタン・ブレイカー"
  BATTLESHIP_BOW_L2:1 "アーティラリ・ボウ"
  BATTLESHIP_BOW_M1S2SHB:1 "ハンガー・ボウ"
- BATTLESHIP_BOW_M2S4:1 "スピナル・マウント・ボウ"
+ BATTLESHIP_BOW_M2S4:1 "スピナルマウント・ボウ"
  BATTLESHIP_BOW_M3S2:1 "ソウル・ブレイカー"
  BATTLESHIP_MID_L2S4:1 "ノヴァ・コア"
  BATTLESHIP_MID_L1M4:1 "ストームブリンガー・コア"
@@ -71,10 +71,10 @@
  # Destroyer
  ####################################
  DESTROYER_BOW_M1S2:1 "ガンシップ・ボウ"
- DESTROYER_BOW_S3:1 "ピケット・シップ・ボウ"
+ DESTROYER_BOW_S3:1 "ピケットシップ・ボウ"
  DESTROYER_BOW_L1:1 "アーティラリ・ボウ"
- DESTROYER_STERN_PD2:0 "ピケット・シップ・スタン"
- DESTROYER_STERN_S2:0 "インターセプター・シップ・スタン"
+ DESTROYER_STERN_PD2:0 "ピケットシップ・スタン"
+ DESTROYER_STERN_S2:0 "インターセプターシップ・スタン"
  DESTROYER_STERN_M1:1 "ガンシップ・スタン"
  ####################################
  # Science
