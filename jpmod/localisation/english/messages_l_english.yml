@@ -27,7 +27,7 @@
  MESSAGE_FLEET_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "艦隊任務を完了"
  MESSAGE_SYSTEM_SURVEYED_TITLE:0 "星系の調査を完了"
  AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE:0 "艦隊任務をキャンセル"
- MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:0 "§H$FLEET$§!は自動探索をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
+ MESSAGE_FLEET_ORDER_AUTO_EXPLORE_CANCELED:1 "§H$FLEET$§!は自動調査をキャンセルした。 未調査の星系を発見もしくは到達できない状態になった。 "
  FLEET_BUILD_ORDER_CANCELED_MESSAGE_TYPE_TITLE:0 "$AUTO_EXPLORE_CANCELED_MESSAGE_TYPE_TITLE$"
  MESSAGE_FLEET_BUILD_ORDER_CANCELED_MESSAGE:0 "$FLEET|H$は$SYSTEM|H$に$STATION|H$を建造できなかった。 資源は払い戻された。 "
  MESSAGE_BYPASS_EXPLORED:0 "ワームホールの調査"
@@ -102,6 +102,8 @@
  ACTION_FORM_COMMERCIAL_PACT_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!からの通商条約の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_RESEARCH_AGREEMENT_PROPOSAL_FAILED_ACTOR:0 "我々の§H[Recipient.GetName]§!に対する研究協定の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_RESEARCH_AGREEMENT_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!からの研究協定の提案は回答期限切れにより自動否決された。 "
+ ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_ACTOR:0 "Our offer to guarantee the independence of §H[Recipient.GetName]§! was declined."
+ ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_RECIPIENT:0 "The offer by §H[Actor.GetName]§! to guarantee our independence timed out and was auto-declined."
  ACTION_FORM_MIGRATION_PACT_PROPOSAL_FAILED_ACTOR:1 "我々の§H[Recipient.GetName]§!に対する移民条約の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_MIGRATION_PACT_PROPOSAL_FAILED_RECIPIENT:1 "§H[Actor.GetName]§!からの移民条約の提案は回答期限切れにより自動否決された。 "
  ACTION_INVITE_TO_ALLIANCE_PROPOSAL_FAILED_ACTOR:0 "我々の§H[Recipient.GetName]§!に対する同盟加入要請は拒否された。 "
@@ -160,7 +162,7 @@
  MESSAGE_MAKE_RIVAL_TITLE:0 "$RIVALRY$"
  MESSAGE_RECALL_EMBASSY_TITLE:0 "大使の召還"
  MESSAGE_END_RIVALRY_TITLE:0 "$RIVALRY$の終了"
- MESSAGE_EMBASSY_TITLE:0 "大使館設立"
+ MESSAGE_EMBASSY_TITLE:1 "大使館の設立"
  MESSAGE_DECLARE_WAR_TITLE:0 "宣戦布告"
  MESSAGE_OFFER_PEACE_TITLE:0 "和平交渉"
  MESSAGE_INVITE_TO_ALLIANCE_TITLE:0 "同盟への招待"
@@ -244,6 +246,7 @@
  ACTION_FORM_FEDERATION_NOTIFICATION:2 "$FEDERATION$を形成することが決議され、 §H[From.GetAllianceName]§!が発足した。 \n\n彼らは一体となって銀河に乗り出すことを選んだのだ。 "
  ACTION_INVITE_TO_FEDERATION_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetAllianceName]§!に加盟した。 \n\n今後、 彼らは協同して敵に当たる。 "
  ACTION_ASK_TO_JOIN_FEDERATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetAllianceName]§!に加盟した。 \n\n今後、 彼らは協同して敵に当たる。 "
+ ACTION_ASK_TO_LEAVE_FEDERATION_NOTIFICATION:0 "$ACTION_LEAVE_FEDERATION_NOTIFICATION$"
  ACTION_LEAVE_FEDERATION_NOTIFICATION:2 "§H[From.GetName]§!は§H[Root.GetAllianceName]§!から脱退した。 \n\n我々にとってはチャンスかもしれない……"
  ACTION_KICK_FROM_FEDERATION_NOTIFICATION:1 "§H[From.GetAllianceName]§!は§H[Root.GetName]§!の連邦からの追放を可決した。 "
  ACTION_ASK_TO_BE_RELEASED_SUBJECT_NOTIFICATION:2 "§H[Root.GetName]§!は§H[From.GetName]§!を独立させた。 \n\n従属国を制御できないほど弱体なのだろう。 "
@@ -340,8 +343,8 @@
  COUNTRY_LEADER_DEATH:0 "$CLASS|Y$ $LEADER|Y$は$PLANET|Y$で死亡した！ "
  HEIR_DEATH:0 "§Y$HEIR$§! $HEIRNAME|Y$は死亡した！ "
  RULER_ELECTED:0 "新たな統治者が投票により選出された！  次の選挙がある$TIME|Y$までの間、 $TITLE$ $LEADER|Y$が統治を行う。 "
- RULER_ELECTED_UNTIL_DEATH:0 "$TITLE$ $LEADER|Y$が新たな統治者に選出された。 その死まで統治を行う。 "
- RULER_ELECTED_HEIR:0 "継承序列により$TITLE$ $LEADER|Y$が新たな統治者となった。 "
+ RULER_ELECTED_UNTIL_DEATH:1 "$TITLE$ $LEADER|Y$が新たな統治者に選出された。 その死まで統治を行う。 "
+ RULER_ELECTED_HEIR:1 "継承序列により$TITLE$ $LEADER|Y$が新たな統治者となった。 "
  MESSAGE_LEADER_DEATH_TITLE:0 "リーダーが死亡した"
  MESSAGE_RULER_ELECTED_TITLE:0 "統治者が選出された"
  MESSAGE_RULER_ELECTED_UNTIL_DEATH_TITLE:0 "統治者が選出された"
@@ -391,7 +394,7 @@
  ####################################
  # Revolt
  ####################################
- MESSAGE_REVOLT:0 "惑星$PLANET|Y$の住民が叛乱！ "
+ MESSAGE_REVOLT:1 "惑星$PLANET|Y$の住民が叛乱！ "
  MESSAGE_PLANET_REVOLT_TITLE:0 "叛乱発生！ "
  ####################################
  # Planet Destruction
@@ -496,3 +499,8 @@
  #####################################
  MESSAGE_NEW_CLAIM_ON_SYSTEM_TITLE:1 "他国による領有権の主張"
  MESSAGE_NEW_CLAIM_ON_SYSTEM:1 "我々が合法的に領有しているにもかかわらず、 $COUNTRY|H$は図太くも$SYSTEM|H$の領有権を主張してきた！ "
+ #####################################
+ # Star Destroyed
+ #####################################
+ MESSAGE_STAR_DESTROYED:0 "星系が破壊された"
+ MESSAGE_STAR_DESTROYED_DESC:0 "A massive supernova triggered by $ADJ$ §RStar-Eater§! has destroyed $PLANET|Y$."

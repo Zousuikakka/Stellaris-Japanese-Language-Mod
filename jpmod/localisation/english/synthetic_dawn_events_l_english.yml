@@ -5,7 +5,7 @@
  syndaw.2.name:0 "[Root.GetName]の統合"
  syndaw.2.desc:0 "[Root.GetName]の人工生命体ユニットを我々のネットワークに同化した。 "
  syndaw.21.name:1 "§Rユニットの喪失§!"
- syndaw.21.desc:0 "[malfunctioning_leader.Ship.GetFleetName]の調査ユニットである§R[malfunctioning_leader.GetName]§!が、 予期せずして高圧電線に長時間触れたために機能を停止した。 "
+ syndaw.21.desc:1 "[malfunctioning_leader_fleet.GetName]の調査ユニットである§R[malfunctioning_leader.GetName]§!が、 予期せずして高圧電線に長時間触れたために機能を停止した。 "
  syndaw.22.name:0 "$syndaw.21.name$"
  syndaw.22.desc:0 "工学研究ユニットである§R[malfunctioning_leader.GetName]§!が、 調整を誤った外骨格アプリケーターによって必要な力の2984倍で新しい背板を固定されたために、 機能を停止した。 "
  syndaw.23.name:0 "$syndaw.21.name$"
