@@ -863,7 +863,7 @@
  ancrel.4036.b:0 "君は何者だ？ "
  ancrel.4036.b.response:0 "わたしはオラクル、 「眼」の能力を授けられた人工知能です。 私のソフトウェアは正確性74.99999%の神意によって貴方がたの未来を予測できます。 貴方からは大いなる不安を感じますね。 大きな危険が迫っています。 貴方がたの社会は、 犯罪と逸脱に苛まれています。 その痛みを私が取り除いて差し上げましょう。 "
  ancrel.4036.c:0 "それは量子マルチコア・プロセッサーか？  利用できそうだ……"
- ancrel.4036.d:１ "[Root.Capital.GetName]に「問題児」が何人かいてな……"
+ ancrel.4036.d:1 "[Root.Capital.GetName]に「問題児」が何人かいてな……"
  ancrel.4036.d.tooltip:0 "視野の広さに恵まれた§Gスキル5§!の総督が、 [Root.GetName]に加わる。 "
  ancrel.4036.e:0 "ネクサスの同化を承認する。 "
  ancrel.4036.e.tooltip:0 "§G+1§! §Y$decision_machine_oracle$§!ディシジョンは次の効果を与える：\n£crime£ $MOD_PLANET_CRIME_NO_HAPPINESS_ADD$ §R-15§!\n£stability£ $MOD_PLANET_STABILITY_ADD$ §G+20§!"

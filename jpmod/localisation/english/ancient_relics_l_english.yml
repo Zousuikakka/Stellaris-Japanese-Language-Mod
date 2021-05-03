@@ -149,7 +149,7 @@
  ARCHAEOLOGICAL_SITE_CHALLENGE:0 "§H挑戦§!\nこれは現在割り当てられている科学者のレベルに対する、 調査地点の難易度を表す。 "
  ARCHAEOLOGICAL_SITE_BREAKTHROUGH:0 "ブレイクスルー確率"
  VIEW_SITE:1 "£archaeology£ 調査地点を見る"
- SHOW_FIRST_CONTACT:0 "Show First Contact"
+ SHOW_FIRST_CONTACT:0 "ファーストコンタクト"
  ARCHAEOLOGICAL_SITE_FINISHED:0 "調査地点の調査完了"
  ARCHAEOLOGICAL_SITE_LOCKED:0 "発掘ファイルはロックされている"
  alert_site_event_title:0 "考古学調査地点イベント保留中"
@@ -471,7 +471,7 @@
  r_galatron_desc:0 "$galatron_modifier_desc$"
  r_surveyor:0 "サーベイヤー"
  r_surveyor_desc:0 "複製不能な技術が使用された、 信じられないほど強力なスキャンツール。 その起源は謎に包まれており、 最後にそれを所有していた採掘ドローンたちが創ったものではないようだ。 "
- #r_orb_insight:0 "##"
+ #r_orb_insight:0
  #r_orb_insight_desc:0
  r_galaxy:0 "ミニチュア銀河"
  r_galaxy_desc:0 "このミニチュア銀河は、 「好戦的勢力C」としてのみ知られる文明によって作られたもので、 封鎖された故郷の惑星から脱出するために使われた。 \n\nこの銀河は、 タンク内の侵入不能な亜空間領域に収められているが、 そこの居住者の活動はある程度観察できる。 "

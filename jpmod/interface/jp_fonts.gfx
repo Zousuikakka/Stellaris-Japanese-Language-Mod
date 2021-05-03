@@ -37,70 +37,54 @@ bitmapfonts = {
 	}
 
 	bitmapfont = {
-		name = "standard_font"
-		ttf_font = "Chinese_normal"
-        ttf_size = "18"
-		vertical_offset  = "2"
+		name = "large_title_font"
+		ttf_font = "Orbitron"
+        ttf_size = "29"
+		vertical_offset  = "-2"
 	}
 
-	
-	bitmapfont = {
-		name = "large_title_font"
-		ttf_font = "Chinese_bigger"
-        ttf_size = "32"
-		vertical_offset  = "5"
-	}
-	
 	bitmapfont = {
 		name = "large_title_font_28"
-		ttf_font = "Chinese_big"
-		ttf_size = "28"
-		vertical_offset  = "5"	
+		ttf_font = "Orbitron"
+		ttf_size = "23"
+		vertical_offset  = "-1"
 	}
-		
+
 	bitmapfont = {
 		name = "cg_16b"
-		ttf_font = "Chinese_normal"
-        ttf_size = "12"
+		ttf_font = "Japanese_normal"
+        ttf_size = "14"
 		vertical_offset  = "0"
-	}
-		
-	bitmapfont = {
-		name = "hoi_16mbs"
-		ttf_font = "Chinese_normal"
-        ttf_size = "12"
-		#path = "gfx/fonts/hoi_16mbs"
-		#color = 0xffffffff
 	}
 
 	bitmapfont = {
 		name = "malgun_goth_24"
-		ttf_font = "Chinese_header"
-        ttf_size = "16"
-		vertical_offset  = "1"
-	}	
+		ttf_font = "Japanese_header"
+        ttf_size = "18"
+		vertical_offset  = "0"
+	}
 	
 	### MAP NAME FONTS ###
 	bitmapfont = {
 		name = "map_name_border"
-		ttf_font = "Chinese_header"
-        ttf_size = "18"
-		vertical_offset  = "-10"
+		ttf_font = "Orbitron"
+        ttf_size = "29"
+		vertical_offset  = "-12"
 	}
-	
+
 	bitmapfont = {
 		name = "map_name_nebula"
-		ttf_font = "Chinese_header"
-        ttf_size = "18"
-		color = 0xffffffff
-	}	
+		ttf_font = "Orbitron"
+        ttf_size = "29"
+		vertical_offset  = "-2"
+	}
 
-	
 	bitmapfont = {
 		name = "map_name_sector"
-		ttf_font = "Chinese_header"
-        ttf_size = "18"
-		color = 0xffffffff
+		ttf_font = "Orbitron"
+        ttf_size = "29"
+		vertical_offset  = "-2"
 	}
+
 }
 

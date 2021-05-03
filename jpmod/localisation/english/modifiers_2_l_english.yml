@@ -170,7 +170,7 @@
  mod_damage_vs_country_type_ai_empire_mult:1 "コンティンジェンシーへのダメージ"
  mod_damage_vs_country_type_sentinels_mult:0 "センチネルへのダメージ"
  mod_damage_vs_country_type_gate_builders_mult:0 "ゲート建設者へのダメージ"
- MOD_DAMAGE_VS_PLAYER_CRISIS_MULT:0 "Damage to Crisis-Seeking Civilizations"
+ MOD_DAMAGE_VS_PLAYER_CRISIS_MULT:0 "危機候補文明へのダメージ"
  ####################################
  # Opinion Modifiers
  ####################################

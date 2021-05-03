@@ -102,8 +102,8 @@
  ACTION_FORM_COMMERCIAL_PACT_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!からの通商条約の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_RESEARCH_AGREEMENT_PROPOSAL_FAILED_ACTOR:0 "我々の§H[Recipient.GetName]§!に対する研究協定の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_RESEARCH_AGREEMENT_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!からの研究協定の提案は回答期限切れにより自動否決された。 "
- ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_ACTOR:0 "Our offer to guarantee the independence of §H[Recipient.GetName]§! was declined."
- ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_RECIPIENT:0 "The offer by §H[Actor.GetName]§! to guarantee our independence timed out and was auto-declined."
+ ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_ACTOR:0 "我々の§H[Recipient.GetName]§!に対する独立保障の提案は否決された。 "
+ ACTION_GUARANTEE_INDEPENDENCE_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!からの独立保障の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_MIGRATION_PACT_PROPOSAL_FAILED_ACTOR:1 "我々の§H[Recipient.GetName]§!に対する移民条約の提案は回答期限切れにより自動否決された。 "
  ACTION_FORM_MIGRATION_PACT_PROPOSAL_FAILED_RECIPIENT:1 "§H[Actor.GetName]§!からの移民条約の提案は回答期限切れにより自動否決された。 "
  ACTION_INVITE_TO_ALLIANCE_PROPOSAL_FAILED_ACTOR:0 "我々の§H[Recipient.GetName]§!に対する同盟加入要請は拒否された。 "
@@ -503,4 +503,4 @@
  # Star Destroyed
  #####################################
  MESSAGE_STAR_DESTROYED:0 "星系が破壊された"
- MESSAGE_STAR_DESTROYED_DESC:0 "A massive supernova triggered by $ADJ$ §RStar-Eater§! has destroyed $PLANET|Y$."
+ MESSAGE_STAR_DESTROYED_DESC:0 "$ADJ$の§Rスターイーター§!が引き起こした巨大な超新星爆発により、 $PLANET|Y$が破壊された。 "

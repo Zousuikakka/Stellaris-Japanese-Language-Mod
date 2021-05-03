@@ -48,4 +48,4 @@
  diplo_stance_primitive_desc:0 "この帝国は重力井戸の外に存在する世界を知らない。 "
  policy_diplomatic_stance:0 "外交スタンス"
  policy_diplomatic_stance_desc:0 "外交の基本方針を定めることで、 銀河の他勢力との関わり方を変えることができる。 \n"
- requires_supremacy_traditions:0 "$TRIGGER_FAIL$Requires §Y$tr_supremacy_finish$§!"
+ requires_supremacy_traditions:0 "$TRIGGER_FAIL$§Y$tr_supremacy_finish$§!が必要"

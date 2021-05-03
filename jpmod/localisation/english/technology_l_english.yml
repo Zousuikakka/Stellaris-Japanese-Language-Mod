@@ -529,9 +529,9 @@
  tech_lasers_5:0 "ガンマ線レーザー"
  tech_lasers_5_desc:0 "ガンマレーザーの電磁放射は極めて高い波長を持つ。 その破壊力は、 レーザー兵器の分野では比べるものがない。 "
  tech_energy_lance_1:0 "粒子ランス"
- tech_energy_lance_1_desc:1 "これら重エネルギー武器は、 多大なダメージを与える収束粒子ビームを発射する。 エミッタアレイのサイズから、 それらを使用できるのは戦艦及びタイタン級に限定される。 "
+ tech_energy_lance_1_desc:1 "これら重エネルギー武器は、 多大なダメージを与える収束粒子ビームを発射する。 エミッタアレイのサイズから、 それらを使用できるのは戦艦及びジャガーノートに限定される。 "
  tech_energy_lance_2:0 "タキオンランス"
- tech_energy_lance_2_desc:1 "粒子ランスより強力なバージョンであるこの武器は巨大なパワーのタキオンビームを発射する。 以前のと同様、 その使用は戦艦とタイタンに限定される。 "
+ tech_energy_lance_2_desc:1 "粒子ランスより強力なバージョンであるこの武器は巨大なパワーのタキオンビームを発射する。 以前のと同様、 その使用は戦艦とジャガーノートに限定される。 "
  tech_perdition_beam:0 "破壊光線"
  tech_perdition_beam_desc:0 "前例のない火力のビームを発射する、 エネルギー増幅導管群の大規模アレイ。 そのサイズゆえに、 この兵器はタイタン級の宇宙船にしか装備できない。 "
  # Plasma Weapons
@@ -1024,8 +1024,8 @@
  gateway_kinetic_weapons:0 "§H物理兵器の道筋§!\n§Eこの技術は物理兵器の分野をさらなる発達へと導く。 §!"
  gateway_energy_weapons:0 "§Hエネルギー兵器の道筋§!\n§Eこの技術はエネルギー兵器の分野をさらなる発達へと導く。 §!"
  gateway_power_generation:0 "§H電力発電の道筋§!\n§Eこの技術は電力発電の分野をさらなる発達へと導く。 §!"
- gateway_espionage:0 "§HCovert Operations Path§!\n§EThis technology will lead to further advancements in espionage and covert activities.§!"
- gateway_infrastructure:0 "§HInfrastructure Path§!\n§EThis technology will lead to further advancements in civilian infrastructure.§!"
+ gateway_espionage:0 "§H秘密活動の道筋§!\n§Eこの技術は諜報と秘密活動の分野をさらなる発達へと導く。 §!"
+ gateway_infrastructure:0 "§Hインフラストラクチャーの道筋§!\n§Eこの技術は民生インフラの分野をさらなる発達へと導く。 §!"
  #####################################
  # Enclave Techs
  #####################################
