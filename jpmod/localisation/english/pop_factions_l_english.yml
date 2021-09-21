@@ -141,7 +141,7 @@
  XENOIST_PROACTIVE_FIRST_CONTACT_POLICY_DESC:0 "ファーストコンタクトの確立において、 平和的で§Y積極的§!なアプローチを正式なものとして制定することは、 この探検の時代において[Root.GetName]を喜ばせるだろう。 "
  XENOIST_AGGRESSIVE_FIRST_CONTACT_POLICY:0 "攻撃的ファーストコンタクトプロトコル"
  XENOIST_NO_AGGRESSIVE_FIRST_CONTACT_POLICY:0 "$XENOIST_AGGRESSIVE_FIRST_CONTACT_POLICY$"
- XENOIST_AGGRESSIVE_FIRST_CONTACT_POLICY_DESC:0 "我らが旅路において出会うものに対して§Y攻撃的§!な方策をとると正式決定できなければ、 この探検の時代において[Root.GetName]は不満を覚えるだろう。 "
+ XENOIST_AGGRESSIVE_FIRST_CONTACT_POLICY_DESC:0 "我らが旅路において出会うものに対して§Y攻撃的§!な方策を取らないと正式決定できなければ、 この探検の時代において[Root.GetName]は不満を覚えるだろう。 "
  # IMPERIALISTS
  IMPERIALIST_PHILOSOPHY:0 "攻撃的な外交政策"
  IMPERIALIST_PHILOSOPHY_DESC:2 "攻撃戦争が許されないと、 [Root.GetName]は不満を覚えるだろう。 "
@@ -647,7 +647,7 @@
  faction.15.desc:0 "無目的な群衆 (一部の職場放棄した奴隷たち) が、 [roving_gangs_planet.GetName]の他の民衆と暴力沙汰を起こしており、 1 POPの死者が出ている。 \n\n犠牲者の関係者がどのような反応を示すかはまだわからない。 "
  faction.15.a.tooltip:0 "[roving_gangs_planet]：\n§Y1 POP§!が§R死滅する§!。 "
  faction.50.title:0 "星間地下鉄道！ "
- faction.50.desc:0 "奴隷のうち一部の過激な分子が、 [Root.Owner.GetAdj]の領内から奴隷を逃亡させるために協働していたようだ。 \n\nどうやってこんな規模の犯罪を実行したのかわからないが、 これらの奴隷たちが[Root.Owner.GetAdj]の領域外のどこかに逃亡して自由になっていることは確実だろう。 "
+ faction.50.desc:0 "奴隷のうち一部の過激な分子が協働し、 [Root.Owner.GetAdj]の領内から奴隷を逃亡させたようだ。 \n\nどうやってこんな規模の犯罪を実行したのかわからないが、 奴隷たちが[Root.Owner.GetAdj]領外のどこかに逃亡して自由になっていることは確実だろう。 "
  faction.50.desc.colle:0 "道を誤った一部の分派が、 [Root.Owner.GetName]の一部の奴隷を職務から外し、 [Root.Owner.GetAdj]の領域外に密航させていたようだ。 \n\n時とともに我々は回復するだろうし、 道を失ったものたちもいずれは[Root.Owner.GetName]に戻り、 彼らの人生の目的に復帰することを願う。 "
  faction.50.a:0 "残念だ。 "
  faction.50.1.tooltip:0 "[Root.Owner.GetName]：\n奴隷POPが§R-1§! "

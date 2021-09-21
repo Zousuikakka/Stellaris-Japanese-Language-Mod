@@ -46,6 +46,6 @@
  SOCIAL_INVITE_DECLINED:0 "招待は拒否された"
  SOCIAL_JOIN_ACCEPTED:0 "参加要求は承知された"
  SOCIAL_JOIN_DECLINED:0 "参加要求は拒否された"
- SOCIAL_INCOMPATIBLE_VERSION:0 "MODまたはバージョンに互換性が無いと思われる。 今回は一緒にプレイできない"
+ SOCIAL_INCOMPATIBLE_VERSION:0 "MODまたはバージョンに互換性がないと思われる。 今回は一緒にプレイできない"
  INVITE_CANTCONNECT_RESOLUTION:0 "現在、 招待を処理できない。 招待を承知するにはメインメニューまたはマルチプレイヤー画面にいる必要がある"
  JOIN_CANTCONNECT_RESOLUTION:0 "現在、 参加要求を処理できない。 参加要求を承知するにはメインメニューまたはマルチプレイヤー画面にいる必要がある"

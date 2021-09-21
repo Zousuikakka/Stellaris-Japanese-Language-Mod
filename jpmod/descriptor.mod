@@ -5,4 +5,4 @@ tags={
 	"Translation"
 }
 picture="JPMOD.jpg"
-supported_version="3.0.2"
+supported_version="3.1.1"

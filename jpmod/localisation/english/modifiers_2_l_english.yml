@@ -92,7 +92,7 @@
  cloudbuster:0 "クラウドバスター"
  cloudbuster_desc:0 "我々はボイドクラウドの磁場を破壊するように武器を調整し、 時間あたりの与ダメージ量を高めた。 "
  drone_bounty:0 "ドローン捕獲の報償金"
- drone_bounty_desc:1 "§L古代の採掘ドローンを破壊し、 エネルギーセルを回収するよう艦隊に命じる。 §!\n破壊したドローン毎のエネルギークレジット：§G500§!"
+ drone_bounty_desc:1 "§L古代の採掘ドローンを破壊し、 エネルギーセルを回収するよう艦隊に命じる。 §!\n破壊したドローン毎のエネルギー通貨：§G500§!"
  unbalanced_ecosystem:0 "アンバランスな生態系"
  unbalanced_ecosystem_desc:0 "生態系が単一の植物種に極端に偏っているため、 この惑星は農業には適さない。 "
  ruler_failed_savior:0 "失敗した救助者"
@@ -117,6 +117,7 @@
  materialist_attraction_desc:0 "物質主義者の集団が、 より現実的で進歩的な解答を求めることにより、 我々の文化的成長を追究しようとしている。 "
  from_extra_federation_members:0 "連邦加盟国から"
  empire_size_mods:0 "帝国規模"
+ rock_brain_decoding:0 "石の脳の言語学"
  ####################################
  # Pop Modifiers
  ####################################

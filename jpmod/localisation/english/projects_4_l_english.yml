@@ -13,7 +13,7 @@
  titanic_life_study_nice:0 "巨体生命の監視"
  titanic_life_study_nice_DESC:1 "[Root.GetName]上の巨体生命を慎重に監視することによって、 彼らと平和的に共存できるようになることを期待しよう。 "
  retaliatory_genome_mapping:0 "報復的ゲノムマッピング"
- retaliatory_genome_mapping_DESC:0 "エイリアンの母星系に艦船を送れば、 彼らが我々から集めているとおぼしきデータと同様のゲノムマッピングを、 我々も集めることができる。 "
+ retaliatory_genome_mapping_DESC:0 "エイリアンの母星系に艦船を送れば、 彼らが我々から集めているとおぼしきデータと同様のゲノムマッピングを、 我々も集められる。 "
  woodwind_instrument_investigation:0 "木管楽器の調査"
  woodwind_instrument_investigation_DESC:0 "生理学的に我々をリラックスさせる効果があると思われる、 謎の楽器の原材料を見つけなければならない。 "
  disappearing_pops_project:0 "[missing_pops_planet.GetName]の失踪"

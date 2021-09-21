@@ -113,7 +113,7 @@
  YUHT_HOMEWORLD_PROJECT:0 "$yuht_1_poi$"
  YUHT_HOMEWORLD_PROJECT_DESC:0 "$yuht_1_poi_desc$"
  FIRST_LEAGUE_ARCHEOLOGY_1:0 "宇宙軍の基地"
- FIRST_LEAGUE_ARCHEOLOGY_1_DESC:0 "『第一同盟』の宇宙軍の基地の残骸が、 [From.GetName]の軌道上で発見された。 デブリのいくつかは考古学者の探索が可能な程度には安全だ。 "
+ FIRST_LEAGUE_ARCHEOLOGY_1_DESC:0 "『第一同盟』の宇宙軍の基地の残骸が、 [From.GetName]の軌道上で発見された。 デブリのいくつかは考古学者が探索できる程度には安全だ。 "
  FIRST_LEAGUE_ARCHEOLOGY_2:0 "遺棄された巡洋艦"
  FIRST_LEAGUE_ARCHEOLOGY_2_DESC:0 "昔の『第一同盟』の巡洋艦の船首と思しきものが、 [From.GetName]の軌道上を漂っているのが発見された。 残骸の調査を進めるのであれば、 乗り込むための部隊を編成する必要がある。 "
  FIRST_LEAGUE_ARCHEOLOGY_3:0 "カムダイの母星"

@@ -2,10 +2,10 @@
  ####################################
  # Opinion Modifiers
  ####################################
- opinion_graverobber_1:0 "冒涜された墓"
+ opinion_graverobber_1:0 "棺を荒らした"
  opinion_graverobber_2:0 "$opinion_graverobber_1$"
  opinion_graverobber_3:0 "$opinion_graverobber_1$"
- opinion_crew_saved:0 "救助された乗組員"
+ opinion_crew_saved:0 "クルーを救助してくれた"
  opinion_abandoned:0 "見捨てられた難民"
  opinion_abandoned_apology:0 "$opinion_abandoned$"
  opinion_abandoned_insult:0 "$opinion_abandoned$"
@@ -39,6 +39,9 @@
  alien_genome_research:0 "異星人ゲノム研究"
  syndaw_research_bonus:0 "コンピュータのオーバークロック"
  syndaw_production_surplus:0 "生産割当の余剰"
+ mycelial_network_modifier:0 "菌糸体ネットワーク"
+ mycelial_network_modifier_improved:0 "改良型菌糸体ネットワーク"
+ fumongus_authoritarian:0 "権威主義への魅力"
  ####################################
  # Edicts
  ####################################
