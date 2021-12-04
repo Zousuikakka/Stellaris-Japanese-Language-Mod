@@ -85,6 +85,7 @@
  syndaw_congregating_robots:0 "集会するロボット"
  syndaw_congregating_robots_desc:0 "彼らはただそこに立っている。 全く動かない。 じっと見つめている。 "
  uprising_ai_buff:0 "最適な備え"
+ country_ai_uprising:0 "$uprising_ai_buff$"
  syndaw_patched_systems:0 "修正されたAI"
  uprising_player_buff:0 "$NAVY_SIZE_TITLE$"
  uprising_player_buff_desc:0 "==10x"
