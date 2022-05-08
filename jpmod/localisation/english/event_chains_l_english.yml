@@ -160,3 +160,6 @@
  refugees.1.desc.2.b:0 "§Y[RefugeeEscapedFrom.GetName]§!を逃れてきた§Y[Root.GetSpeciesNamePlural]§!のぼろぼろになった小型民間船の一隊がわが宙域に到着した。 食料を提供し、 負傷者の治療を行った後、 彼らは§H[Root.Planet.GetName]§!への入植を許可された。 \n\nみすぼらしく、 怯えた彼らは、 無慈悲な[RefugeeEscapedFrom.GetSpeciesAdj]の集合意識による猛攻撃を生き延びた難民である。 彼らがうまく逃げ延びられたのは、 彼らの惑星の古い軍事施設に保管されていた退役宇宙船を数隻、 大胆にも盗んできたからだ。 "
  refugees.1.desc.3:0 "§Y[RefugeeEscapedFrom.GetName]§!を逃れてきた§Y[Root.GetSpeciesNamePlural]§!のぼろぼろになった小型民間船の一隊が、 わが宙域に到着した。 彼ら難民には食料と、 傷病者への医療を提供したのち、 §H[Root.Planet.GetName]§!への定住を許可した。 \n\nみすぼらしく、 怯えた彼らは、 [RefugeeEscapedFrom.GetSpeciesName]の領域での§H[RefugeeEscapedCrisis.GetName]§!の暴虐から逃れてきた難民だ。 彼らは[RefugeeEscapedCrisis.GetSpeciesAdj]が襲来する前にかろうじて、 ほとんど着の身着のままで故郷である§H[RefugeeEscapedPlanet.GetName]§!を逃れることができたのだ。 "
  refugees.1.a:0 "彼らを歓迎しよう。 "
+ snake_infestation_chain_name:0 "潜行性のヘビ"
+ snake_infestation_chain_title:0 "潜行性のヘビ"
+ snake_infestation_chain_desc:0 "何かが地下から飛び出し、 わが入植地を侵食している！ "

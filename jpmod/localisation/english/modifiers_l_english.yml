@@ -26,7 +26,7 @@
  MOD_COUNTRY_SUBJECT_TRUST_CAP_ADD:0 "従属国の最大信用値"
  MOD_COUNTRY_SYNTHETIC_TRUST_CAP_ADD:0 "人工生命への最大信用値"
  MOD_COUNTRY_ORGANIC_TRUST_CAP_ADD:0 "有機体への最大信用値"
- MOD_COUNTRY_ELECTION_INFLUENCE_COST:0 "選挙への影響力コスト"
+ MOD_COUNTRY_ELECTION_COST:1 "選挙への介入コスト"
  MOD_COUNTRY_EDICT_CAPACITY_ADD:0 "布告許容量"
  MOD_COUNTRY_EDICT_COST:0 "布告コスト"
  MOD_COUNTRY_EDICT_COST_DESC:0 "帝国のあらゆる布告の発布コストに影響し、 布告を有効化させるコストを増加または減少させる。 "
@@ -34,6 +34,9 @@
  MOD_COUNTRY_SENSOR_RANGE_MULT:0 "国土のセンサー範囲"
  MOD_COUNTRY_EDICT_LENGTH_MULT:2 "布告の持続期間"
  MOD_COUNTRY_EDICT_LENGTH_MULT_DESC:1 "国内のすべての惑星で発布された布告の持続時間に影響し、 それらの効果時間を増加または減少させる。 "
+ MOD_COUNTRY_EDICT_FUND_ADD:0 "布告基金"
+ MOD_COUNTRY_EDICT_FUND_MULT:0 "$MOD_COUNTRY_EDICT_FUND_ADD$"
+ mod_edicts_upkeep_mult:0 "布告維持費"
  MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED:0 "研究速度"
  MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED:0 "研究速度 (£physics£ 物理学)"
  MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED:0 "研究速度 (£society£ 社会学)"
@@ -71,7 +74,7 @@
  MOD_MEGASTRUCTURE_BUILD_SPEED_ADD:0 "巨大構造物構築速度"
  MOD_MEGASTRUCTURE_PRODUCTION_MULT:0 "巨大構造物資源産出"
  MOD_MEGASTRUCTURE_BUILD_COST_MULT:0 "巨大構造物構築コスト"
- MOD_DIPLO_WEIGHT_SPRAWL_MULT:0 "帝国膨張度から発生する外交発言力"
+ MOD_DIPLO_WEIGHT_SPRAWL_MULT:1 "帝国規模から発生する外交発言力"
  MOD_DIPLO_WEIGHT_NAVAL_MULT:0 "艦隊戦力から発生する外交発言力"
  MOD_DIPLO_WEIGHT_ECONOMY_MULT:0 "経済力から発生する外交発言力"
  MOD_DIPLO_WEIGHT_TECHNOLOGY_MULT:0 "技術力から発生する外交発言力"
@@ -435,6 +438,8 @@
  MOD_COUNTRY_FEDERATION_NAVAL_CAP_CONTRIBUTION_MULT:0 "連邦への宇宙軍許容量供出"
  MOD_COUNTRY_COMMAND_LIMIT_ADD:0 "艦隊指揮上限"
  MOD_COUNTRY_COMMAND_LIMIT_MULT:0 "$MOD_FLEET_COMMAND_LIMIT_ADD$"
+ MOD_COUNTRY_NAVAL_COVERAGE_ADD:0 "$navy_coverage$"
+ MOD_COUNTRY_NAVAL_COVERAGE_MULT:0 "$navy_coverage$"
  #Leader
  MOD_LEADER_RULER_SKILL_LEVELS:0 "統治者のスキル上限"
  MOD_LEADER_SKILL_LEVELS:0 "リーダーのスキル上限"
@@ -506,6 +511,7 @@
  volatile_motes_deficit:0 "$volatile_motes$不足"
  rare_crystals_deficit:0 "$rare_crystals$不足"
  exotic_gases_deficit:0 "$exotic_gases$不足"
+ unity_deficit:0 "$unity$不足"
  ####################################
  # Resource Modifiers
  ####################################
@@ -583,6 +589,8 @@
  mod_country_traditions_influence_produces_add:0 "$MOD_COUNTRY_INFLUENCE_GAIN_ADD$"
  mod_country_ruler_influence_produces_add:0 "$MOD_COUNTRY_INFLUENCE_GAIN_ADD$"
  mod_country_ethic_influence_produces_add:0 "$MOD_COUNTRY_INFLUENCE_GAIN_ADD$"
+ mod_country_power_projection_influence_produces_add:0 "$country_power_projection$"
+ mod_country_power_projection_influence_produces_mult:0 "$country_power_projection$"
  ####################################
  # Dynamic Modifiers
  ####################################

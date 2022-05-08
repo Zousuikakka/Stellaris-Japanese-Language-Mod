@@ -45,7 +45,7 @@
  GEN_MYSTICAL_CAT:0 "神秘的"
  GEN_MYSTICAL_DESC:0 "我々の調査で、 科学者チームが『神秘的』としか説明できない何かを発見した。 この謎を明らかにするため、 より詳細に現象を調査する必要がある。 "
  NUKE_PLANET_CAT:0 "滅びの冬"
- NUKE_PLANET_DESC:0 "核が作ったウェイストランドは明らかに前文明のサインである。 我々の走査は特定の地点において活動を観測した。 我々はそれを調査するべきだ。 "
+ NUKE_PLANET_DESC:0 "過去の文明の存在をはっきりと示す、 核による荒廃地がある。 スキャナーはある地点で活動を検出しており、 調査が必要だ。 "
  ARID_PLANET_CAT:0 "乾燥した不毛の地"
  ARID_PLANET_DESC:0 "[From.GetPlanetMoon]は行って楽しいような場所ではない。 だが、 我々の最初の走査が示すものは、 そこにはいくらかの貴重な資源が存在するということだ。 "
  ####################################
@@ -424,7 +424,7 @@
  colony.2001.b:0 "反対派を抑えろ！ "
  colony.2001.b.military.tooltip:0 "[Root.GetName]において§B1 £pops£ POP§!が§Y軍国主義§!に転向する。 $colony.2001.b.tooltip$"
  colony.2001.b.pacifism.tooltip:0 "[Root.GetName]において§B1 £pops£ POP§!が§Y平和主義§!に転向する。 $colony.2001.b.tooltip$"
- colony.2001.b.tooltip:1 "\n\n§R$suppressed_opposition$§!補正が[Root.GetName]に追加される。 下記の効果がある：\n£happiness£ 幸福 §R-15%§!"
+ colony.2001.b.tooltip:1 "\n\n§R$suppressed_opposition$§!の補正が[Root.GetName]に追加される。 下記の効果がある：\n£happiness£ 幸福度§R-15%§!"
  colony.2005.name:0 "波の下から"
  colony.2005.desc:0 "[Root.GetName]への入植後、 日々の生活を支援する資源が数多く見つかることを期待して、 定期的に惑星を探索している。 最近行った北極圏への遠征で、 海の底に大きな物体を発見した。 異星人の戦闘用巡洋艦だ。 \n\n深海の水圧への挑戦になるが、 船の回収は可能だろう。 "
  colony.2005.a:0 "サルベージしてみるか。 "

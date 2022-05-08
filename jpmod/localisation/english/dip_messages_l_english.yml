@@ -42,6 +42,7 @@
  FALLEN_MACHINE_EMPIRE_PEACE_PROPOSE:0 "和平案を発見しました。 和平質問開始。 "
  FALLEN_MACHINE_EMPIRE_PEACE_PROPOSE_BERSERK:0 "$01_BERSERK_MACHINE_EMPIRE_ERROR$"
  # General Greetings
+ DEFAULT_GREETINGS_STRING:0 "よろしく！ "
  01_HOSTILE_GREETING:1 "何のつもりだ、 [From.GetSpeciesNameInsult]。 "
  02_HOSTILE_GREETING:0 "手短にな、 [From.GetSpeciesName]。 価値のない冗談を聞く忍耐力はとうの昔に切らしてるんでね。 "
  03_HOSTILE_GREETING:0 "おふざけはもうたくさんだ、 [From.GetSpeciesName]。 望みはなんだ？ "
@@ -2146,7 +2147,7 @@
  CRISIS_SPIRITUALIST_GREETING_01:1 "教えてくれ、 [From.GetSpeciesNamePlural]――帝国が滅びるとき、 彼らの神々もまた滅びるのだろうか？  一緒に解き明かしてみないか？ "
  CRISIS_PACIFIST_GREETING_01:1 "[From.GetSpeciesNamePlural]よ、 非武装は他のものたちの武装を無効化するものではないぞ。 だが少なくとも、 お前たちの自己犠牲はすぐに終わるだろう。 "
  CRISIS_MILITARIST_GREETING_01:1 "お前たちの虚勢は、 滅びる定めにある帝国の無意味なジェスチャーにすぎん。 武器を取れ、 [From.GetSpeciesNamePlural]、 そして我々の新たな始まりに命を捧げよ。 "
- CRISIS_AUTHORITARIAN_GREETING_01:1 "お前たちの指導者のように才能に恵まれた――と言われているようだが――ものであっても、 お前たちの運命を救えないというのは、 憐れむべきことだな。 お前たちのもとにゆくぞ、 [From.GetSpeciesNamePlural]。 "
+ CRISIS_AUTHORITARIAN_GREETING_01:2 "哀れなものだな、 お前たちの[From.GetRulerTitle]のように才能にすぐれているとされているものであっても、 お前たちを運命から救えないとは。 お前たちの元へゆくぞ、 [From.GetSpeciesNamePlural]。 "
  CRISIS_EGALITARIAN_GREETING_01:0 "お前たちの国民は果敢にも団結して抵抗するようだが、 それでどうなるものでもない。 絶滅に対する拒否権はないのだよ。 "
  CRISIS_XENOPHILE_GREETING_01:0 "お前たちは異質な生命を探していながら、 今は我々のことを排除せんとしている。 我々の事業が完遂された暁には、 お前たちは銀河の他の勢力と手を携えることになるだろうな――永遠に。 "
  CRISIS_XENOPHOBE_GREETING_01:1 "最初の[From.GetSpeciesNamePlural]が星々を見上げたとき、 恐怖と疑念を感じた。 お前たちの先祖はその本能に従っているべきだったのだ――お前たちが冷たい虚空で出会うのは我々だったのだからな。 "

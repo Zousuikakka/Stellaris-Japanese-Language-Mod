@@ -42,6 +42,7 @@
  mycelial_network_modifier:0 "菌糸体ネットワーク"
  mycelial_network_modifier_improved:0 "改良型菌糸体ネットワーク"
  fumongus_authoritarian:0 "権威主義への魅力"
+ rage_sage_soldiers:0 "怒りの薬草"
  ####################################
  # Edicts
  ####################################
@@ -122,6 +123,10 @@
  syndaw_unfriendly_robots_desc:0 "ロボットと有機体住民の間の緊張感はこの惑星の£unity£ 統合力産出を減少させている。 "
  syndaw_research_malus:0 "人工知能の損傷"
  syndaw_research_malus_desc:1 "社会学研究室のAI端末は損傷し、 交換されている。 "
+ snake_infestation:0 "侵入種族"
+ snake_infestation_desc:0 "ヘビだ！  ヘビがいたるところに！  対処には手が回らない……他のことに忙しくて。 "
+ energy_poor:0 "エネルギーの消耗"
+ energy_poor_desc:0 "驚かせたくはないのだが、 ヘビが反応炉の周りでとぐろを巻き、 エネルギーを吸い取っている。 "
  ####################################
  # Ship/Fleet Modifiers
  ####################################

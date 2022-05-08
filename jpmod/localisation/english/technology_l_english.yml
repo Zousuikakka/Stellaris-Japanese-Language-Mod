@@ -807,6 +807,7 @@
  tech_planetary_unification_desc:2 "古代から戦争を繰り返してきた諸部族、 紛争が尽きなかった国々が、 今やひとつの帝国に統合されている。 我々はこの国を崩壊させてはならないし、 そうさせるつもりもない。 "
  tech_planetary_unification_machine_intelligence:0 "データ統一標準規格"
  tech_planetary_unification_desc_machine_intelligence:0 "例外は認められない。 "
+ tech_planetary_unification_effect:1 "£unity£ §Y統合力§!の臨時収入を得る"
  tech_adaptive_bureaucracy:0 "柔軟な官僚機構"
  tech_adaptive_bureaucracy_desc:1 "我々は進歩したことにより、 目的追求を邪魔するのではなく支援してくれるような、 新しくて俊敏な管理体制を必要とするようになっている。 "
  tech_adaptive_bureaucracy_machine_intelligence:0 "陽電子CPU"
@@ -1016,7 +1017,7 @@
  #####################################
  # Gateways
  #####################################
- gateway_capital:0 "§H管理の道筋§!\n§Eこの技術は、 首都の建造物と£influence£ §H影響力§!収入をさらに発達させる。 §H高レベルの建造物§!を建てるには、 惑星の首都をアップグレードする必要がある。 §!"
+ gateway_capital:1 "§H管理の道筋§!\n§Eこの技術は、 首都の建造物と£unity£ §H統合力§!収入をさらに発達させる。 §H高レベルの建造物§!を建てるには、 惑星の首都をアップグレードする必要がある。 §!"
  gateway_biological:0 "§H生物学の道筋§!\n§Eこの技術は生物学的な強化・適応に関する分野をさらに進歩させる。 §!"
  gateway_ship:0 "§H船の道筋§!\n§Eこの技術は大型の宇宙港や強力な軍艦の建造に関する分野をさらなる発展に導く。 §!"
  gateway_psionics:0 "§H超能力の道筋§!\n§Eこの技術は超能力の分野をさらなる発達に導く。 §!"

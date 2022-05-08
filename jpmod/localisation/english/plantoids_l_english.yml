@@ -25,7 +25,7 @@
  plant.100.a:0 "祝賀会を始めよう！ "
  plant.100.b:0 "我々はよくやった。 今は他の場所に集中する時だ。 "
  celebrate_idyllic_bloom:0 "のどかな変容を祝賀している"
- celebrate_idyllic_bloom_desc:0 "この世界をのどかな楽園に変えることに成功したため、 惑星全体で祝賀が行われている。 "
+ celebrate_idyllic_bloom_desc:0 "この惑星をのどかな楽園に変えることに成功したため、 惑星全体で祝賀が行われている。 "
  ### Traits by Byron Aytoun
  trait_plantoid_phototrophic:0 "光栄養"
  trait_plantoid_phototrophic_desc:0 "§Lこの種族は、 食料と日光の組み合わせによって維持されている。 §!\n"

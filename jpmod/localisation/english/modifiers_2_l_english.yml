@@ -117,6 +117,8 @@
  materialist_attraction_desc:0 "物質主義者の集団が、 より現実的で進歩的な解答を求めることにより、 我々の文化的成長を追究しようとしている。 "
  from_extra_federation_members:0 "連邦加盟国から"
  empire_size_mods:0 "帝国規模"
+ taste_the_stars:0 "星の味"
+ taste_the_stars_desc:0 "異星人の飲料を発見したことで、 我々の民衆は未知の味を楽しむようになった。 "
  rock_brain_decoding:0 "石の脳の言語学"
  ####################################
  # Pop Modifiers

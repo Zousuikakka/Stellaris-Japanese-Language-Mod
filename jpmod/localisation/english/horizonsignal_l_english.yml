@@ -31,7 +31,7 @@
  TECH_UNLOCK_AKX_WORM_3_TITLE:0 "$tech_akx_worm_3$"
  TECH_UNLOCK_AKX_WORM_3_DESC:0 "$tech_akx_worm_3_desc$"
  tech_akx_worm_partial_custom:0 "§H未来を瞥見：§!$tech_akx_worm_3$"
- tech_akx_worm_partial_custom_desc:0 "未来の見通しと過去の影響に関する漠然とした知見。 \n\n全体の半分でしかなく、 それ自体では無価値だ。 科学者たちに§H$tech_akx_worm_3$§!テクノロジーをあえて手がけることを許せば、 完成するだろう。 "
+ tech_akx_worm_partial_custom_desc:1 "§H未来を瞥見§!\n未来の見通しと過去の影響に関する漠然とした知見。 \n\n全体の半分でしかなく、 それ自体では無価値だ。 完成後、 科学者たちは§H$tech_akx_worm_3$§!のテクノロジーに巡り合うことが可能になる。 "
  ### BUILDINGS
  building_akx_worm_1:0 "螺旋フィード型パワーハブ"
  building_akx_worm_1_desc:0 "既存の物理学とはまるで整合しない技術を用いて、 惑星のエネルギー生産量を大幅に増やす。 夜の恐怖と落下する夢の中で示唆された技術だ。 "

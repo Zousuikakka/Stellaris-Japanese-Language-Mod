@@ -438,3 +438,4 @@
  WAR_COLOSSUS_GREETING_01:0 "今のうちに降伏しろ、 愚か者め！  さもなくばコロッサスがお前たちを消し去るぞ！ "
  WAR_COLOSSUS_GREETING_02:0 "コロッサスの圧倒的な力に立ち向かえるなどと思うなよ。 お前たちの惑星は消し炭となるだろう。 "
  CAN_TAKE_HOSTILE_ACTION_SATRAPY:0 "わが国はサトラップなので、 これは実行できない。 "
+ CAN_TAKE_HOSTILE_ACTION_OVERLORD:0 "わが国は宗主国なので、 これは実行できない。 "

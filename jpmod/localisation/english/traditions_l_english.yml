@@ -148,6 +148,8 @@
  #tr_domination_star_lords_machine_delayed:0 "他種族の感情的な振る舞いを外交AIに模倣させることは、 たとえ偽物だと相手に知られていても、 肯定的反応を高める役に立つ。 "
  #tr_domination_star_lords_hive_delayed:0 "数世代にわたる実験により、 特定のガスとフェロモンの組み合わせが好戦性を大きく減少させ、 反抗心を弱めることが明らかになった。 死ぬこともあるが、 その場合でも彼らは至福に包まれる。 ごく短いとはいえ我々の精神の美しい純粋さに触れるからだ。 "
  tr_domination_finish:0 "支配の伝統の完成"
+ tr_domination_federations_finish:0 "$tr_domination_finish$"
+ tr_domination_federations_finish_desc:0 "$MOD_EMPIRE_SIZE_POPS_MULT$§G-10%§!\n連邦種別§Y$hegemony_federation$§!が利用可能になる。 \nアセンションパークをアンロック：§G+1§!"
  ################################################################
  # PURITY
  ################################################################
@@ -222,7 +224,7 @@
  tr_synchronicity_instinctive_synchronization_desc:2 "§Y$job_synapse_drone_plural$§!が £mod_pop_amenities_usage_no_happiness_mult£ 快適度§Y2§!を産出する。 "
  tr_synchronicity_instinctive_synchronization_delayed:0 "成長を続けるハイブは、 同期的な労働と開発を大いに必要としている。 "
  tr_synchronicity_integrated_preservation:1 "統合された保全機能"
- tr_synchronicity_integrated_preservation_desc:5 "§Y$job_coordinator_plural$§!が£mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!を追加で§G3§!産出し、 §Y$MOD_PLANET_CRIME_NO_HAPPINESS_ADD$§!を§G2§!減少させる。 "
+ tr_synchronicity_integrated_preservation_desc:7 "§Y$job_coordinator_plural$§!が§Y$MOD_PLANET_CRIME_NO_HAPPINESS_ADD$§!を§G2§!減少させる。 \n自動移住の確率：§G+30%§!"
  tr_synchronicity_integrated_preservation_delayed:5 "成長を続けるネットワークには、 定期的な保守作業とデバッグ作業が不可欠だ。 したがって、 より多くのリソースを$job_coordinator_plural$に割り当てるべきだ。 "
  tr_synchronicity_collective_reasoning:1 "集団理論"
  tr_synchronicity_collective_reasoning_delayed:1 "ドローン集団の行動を同期させることで、 惑星のインフラを効率的に使用できるようになった！ "
@@ -463,6 +465,8 @@
  tr_discovery_faith_in_science_hive_desc:1 "§Y20§!£pop£ POPごとに惑星上で£job_brain_drone£ §Y$job_brain_drone$職業枠§!が§Y1§!増加する。 "
  tr_discovery_faith_in_science_hive_delayed:0 "シナプス送信機を戦略的に応用することで、 ハイブの意志を軌道上から惑星全体にばらまくことができる。 "
  tr_discovery_finish:0 "発見の伝統の完了"
+ tr_discovery_federations_finish:0 "$tr_discovery_finish$"
+ tr_discovery_federations_finish_desc:0 "$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$：§G+10%§!\n連邦種別§Y$research_federation$§!が利用可能になる。 \nアセンションパークをアンロック：§G+1§!"
  ################################################################
  # PROSPERITY
  ################################################################
@@ -528,6 +532,8 @@
  tradition_mercantile_desc:0 "企業家の繁栄が、 [This.GetAdj]の繁栄への道を切り開く。 "
  tr_mercantile_adopt:0 "商業の伝統"
  tr_mercantile_finish:0 "商業の伝統の完成"
+ tr_mercantile_federations_finish:0 "$tr_mercantile_finish$"
+ tr_mercantile_federations_finish_desc:0 "$MOD_TRADE_VALUE_MULT$：§G+10%§!\n連邦種別§Y$trade_federation$§!が利用可能になる。 \nアセンションパークをアンロック：§G+1§!"
  tr_mercantile_marketplace_of_better_ideas:0 "より良い発想の市場"
  tr_mercantile_marketplace_of_better_ideas_delayed:0 "最高の発想は、 市場に晒されることで生まれる。 露出が多ければ多いほど、 良い発想が生まれるのだ！ "
  tr_mercantile_insider_trading:0 "関係者取引"
@@ -579,6 +585,8 @@
  tr_unyielding_adopt:0 "不屈の伝統"
  tr_unyielding_finish:0 "不屈の伝統の完成"
  #tr_unyielding_finish_desc: "§M(未実装)§!\nアセンションパークをアンロック：§G+1§!"
+ tr_unyielding_federations_finish:0 "$tr_unyielding_finish$"
+ tr_unyielding_federations_finish_desc:0 "$MOD_STARBASE_DEFENSE_PLATFORM_CAPACITY_MULT$§G+50%§!\n$mod_starbases_upkeep_mult$§G-20%§!\n連邦種別§Y$military_federation$§!が利用可能になる。 \nアセンションパークをアンロック：§G+1§!"
  tr_unyielding_resistance_is_frugal:0 "抵抗は経済的"
  tr_unyielding_resistance_is_frugal_desc:0 "建造物 £building£ §Y$building_stronghold$§!が £unity£ 統合力を§Y3§!提供し、 §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§!が§G+25%§!上昇する。 "
  tr_unyielding_resistance_is_frugal_hive:0 "$tr_unyielding_resistance_is_frugal$"
@@ -738,4 +746,5 @@
  ap_galactic_wonders_megacorp_desc:0 "$ap_galactic_wonders_desc$"
  ap_galactic_wonders_utopia_and_megacorp:2 "$ap_galactic_wonders$"
  ap_galactic_wonders_utopia_and_megacorp_desc:1 "$ap_galactic_wonders_desc$"
+ ap_technological_ascendancy_rare:2 "§M希少なテクノロジー§!が通常の§Y1.5§!倍出現しやすくなる。 これはたとえば§Y1%§!の確率を§Y1.5%§!に変える効果がある。 "
  ap_technological_ascendancy_rare:2 "§M希少なテクノロジー§!が通常の§Y1.5§!倍出現しやすくなる。 これはたとえば§Y1%§!の確率を§Y1.5%§!に変える効果がある。 "
